@@ -1,0 +1,2501 @@
+opportunity_id,customer_id,product_name,deal_value_usd,stage,sales_rep,close_date
+O00001,C0269,Market Intelligence,144052,Closed Won,Alice,2026-05-26
+O00002,C0460,Commodity Insights,182862,Negotiation,Emma,2026-11-02
+O00003,C0100,ESG Analytics,172096,Negotiation,David,2026-10-21
+O00004,C0879,Commodity Insights,92809,Negotiation,Carol,2026-02-09
+O00005,C0671,ESG Analytics,107538,Closed Won,Bob,2026-12-22
+O00006,C0603,Market Intelligence,141302,Negotiation,Bob,2026-06-18
+O00007,C0011,ESG Analytics,7221,Prospecting,Alice,2026-07-04
+O00008,C0538,Market Intelligence,184699,Closed Won,Carol,2026-04-24
+O00009,C0291,Commodity Insights,55614,Prospecting,Alice,2026-10-03
+O00010,C0059,ESG Analytics,177125,Proposal,Emma,2026-11-04
+O00011,C0726,Market Intelligence,27645,Closed Lost,Bob,2026-07-22
+O00012,C0783,ESG Analytics,153391,Proposal,Alice,2026-12-06
+O00013,C0260,Commodity Insights,127409,Prospecting,David,2026-05-25
+O00014,C0438,ESG Analytics,241818,Negotiation,Carol,2026-03-25
+O00015,C0076,Commodity Insights,208713,Prospecting,David,2026-07-11
+O00016,C0062,Commodity Insights,218070,Negotiation,Bob,2026-08-03
+O00017,C0504,Market Intelligence,164986,Closed Won,Bob,2026-11-16
+O00018,C0112,Market Intelligence,146723,Closed Won,Bob,2026-10-21
+O00019,C0109,Commodity Insights,192537,Negotiation,Alice,2026-01-03
+O00020,C0073,ESG Analytics,195721,Negotiation,David,2026-01-16
+O00021,C0153,ESG Analytics,172860,Prospecting,Alice,2026-11-13
+O00022,C0273,Market Intelligence,188515,Negotiation,David,2026-10-01
+O00023,C0528,ESG Analytics,207110,Closed Won,David,2026-07-13
+O00024,C0865,ESG Analytics,209717,Prospecting,Emma,2026-04-01
+O00025,C0394,ESG Analytics,219427,Closed Won,Alice,2026-10-18
+O00026,C0958,Commodity Insights,92409,Negotiation,David,2026-01-21
+O00027,C0982,ESG Analytics,28767,Negotiation,Emma,2026-06-03
+O00028,C0862,Commodity Insights,204348,Negotiation,Bob,2026-03-18
+O00029,C0041,Commodity Insights,178207,Proposal,Carol,2026-12-13
+O00030,C0918,Market Intelligence,170312,Negotiation,David,2026-02-21
+O00031,C0449,ESG Analytics,54666,Proposal,Alice,2026-04-01
+O00032,C0738,ESG Analytics,67517,Closed Won,David,2026-02-26
+O00033,C0554,ESG Analytics,85669,Closed Won,Emma,2026-08-01
+O00034,C0038,Commodity Insights,19694,Negotiation,Alice,2026-07-04
+O00035,C0217,ESG Analytics,179932,Closed Lost,David,2026-11-28
+O00036,C0896,ESG Analytics,44047,Closed Lost,Bob,2026-02-02
+O00037,C0754,Market Intelligence,133160,Prospecting,David,2026-10-02
+O00038,C0249,ESG Analytics,175075,Proposal,Alice,2026-03-21
+O00039,C0052,Commodity Insights,220151,Prospecting,David,2026-10-06
+O00040,C0856,ESG Analytics,21766,Prospecting,Alice,2026-08-20
+O00041,C0819,ESG Analytics,62821,Prospecting,Bob,2026-07-11
+O00042,C0831,ESG Analytics,182837,Closed Won,Carol,2026-02-22
+O00043,C0590,ESG Analytics,41000,Negotiation,Bob,2026-01-19
+O00044,C0178,Commodity Insights,21573,Prospecting,Carol,2026-03-25
+O00045,C0426,Market Intelligence,187529,Negotiation,Emma,2026-03-15
+O00046,C0250,ESG Analytics,15668,Proposal,Alice,2026-11-20
+O00047,C0386,Market Intelligence,9097,Closed Won,Alice,2026-01-01
+O00048,C0184,Market Intelligence,190267,Closed Lost,Carol,2026-07-23
+O00049,C0827,Commodity Insights,186497,Proposal,Bob,2026-03-21
+O00050,C0278,ESG Analytics,123074,Closed Won,Bob,2026-03-20
+O00051,C0709,Market Intelligence,161309,Proposal,David,2026-10-03
+O00052,C0643,Commodity Insights,96187,Closed Won,Alice,2026-09-08
+O00053,C0197,Market Intelligence,143988,Prospecting,Emma,2026-06-28
+O00054,C0780,ESG Analytics,138048,Proposal,David,2026-11-22
+O00055,C0214,Commodity Insights,18911,Proposal,Alice,2026-03-22
+O00056,C0865,Commodity Insights,135420,Proposal,Bob,2026-11-02
+O00057,C0056,ESG Analytics,100471,Negotiation,Bob,2026-07-09
+O00058,C0343,ESG Analytics,216066,Closed Won,Alice,2026-02-24
+O00059,C0054,ESG Analytics,51107,Proposal,Alice,2026-08-17
+O00060,C0119,Market Intelligence,239639,Proposal,David,2026-10-19
+O00061,C0334,Commodity Insights,57101,Negotiation,Bob,2026-02-11
+O00062,C0234,Market Intelligence,67159,Closed Won,Bob,2026-07-08
+O00063,C0076,Commodity Insights,158378,Closed Won,Alice,2026-07-05
+O00064,C0222,ESG Analytics,124273,Proposal,David,2026-06-05
+O00065,C0469,ESG Analytics,55896,Negotiation,Carol,2026-04-11
+O00066,C0131,Market Intelligence,186458,Closed Lost,Alice,2026-05-05
+O00067,C0114,Commodity Insights,125213,Closed Won,Bob,2026-06-08
+O00068,C0908,Commodity Insights,163239,Proposal,Emma,2026-03-19
+O00069,C0994,ESG Analytics,229134,Proposal,Alice,2026-07-28
+O00070,C0535,Commodity Insights,231020,Proposal,Emma,2026-08-27
+O00071,C0474,Commodity Insights,8802,Closed Won,Bob,2026-04-11
+O00072,C0445,ESG Analytics,63302,Closed Lost,Bob,2026-10-01
+O00073,C0428,Market Intelligence,15501,Closed Won,Emma,2026-01-14
+O00074,C0544,Commodity Insights,130637,Prospecting,David,2026-08-08
+O00075,C0086,ESG Analytics,202415,Prospecting,David,2026-04-05
+O00076,C0368,Commodity Insights,67668,Prospecting,Alice,2026-08-22
+O00077,C0313,Market Intelligence,189367,Closed Won,Emma,2026-12-19
+O00078,C0025,Commodity Insights,126572,Proposal,David,2026-03-26
+O00079,C0893,Commodity Insights,169314,Closed Won,Alice,2026-11-03
+O00080,C0395,ESG Analytics,92269,Closed Lost,Alice,2026-05-14
+O00081,C0771,Commodity Insights,187990,Closed Lost,Emma,2026-10-26
+O00082,C0213,ESG Analytics,26222,Closed Lost,Carol,2026-12-02
+O00083,C0528,ESG Analytics,100417,Prospecting,Alice,2026-07-12
+O00084,C0477,ESG Analytics,15714,Negotiation,Carol,2026-03-21
+O00085,C0573,ESG Analytics,22565,Closed Lost,Bob,2026-03-11
+O00086,C0245,ESG Analytics,34768,Closed Won,Emma,2026-12-07
+O00087,C0772,ESG Analytics,204461,Proposal,Carol,2026-06-09
+O00088,C0516,ESG Analytics,115868,Negotiation,Alice,2026-02-12
+O00089,C0354,Commodity Insights,132461,Closed Lost,Emma,2026-02-16
+O00090,C0727,ESG Analytics,182814,Closed Lost,Carol,2026-08-20
+O00091,C0377,ESG Analytics,186724,Prospecting,Bob,2026-08-03
+O00092,C0083,Commodity Insights,240391,Proposal,Carol,2026-02-04
+O00093,C0169,Commodity Insights,34366,Proposal,David,2026-03-28
+O00094,C0210,ESG Analytics,169436,Prospecting,Carol,2026-07-22
+O00095,C0555,Market Intelligence,129231,Negotiation,David,2026-08-24
+O00096,C0661,Market Intelligence,81419,Proposal,Alice,2026-01-28
+O00097,C0822,Market Intelligence,223876,Closed Lost,Carol,2026-07-19
+O00098,C0352,ESG Analytics,174358,Negotiation,David,2026-10-22
+O00099,C0714,ESG Analytics,225701,Closed Lost,David,2026-08-10
+O00100,C0581,Market Intelligence,240479,Negotiation,Bob,2026-05-08
+O00101,C0496,Commodity Insights,80535,Prospecting,Bob,2026-06-10
+O00102,C0467,Market Intelligence,167170,Proposal,Emma,2026-05-06
+O00103,C0997,Market Intelligence,225025,Proposal,Bob,2026-04-04
+O00104,C0043,Commodity Insights,155608,Proposal,David,2026-05-12
+O00105,C0189,Market Intelligence,152452,Prospecting,Carol,2026-06-05
+O00106,C0382,Commodity Insights,146522,Proposal,Emma,2026-05-04
+O00107,C0943,Market Intelligence,111053,Closed Won,Bob,2026-08-11
+O00108,C0160,Market Intelligence,198592,Closed Lost,Emma,2026-06-21
+O00109,C0723,Commodity Insights,129232,Negotiation,Emma,2026-11-05
+O00110,C0819,ESG Analytics,195983,Closed Won,Carol,2026-12-04
+O00111,C0750,Commodity Insights,240975,Prospecting,Bob,2026-11-18
+O00112,C0120,Commodity Insights,11500,Closed Won,Emma,2026-04-15
+O00113,C0366,Market Intelligence,90555,Prospecting,Emma,2026-11-07
+O00114,C0598,ESG Analytics,63233,Negotiation,Bob,2026-01-03
+O00115,C0552,Commodity Insights,182488,Prospecting,Emma,2026-07-07
+O00116,C0503,Commodity Insights,163117,Closed Lost,Emma,2026-01-22
+O00117,C0370,Commodity Insights,43783,Closed Won,Carol,2026-07-12
+O00118,C0013,Commodity Insights,95418,Negotiation,Carol,2026-08-28
+O00119,C0575,Market Intelligence,61543,Closed Won,David,2026-08-10
+O00120,C0168,ESG Analytics,240332,Closed Won,David,2026-03-27
+O00121,C0602,ESG Analytics,27564,Proposal,Bob,2026-05-16
+O00122,C0889,ESG Analytics,92927,Prospecting,Emma,2026-07-03
+O00123,C0007,Commodity Insights,172459,Negotiation,David,2026-03-18
+O00124,C0474,ESG Analytics,153875,Proposal,Bob,2026-03-27
+O00125,C0391,Commodity Insights,150192,Closed Won,Alice,2026-05-27
+O00126,C0600,Commodity Insights,134525,Closed Lost,David,2026-04-01
+O00127,C0811,Market Intelligence,45376,Negotiation,Carol,2026-11-27
+O00128,C0652,Commodity Insights,37552,Negotiation,David,2026-03-16
+O00129,C0929,ESG Analytics,174026,Proposal,Alice,2026-02-25
+O00130,C0284,Commodity Insights,22491,Closed Lost,Carol,2026-10-16
+O00131,C0580,Commodity Insights,232631,Negotiation,David,2026-12-27
+O00132,C0123,Commodity Insights,139355,Closed Lost,Alice,2026-05-06
+O00133,C0596,Market Intelligence,43308,Negotiation,David,2026-12-05
+O00134,C0366,Market Intelligence,18864,Negotiation,Carol,2026-07-21
+O00135,C0934,Commodity Insights,17770,Negotiation,Carol,2026-09-21
+O00136,C0959,Market Intelligence,139707,Proposal,Bob,2026-02-20
+O00137,C0771,Market Intelligence,147530,Negotiation,Carol,2026-11-26
+O00138,C0309,Commodity Insights,184684,Negotiation,Alice,2026-09-19
+O00139,C0361,Market Intelligence,8381,Proposal,Emma,2026-05-12
+O00140,C0798,Commodity Insights,113001,Negotiation,Bob,2026-02-07
+O00141,C0159,ESG Analytics,62963,Proposal,Emma,2026-10-23
+O00142,C0852,ESG Analytics,226792,Closed Lost,Emma,2026-12-25
+O00143,C0822,Market Intelligence,114404,Closed Won,Alice,2026-02-27
+O00144,C0135,Market Intelligence,130702,Negotiation,Carol,2026-12-12
+O00145,C0143,Commodity Insights,238236,Closed Lost,Emma,2026-06-06
+O00146,C0727,Commodity Insights,12539,Prospecting,Bob,2026-03-28
+O00147,C0711,Market Intelligence,185367,Proposal,Carol,2026-03-07
+O00148,C0134,Market Intelligence,116360,Prospecting,Alice,2026-01-25
+O00149,C0496,Commodity Insights,16145,Proposal,Alice,2026-01-26
+O00150,C0676,ESG Analytics,160497,Prospecting,David,2026-02-09
+O00151,C0045,Market Intelligence,84074,Prospecting,Alice,2026-02-20
+O00152,C0211,ESG Analytics,241237,Proposal,Bob,2026-11-12
+O00153,C0030,Market Intelligence,43156,Negotiation,Emma,2026-06-12
+O00154,C0165,ESG Analytics,209682,Closed Lost,Bob,2026-09-19
+O00155,C0070,Market Intelligence,219849,Closed Lost,Alice,2026-09-07
+O00156,C0733,Market Intelligence,78887,Proposal,Emma,2026-01-24
+O00157,C0102,Market Intelligence,246297,Closed Lost,David,2026-06-23
+O00158,C0604,Market Intelligence,120255,Prospecting,Bob,2026-06-13
+O00159,C0435,Market Intelligence,139807,Proposal,David,2026-02-25
+O00160,C0322,Market Intelligence,127133,Prospecting,Emma,2026-03-16
+O00161,C0781,Commodity Insights,189740,Negotiation,Emma,2026-12-02
+O00162,C0085,Commodity Insights,134423,Prospecting,David,2026-05-15
+O00163,C0615,ESG Analytics,86790,Closed Won,Bob,2026-09-14
+O00164,C0298,Commodity Insights,54488,Prospecting,David,2026-11-12
+O00165,C0184,Market Intelligence,181726,Closed Won,Alice,2026-07-15
+O00166,C0536,ESG Analytics,182345,Prospecting,Alice,2026-03-13
+O00167,C0411,ESG Analytics,159811,Prospecting,Bob,2026-02-12
+O00168,C0999,Market Intelligence,93770,Proposal,Emma,2026-07-04
+O00169,C0239,Commodity Insights,195106,Closed Won,Carol,2026-12-25
+O00170,C0596,ESG Analytics,76558,Closed Won,Carol,2026-08-22
+O00171,C0618,Commodity Insights,132017,Closed Lost,Carol,2026-03-25
+O00172,C0466,Market Intelligence,37031,Negotiation,David,2026-08-08
+O00173,C0644,Market Intelligence,12791,Prospecting,Alice,2026-02-16
+O00174,C0695,Market Intelligence,51948,Closed Won,Emma,2026-11-11
+O00175,C0157,Commodity Insights,168044,Closed Lost,Alice,2026-02-22
+O00176,C0770,ESG Analytics,206214,Closed Won,David,2026-04-10
+O00177,C0678,Commodity Insights,133516,Closed Lost,Carol,2026-09-11
+O00178,C0829,ESG Analytics,148293,Prospecting,Alice,2026-07-04
+O00179,C0393,Commodity Insights,87459,Closed Won,David,2026-08-02
+O00180,C0034,Market Intelligence,150926,Negotiation,Bob,2026-08-14
+O00181,C0138,Commodity Insights,192622,Closed Won,David,2026-02-19
+O00182,C0692,Commodity Insights,178035,Closed Lost,Emma,2026-10-16
+O00183,C0488,ESG Analytics,228963,Proposal,Emma,2026-01-13
+O00184,C0270,Commodity Insights,159938,Closed Won,Emma,2026-11-12
+O00185,C0785,Commodity Insights,89012,Prospecting,Alice,2026-10-02
+O00186,C0132,Commodity Insights,96455,Closed Lost,Alice,2026-11-11
+O00187,C0390,Market Intelligence,117236,Negotiation,Carol,2026-07-12
+O00188,C0058,ESG Analytics,69023,Proposal,Bob,2026-11-10
+O00189,C0607,Market Intelligence,243653,Prospecting,Carol,2026-02-11
+O00190,C0174,Market Intelligence,146142,Negotiation,Alice,2026-08-22
+O00191,C0885,Commodity Insights,153910,Closed Lost,David,2026-05-01
+O00192,C0713,Commodity Insights,159137,Prospecting,Carol,2026-07-19
+O00193,C0400,Commodity Insights,155087,Prospecting,David,2026-02-23
+O00194,C0692,Market Intelligence,93071,Closed Won,Emma,2026-11-11
+O00195,C0171,ESG Analytics,83517,Negotiation,David,2026-04-16
+O00196,C0651,Market Intelligence,225300,Closed Lost,Bob,2026-05-09
+O00197,C0049,Commodity Insights,155345,Closed Won,Bob,2026-10-24
+O00198,C0981,Market Intelligence,193142,Closed Lost,Alice,2026-10-11
+O00199,C0280,Market Intelligence,153485,Closed Lost,David,2026-07-07
+O00200,C0356,Market Intelligence,175796,Negotiation,Emma,2026-05-14
+O00201,C0680,ESG Analytics,87143,Proposal,David,2026-07-09
+O00202,C0640,ESG Analytics,123811,Closed Lost,Bob,2026-01-21
+O00203,C0721,ESG Analytics,231154,Proposal,Emma,2026-08-07
+O00204,C0677,ESG Analytics,127498,Negotiation,Emma,2026-10-28
+O00205,C0788,Commodity Insights,153404,Prospecting,Emma,2026-04-12
+O00206,C0474,Market Intelligence,68012,Proposal,Carol,2026-07-14
+O00207,C0327,Market Intelligence,171180,Proposal,David,2026-05-27
+O00208,C0294,ESG Analytics,47096,Negotiation,Emma,2026-04-13
+O00209,C0245,Market Intelligence,44311,Proposal,Alice,2026-04-26
+O00210,C0848,Commodity Insights,126676,Closed Won,Emma,2026-07-14
+O00211,C0663,Market Intelligence,57950,Proposal,Carol,2026-03-01
+O00212,C0265,Commodity Insights,177666,Closed Lost,Bob,2026-11-28
+O00213,C0044,ESG Analytics,132360,Prospecting,Alice,2026-02-11
+O00214,C0617,Commodity Insights,232323,Prospecting,David,2026-06-22
+O00215,C0674,Market Intelligence,109043,Proposal,Bob,2026-02-19
+O00216,C0753,ESG Analytics,249563,Prospecting,Emma,2026-11-27
+O00217,C0595,ESG Analytics,71009,Closed Won,Alice,2026-04-20
+O00218,C0126,Commodity Insights,91320,Closed Lost,David,2026-12-24
+O00219,C0242,Commodity Insights,62149,Proposal,Alice,2026-03-07
+O00220,C0994,Commodity Insights,120205,Closed Won,Carol,2026-10-02
+O00221,C0503,ESG Analytics,103226,Prospecting,Carol,2026-09-14
+O00222,C0487,ESG Analytics,69578,Negotiation,Bob,2026-06-16
+O00223,C0733,Commodity Insights,220316,Negotiation,Alice,2026-11-20
+O00224,C0036,ESG Analytics,178597,Prospecting,Bob,2026-05-18
+O00225,C0394,Commodity Insights,172496,Negotiation,Alice,2026-09-28
+O00226,C0243,Commodity Insights,106835,Prospecting,David,2026-05-10
+O00227,C0093,Market Intelligence,82967,Proposal,Bob,2026-08-21
+O00228,C0325,ESG Analytics,111506,Prospecting,Carol,2026-02-27
+O00229,C0799,Commodity Insights,128493,Closed Won,Carol,2026-12-14
+O00230,C0898,Market Intelligence,221111,Proposal,Carol,2026-09-03
+O00231,C0361,Commodity Insights,162841,Closed Lost,Carol,2026-08-23
+O00232,C0029,Market Intelligence,173132,Proposal,David,2026-11-05
+O00233,C0004,Commodity Insights,57448,Negotiation,Carol,2026-10-03
+O00234,C0114,Market Intelligence,70432,Closed Lost,Bob,2026-10-22
+O00235,C0421,Commodity Insights,123355,Closed Won,Bob,2026-05-06
+O00236,C0704,ESG Analytics,221732,Negotiation,Carol,2026-04-03
+O00237,C0425,Commodity Insights,52681,Closed Won,David,2026-10-08
+O00238,C0022,Market Intelligence,246988,Closed Lost,Emma,2026-11-08
+O00239,C0929,Market Intelligence,126221,Proposal,Carol,2026-12-28
+O00240,C0173,Market Intelligence,110128,Closed Lost,David,2026-10-09
+O00241,C0153,Market Intelligence,101448,Proposal,Emma,2026-02-01
+O00242,C0736,ESG Analytics,119074,Closed Won,David,2026-02-08
+O00243,C0731,Market Intelligence,54950,Negotiation,Carol,2026-12-16
+O00244,C0392,Market Intelligence,118064,Proposal,Emma,2026-04-27
+O00245,C0290,ESG Analytics,182520,Proposal,David,2026-03-14
+O00246,C0812,Market Intelligence,12542,Negotiation,Carol,2026-04-20
+O00247,C0462,Market Intelligence,101898,Closed Lost,David,2026-02-01
+O00248,C0481,Market Intelligence,233443,Negotiation,David,2026-11-07
+O00249,C0731,Commodity Insights,190716,Closed Won,Emma,2026-05-03
+O00250,C0098,ESG Analytics,20401,Prospecting,Carol,2026-04-16
+O00251,C0931,Commodity Insights,163957,Closed Lost,Alice,2026-01-09
+O00252,C0517,ESG Analytics,104860,Negotiation,David,2026-11-12
+O00253,C0136,ESG Analytics,15780,Closed Lost,Bob,2026-05-06
+O00254,C0516,Commodity Insights,248879,Negotiation,David,2026-03-03
+O00255,C0325,ESG Analytics,144047,Closed Won,Bob,2026-05-04
+O00256,C0321,Market Intelligence,38520,Closed Won,Carol,2026-12-12
+O00257,C0949,Commodity Insights,79167,Negotiation,Emma,2026-05-17
+O00258,C0321,Commodity Insights,239008,Proposal,Carol,2026-12-16
+O00259,C0783,Market Intelligence,150666,Closed Won,Alice,2026-04-05
+O00260,C0056,Market Intelligence,53009,Prospecting,David,2026-05-06
+O00261,C0723,Commodity Insights,119407,Prospecting,David,2026-01-15
+O00262,C0366,ESG Analytics,152024,Closed Won,David,2026-08-04
+O00263,C0867,ESG Analytics,232247,Proposal,Alice,2026-06-03
+O00264,C0209,Commodity Insights,52357,Proposal,Emma,2026-05-19
+O00265,C0913,ESG Analytics,158531,Proposal,Emma,2026-01-17
+O00266,C0786,ESG Analytics,52335,Closed Won,Alice,2026-04-25
+O00267,C0511,ESG Analytics,29721,Negotiation,Alice,2026-05-22
+O00268,C0697,Market Intelligence,108329,Negotiation,Emma,2026-02-27
+O00269,C0332,Market Intelligence,12569,Prospecting,David,2026-12-22
+O00270,C0492,Commodity Insights,169719,Negotiation,Emma,2026-11-01
+O00271,C0338,Market Intelligence,177011,Closed Lost,David,2026-06-24
+O00272,C0752,ESG Analytics,38900,Proposal,Alice,2026-11-10
+O00273,C0331,Market Intelligence,199982,Prospecting,Emma,2026-10-13
+O00274,C0095,Commodity Insights,71889,Proposal,Bob,2026-07-03
+O00275,C0022,Market Intelligence,47713,Closed Won,David,2026-05-21
+O00276,C0771,ESG Analytics,45405,Prospecting,Carol,2026-08-26
+O00277,C0443,ESG Analytics,216380,Negotiation,Emma,2026-03-12
+O00278,C0682,Market Intelligence,223117,Negotiation,Emma,2026-04-16
+O00279,C0457,Commodity Insights,129895,Negotiation,Emma,2026-10-14
+O00280,C0093,Commodity Insights,217597,Negotiation,Emma,2026-03-14
+O00281,C0646,Commodity Insights,29365,Prospecting,Emma,2026-06-15
+O00282,C0693,Market Intelligence,174767,Proposal,David,2026-09-21
+O00283,C0663,ESG Analytics,27012,Negotiation,David,2026-07-03
+O00284,C0929,Commodity Insights,83746,Proposal,Bob,2026-11-10
+O00285,C0862,Market Intelligence,142125,Closed Won,Carol,2026-10-02
+O00286,C0565,Market Intelligence,245465,Prospecting,Emma,2026-02-17
+O00287,C0436,Commodity Insights,29768,Closed Won,Emma,2026-05-12
+O00288,C0261,ESG Analytics,26435,Closed Lost,Alice,2026-02-24
+O00289,C0678,Commodity Insights,52068,Proposal,David,2026-01-03
+O00290,C0427,ESG Analytics,83026,Negotiation,Emma,2026-12-15
+O00291,C0776,ESG Analytics,122951,Closed Lost,Carol,2026-06-28
+O00292,C0830,Market Intelligence,60330,Proposal,Alice,2026-12-20
+O00293,C0266,ESG Analytics,32873,Closed Won,Emma,2026-01-01
+O00294,C0405,Market Intelligence,8487,Proposal,David,2026-08-23
+O00295,C0415,ESG Analytics,200099,Closed Lost,David,2026-05-20
+O00296,C0833,ESG Analytics,99562,Closed Won,Carol,2026-02-05
+O00297,C0139,Market Intelligence,55017,Prospecting,Alice,2026-12-07
+O00298,C0880,Market Intelligence,59848,Closed Won,Bob,2026-11-08
+O00299,C0447,ESG Analytics,229969,Closed Lost,Bob,2026-02-10
+O00300,C0789,Commodity Insights,43840,Closed Won,David,2026-01-04
+O00301,C0171,Market Intelligence,198667,Closed Won,David,2026-08-01
+O00302,C0881,Commodity Insights,158413,Proposal,Bob,2026-05-19
+O00303,C0850,Commodity Insights,18348,Negotiation,Alice,2026-02-21
+O00304,C0868,ESG Analytics,118190,Closed Won,David,2026-12-19
+O00305,C0611,ESG Analytics,150307,Negotiation,Alice,2026-08-13
+O00306,C0498,ESG Analytics,159937,Closed Lost,David,2026-04-23
+O00307,C0063,ESG Analytics,9985,Closed Won,Emma,2026-06-18
+O00308,C0066,Commodity Insights,239062,Closed Won,David,2026-02-16
+O00309,C0638,ESG Analytics,95902,Closed Won,David,2026-01-06
+O00310,C0295,ESG Analytics,55384,Closed Won,Carol,2026-08-08
+O00311,C0520,Market Intelligence,159051,Negotiation,Emma,2026-12-22
+O00312,C0480,Market Intelligence,236518,Negotiation,David,2026-07-27
+O00313,C0964,ESG Analytics,176049,Negotiation,David,2026-03-20
+O00314,C0213,Commodity Insights,186062,Prospecting,David,2026-03-06
+O00315,C0205,Market Intelligence,163793,Closed Won,Alice,2026-07-16
+O00316,C0311,Market Intelligence,59901,Closed Lost,Alice,2026-01-12
+O00317,C0903,Commodity Insights,98596,Proposal,Bob,2026-09-02
+O00318,C0827,Market Intelligence,93535,Closed Won,Alice,2026-10-08
+O00319,C0124,ESG Analytics,63745,Closed Won,Carol,2026-06-26
+O00320,C0364,Market Intelligence,206875,Closed Lost,Carol,2026-03-28
+O00321,C0707,ESG Analytics,163410,Prospecting,Alice,2026-08-26
+O00322,C0469,Market Intelligence,32758,Closed Lost,Emma,2026-02-27
+O00323,C0576,Market Intelligence,137987,Prospecting,Bob,2026-11-04
+O00324,C0892,Market Intelligence,243809,Negotiation,Bob,2026-12-10
+O00325,C0726,Commodity Insights,204744,Closed Lost,David,2026-12-28
+O00326,C0102,Market Intelligence,174631,Negotiation,Carol,2026-03-04
+O00327,C0869,Market Intelligence,120109,Closed Won,Alice,2026-04-27
+O00328,C0829,Commodity Insights,94475,Negotiation,Emma,2026-03-03
+O00329,C0273,Commodity Insights,192485,Closed Won,Carol,2026-11-22
+O00330,C0252,Market Intelligence,202448,Closed Lost,David,2026-04-05
+O00331,C0822,Commodity Insights,113372,Closed Won,David,2026-09-26
+O00332,C0699,Commodity Insights,12802,Closed Won,Bob,2026-01-23
+O00333,C0826,ESG Analytics,23240,Prospecting,Carol,2026-06-13
+O00334,C0791,Market Intelligence,118789,Prospecting,David,2026-01-22
+O00335,C0945,ESG Analytics,44571,Closed Lost,Alice,2026-11-23
+O00336,C0819,ESG Analytics,234589,Closed Lost,Carol,2026-07-13
+O00337,C0908,ESG Analytics,188707,Closed Lost,Carol,2026-12-24
+O00338,C0322,Commodity Insights,7071,Negotiation,Emma,2026-10-05
+O00339,C0718,Commodity Insights,121965,Proposal,Emma,2026-10-26
+O00340,C0634,ESG Analytics,120905,Negotiation,David,2026-04-10
+O00341,C0087,Market Intelligence,145884,Negotiation,David,2026-12-24
+O00342,C0758,Market Intelligence,141438,Closed Lost,Carol,2026-04-03
+O00343,C0524,ESG Analytics,86855,Closed Lost,Carol,2026-11-06
+O00344,C0024,Market Intelligence,238391,Closed Lost,Emma,2026-05-08
+O00345,C0853,Commodity Insights,195450,Closed Won,Emma,2026-02-24
+O00346,C0062,Commodity Insights,73093,Closed Lost,Carol,2026-02-02
+O00347,C0775,ESG Analytics,37702,Closed Won,Carol,2026-10-24
+O00348,C0006,Commodity Insights,93861,Proposal,Emma,2026-10-23
+O00349,C0916,ESG Analytics,179462,Closed Lost,Emma,2026-04-12
+O00350,C0307,Commodity Insights,179829,Closed Lost,Bob,2026-12-13
+O00351,C0533,ESG Analytics,69915,Prospecting,Carol,2026-09-19
+O00352,C0198,Commodity Insights,124094,Prospecting,Bob,2026-12-14
+O00353,C0849,Commodity Insights,26481,Prospecting,Alice,2026-07-05
+O00354,C0488,Market Intelligence,121959,Prospecting,Carol,2026-11-17
+O00355,C0413,ESG Analytics,151530,Closed Lost,David,2026-05-19
+O00356,C0511,ESG Analytics,115997,Closed Won,David,2026-12-14
+O00357,C0844,Market Intelligence,42839,Closed Lost,Bob,2026-08-23
+O00358,C0469,Market Intelligence,189686,Closed Lost,Emma,2026-02-23
+O00359,C0218,Commodity Insights,129087,Prospecting,Bob,2026-09-12
+O00360,C0944,Market Intelligence,162705,Closed Won,Alice,2026-02-12
+O00361,C0586,Commodity Insights,15559,Closed Lost,Bob,2026-02-12
+O00362,C0313,Commodity Insights,84497,Negotiation,David,2026-01-26
+O00363,C0147,Market Intelligence,210466,Closed Lost,David,2026-01-10
+O00364,C0911,Commodity Insights,61513,Proposal,David,2026-01-04
+O00365,C0561,Commodity Insights,22711,Prospecting,David,2026-08-19
+O00366,C0318,ESG Analytics,123587,Negotiation,David,2026-08-27
+O00367,C0738,ESG Analytics,39815,Proposal,Emma,2026-11-15
+O00368,C0780,Commodity Insights,179907,Closed Won,Bob,2026-12-11
+O00369,C0092,ESG Analytics,179195,Closed Lost,David,2026-07-08
+O00370,C0922,Commodity Insights,93866,Closed Lost,Alice,2026-11-15
+O00371,C0754,Commodity Insights,174323,Prospecting,Bob,2026-12-01
+O00372,C0586,ESG Analytics,213708,Negotiation,Emma,2026-11-04
+O00373,C0660,ESG Analytics,27322,Proposal,Emma,2026-09-19
+O00374,C0776,Market Intelligence,154486,Closed Lost,Bob,2026-08-17
+O00375,C0919,Market Intelligence,36531,Closed Lost,Bob,2026-01-09
+O00376,C0806,Market Intelligence,69300,Closed Lost,David,2026-02-26
+O00377,C0547,ESG Analytics,88999,Closed Won,Emma,2026-01-16
+O00378,C0883,Market Intelligence,94117,Closed Won,Bob,2026-07-01
+O00379,C0881,ESG Analytics,88199,Closed Won,Carol,2026-02-04
+O00380,C0102,ESG Analytics,49081,Negotiation,Bob,2026-03-09
+O00381,C0787,Market Intelligence,45429,Negotiation,David,2026-11-06
+O00382,C0061,ESG Analytics,90273,Proposal,Alice,2026-12-02
+O00383,C0306,Commodity Insights,30885,Negotiation,Bob,2026-07-11
+O00384,C0265,Commodity Insights,221987,Prospecting,Alice,2026-04-08
+O00385,C0771,ESG Analytics,158624,Proposal,David,2026-09-25
+O00386,C0517,Commodity Insights,35167,Negotiation,Alice,2026-06-15
+O00387,C0567,Commodity Insights,22159,Closed Won,Alice,2026-07-21
+O00388,C0240,Market Intelligence,75558,Closed Lost,Emma,2026-11-04
+O00389,C0253,ESG Analytics,175800,Proposal,Carol,2026-10-14
+O00390,C0457,Market Intelligence,226846,Closed Lost,Bob,2026-03-12
+O00391,C0554,Market Intelligence,210002,Proposal,Emma,2026-07-18
+O00392,C0463,Market Intelligence,5262,Closed Won,Emma,2026-05-21
+O00393,C0996,Market Intelligence,5142,Prospecting,David,2026-05-20
+O00394,C0257,ESG Analytics,104654,Negotiation,Bob,2026-10-27
+O00395,C0523,Commodity Insights,16923,Proposal,Emma,2026-10-03
+O00396,C0308,Market Intelligence,108626,Prospecting,Bob,2026-12-18
+O00397,C0287,Commodity Insights,60273,Closed Lost,Emma,2026-06-22
+O00398,C0969,Commodity Insights,171505,Negotiation,David,2026-05-08
+O00399,C0679,Commodity Insights,94556,Proposal,David,2026-10-11
+O00400,C0017,ESG Analytics,40055,Prospecting,Emma,2026-08-01
+O00401,C0924,Market Intelligence,181345,Proposal,David,2026-09-23
+O00402,C0721,Commodity Insights,204875,Closed Won,Emma,2026-02-26
+O00403,C0898,ESG Analytics,175725,Prospecting,Emma,2026-01-27
+O00404,C0836,ESG Analytics,121700,Prospecting,Carol,2026-07-27
+O00405,C0616,Commodity Insights,106384,Proposal,Alice,2026-02-15
+O00406,C0380,Market Intelligence,121543,Prospecting,Bob,2026-12-01
+O00407,C0777,Commodity Insights,183403,Negotiation,Bob,2026-02-27
+O00408,C0629,ESG Analytics,84476,Proposal,Bob,2026-08-12
+O00409,C0038,Commodity Insights,134194,Closed Lost,Bob,2026-01-07
+O00410,C0841,ESG Analytics,108831,Prospecting,Carol,2026-10-17
+O00411,C0506,Market Intelligence,149647,Proposal,Emma,2026-11-22
+O00412,C0618,ESG Analytics,51013,Prospecting,Emma,2026-03-24
+O00413,C0067,Market Intelligence,73058,Closed Lost,Bob,2026-09-24
+O00414,C0802,Commodity Insights,55292,Prospecting,Emma,2026-10-09
+O00415,C0698,ESG Analytics,236499,Closed Won,Alice,2026-07-21
+O00416,C0690,ESG Analytics,18595,Negotiation,David,2026-07-09
+O00417,C0125,ESG Analytics,140867,Closed Won,David,2026-06-17
+O00418,C0778,Market Intelligence,236683,Proposal,Alice,2026-05-14
+O00419,C0546,Commodity Insights,87900,Prospecting,David,2026-04-11
+O00420,C0084,ESG Analytics,216726,Prospecting,Bob,2026-12-14
+O00421,C0981,Market Intelligence,245384,Proposal,Bob,2026-03-11
+O00422,C0319,Market Intelligence,169100,Prospecting,Alice,2026-08-14
+O00423,C0828,Market Intelligence,160328,Negotiation,Carol,2026-04-04
+O00424,C0485,Market Intelligence,94339,Prospecting,Carol,2026-09-26
+O00425,C0243,Market Intelligence,208358,Closed Lost,Emma,2026-08-25
+O00426,C0098,ESG Analytics,122035,Closed Lost,Alice,2026-02-02
+O00427,C0939,Market Intelligence,103931,Negotiation,Alice,2026-03-02
+O00428,C0942,Commodity Insights,19362,Negotiation,Emma,2026-11-14
+O00429,C0068,Market Intelligence,182619,Prospecting,Emma,2026-01-10
+O00430,C0871,Commodity Insights,110298,Prospecting,Emma,2026-07-08
+O00431,C0886,ESG Analytics,211431,Closed Lost,Alice,2026-08-13
+O00432,C0476,Commodity Insights,235670,Closed Lost,Emma,2026-02-11
+O00433,C0667,ESG Analytics,210240,Prospecting,David,2026-09-11
+O00434,C0602,Market Intelligence,33313,Prospecting,Alice,2026-10-23
+O00435,C0070,ESG Analytics,211940,Proposal,Emma,2026-03-21
+O00436,C0522,Commodity Insights,98163,Closed Won,David,2026-12-20
+O00437,C0456,Market Intelligence,68740,Proposal,Alice,2026-01-05
+O00438,C0320,ESG Analytics,119254,Closed Lost,Carol,2026-05-19
+O00439,C0907,ESG Analytics,208291,Proposal,Bob,2026-08-10
+O00440,C0618,Commodity Insights,81300,Negotiation,Alice,2026-09-19
+O00441,C0674,ESG Analytics,42906,Prospecting,Bob,2026-09-27
+O00442,C0856,ESG Analytics,230103,Prospecting,David,2026-06-07
+O00443,C1000,Market Intelligence,172917,Proposal,Alice,2026-06-07
+O00444,C0684,Commodity Insights,187132,Closed Won,Emma,2026-12-11
+O00445,C0873,ESG Analytics,153398,Negotiation,Emma,2026-05-14
+O00446,C0337,Market Intelligence,32485,Closed Won,Alice,2026-08-08
+O00447,C0943,Market Intelligence,172448,Proposal,Bob,2026-08-20
+O00448,C0219,Market Intelligence,131024,Negotiation,David,2026-04-13
+O00449,C0189,Market Intelligence,100110,Prospecting,Alice,2026-06-01
+O00450,C0569,Market Intelligence,42329,Negotiation,David,2026-04-21
+O00451,C0600,Commodity Insights,16509,Prospecting,Bob,2026-04-10
+O00452,C0179,Market Intelligence,237097,Negotiation,Bob,2026-06-28
+O00453,C0568,Market Intelligence,51803,Proposal,Alice,2026-03-27
+O00454,C0269,Market Intelligence,10503,Proposal,David,2026-11-26
+O00455,C0907,Market Intelligence,93705,Proposal,Carol,2026-08-08
+O00456,C0379,Commodity Insights,178253,Proposal,Emma,2026-10-14
+O00457,C0900,ESG Analytics,22138,Prospecting,Bob,2026-03-26
+O00458,C0195,Market Intelligence,144606,Closed Won,Carol,2026-06-20
+O00459,C0440,ESG Analytics,69107,Prospecting,Emma,2026-10-07
+O00460,C0875,ESG Analytics,82118,Proposal,Carol,2026-04-02
+O00461,C0645,Commodity Insights,233812,Proposal,Emma,2026-10-16
+O00462,C0215,ESG Analytics,26340,Closed Won,Emma,2026-02-06
+O00463,C0521,Commodity Insights,201950,Closed Lost,Carol,2026-08-17
+O00464,C0476,Market Intelligence,89364,Negotiation,Emma,2026-12-16
+O00465,C0733,Commodity Insights,129192,Negotiation,Emma,2026-07-21
+O00466,C0944,ESG Analytics,175324,Prospecting,Bob,2026-04-07
+O00467,C0463,Market Intelligence,108782,Proposal,Carol,2026-07-13
+O00468,C0586,Market Intelligence,225838,Negotiation,Carol,2026-09-03
+O00469,C0138,Market Intelligence,82345,Closed Won,Emma,2026-06-08
+O00470,C0598,Market Intelligence,126963,Closed Lost,Emma,2026-06-14
+O00471,C0462,Commodity Insights,118378,Closed Won,Carol,2026-08-11
+O00472,C0280,Commodity Insights,11479,Proposal,David,2026-04-09
+O00473,C0661,Market Intelligence,99134,Prospecting,Carol,2026-09-17
+O00474,C0560,ESG Analytics,25488,Negotiation,Bob,2026-02-04
+O00475,C0074,Commodity Insights,15035,Closed Lost,Bob,2026-06-07
+O00476,C0692,Commodity Insights,70542,Negotiation,Carol,2026-04-23
+O00477,C0619,Market Intelligence,229132,Closed Lost,Carol,2026-01-25
+O00478,C0307,Commodity Insights,220563,Negotiation,David,2026-07-27
+O00479,C0594,ESG Analytics,8117,Closed Won,Emma,2026-03-28
+O00480,C0408,Market Intelligence,64487,Proposal,David,2026-04-17
+O00481,C0602,ESG Analytics,203605,Closed Won,David,2026-06-26
+O00482,C0088,Commodity Insights,226721,Proposal,David,2026-12-14
+O00483,C0215,Commodity Insights,122957,Closed Lost,Alice,2026-06-05
+O00484,C0592,Market Intelligence,85103,Prospecting,David,2026-11-27
+O00485,C0364,Commodity Insights,64111,Closed Won,David,2026-11-25
+O00486,C0414,ESG Analytics,145929,Negotiation,Carol,2026-10-01
+O00487,C0582,Market Intelligence,246734,Proposal,Bob,2026-06-19
+O00488,C0645,ESG Analytics,244534,Closed Lost,Emma,2026-07-13
+O00489,C0210,Commodity Insights,21700,Closed Lost,David,2026-04-16
+O00490,C0112,Commodity Insights,154294,Closed Won,Carol,2026-02-06
+O00491,C0107,ESG Analytics,149941,Proposal,Alice,2026-12-20
+O00492,C0501,Market Intelligence,53940,Proposal,Alice,2026-07-10
+O00493,C0211,Market Intelligence,81311,Closed Lost,Alice,2026-08-02
+O00494,C0378,ESG Analytics,7895,Proposal,Carol,2026-07-13
+O00495,C0161,Market Intelligence,38852,Closed Lost,David,2026-08-24
+O00496,C0071,Commodity Insights,241870,Proposal,Bob,2026-04-10
+O00497,C0443,ESG Analytics,179271,Closed Won,Bob,2026-10-19
+O00498,C0962,Commodity Insights,159007,Proposal,Emma,2026-12-22
+O00499,C0470,Commodity Insights,57875,Prospecting,Bob,2026-08-03
+O00500,C0845,Commodity Insights,163557,Proposal,Emma,2026-06-19
+O00501,C0901,Commodity Insights,125639,Closed Won,Emma,2026-01-24
+O00502,C0094,Commodity Insights,174423,Closed Won,Carol,2026-12-27
+O00503,C0729,Commodity Insights,107521,Closed Lost,Bob,2026-07-08
+O00504,C0184,ESG Analytics,197215,Closed Won,David,2026-07-22
+O00505,C0188,ESG Analytics,154059,Prospecting,David,2026-12-02
+O00506,C0246,Market Intelligence,76768,Closed Lost,Carol,2026-11-03
+O00507,C0715,ESG Analytics,194375,Proposal,David,2026-07-25
+O00508,C0567,Market Intelligence,101660,Prospecting,Alice,2026-09-25
+O00509,C0799,Commodity Insights,112504,Closed Won,Bob,2026-05-07
+O00510,C0519,Market Intelligence,126154,Prospecting,Alice,2026-11-23
+O00511,C0692,ESG Analytics,126085,Closed Won,Carol,2026-12-13
+O00512,C0877,Market Intelligence,108985,Prospecting,Alice,2026-05-04
+O00513,C0727,Market Intelligence,90750,Closed Won,David,2026-08-03
+O00514,C0085,ESG Analytics,177234,Proposal,David,2026-03-16
+O00515,C0841,Commodity Insights,225610,Proposal,Bob,2026-01-20
+O00516,C0103,Market Intelligence,82108,Prospecting,Emma,2026-12-13
+O00517,C0173,Market Intelligence,181001,Prospecting,Carol,2026-03-15
+O00518,C0367,Market Intelligence,61799,Prospecting,Emma,2026-04-15
+O00519,C0714,Market Intelligence,224283,Closed Lost,Alice,2026-07-23
+O00520,C0316,Commodity Insights,18740,Closed Lost,Alice,2026-01-25
+O00521,C0387,Market Intelligence,248484,Proposal,Carol,2026-04-07
+O00522,C0094,Market Intelligence,115541,Prospecting,Alice,2026-06-27
+O00523,C0197,ESG Analytics,180361,Prospecting,Bob,2026-02-26
+O00524,C0856,ESG Analytics,49009,Proposal,Alice,2026-07-17
+O00525,C0111,Commodity Insights,89588,Closed Lost,Bob,2026-10-07
+O00526,C0957,ESG Analytics,108563,Closed Won,Alice,2026-04-07
+O00527,C0109,Commodity Insights,89768,Proposal,Alice,2026-07-21
+O00528,C0324,Market Intelligence,107022,Proposal,David,2026-04-03
+O00529,C0674,Commodity Insights,175379,Closed Lost,Carol,2026-01-03
+O00530,C0907,Market Intelligence,112766,Negotiation,Emma,2026-08-04
+O00531,C0730,ESG Analytics,212424,Closed Lost,Bob,2026-05-04
+O00532,C0615,Commodity Insights,170379,Closed Won,Bob,2026-06-06
+O00533,C0651,ESG Analytics,88353,Closed Won,Alice,2026-06-01
+O00534,C0624,ESG Analytics,122679,Closed Won,Emma,2026-11-24
+O00535,C0239,ESG Analytics,159001,Prospecting,Bob,2026-01-20
+O00536,C0778,Market Intelligence,85962,Proposal,David,2026-04-20
+O00537,C0082,Market Intelligence,41059,Negotiation,David,2026-05-07
+O00538,C0156,Commodity Insights,58578,Prospecting,Bob,2026-12-20
+O00539,C0969,Commodity Insights,198791,Negotiation,Bob,2026-05-11
+O00540,C0660,Market Intelligence,141543,Closed Won,Carol,2026-01-08
+O00541,C0868,ESG Analytics,91840,Negotiation,Bob,2026-04-18
+O00542,C0056,ESG Analytics,70100,Proposal,Emma,2026-07-17
+O00543,C0330,Market Intelligence,120962,Prospecting,Alice,2026-08-03
+O00544,C0977,Market Intelligence,18659,Proposal,Bob,2026-03-03
+O00545,C0178,ESG Analytics,148876,Proposal,Bob,2026-09-03
+O00546,C0437,ESG Analytics,127440,Negotiation,Bob,2026-12-07
+O00547,C0251,Commodity Insights,51251,Closed Lost,Bob,2026-05-10
+O00548,C0591,Commodity Insights,171619,Proposal,Carol,2026-08-03
+O00549,C0974,Commodity Insights,109397,Closed Won,Bob,2026-08-15
+O00550,C0433,ESG Analytics,164749,Closed Won,Bob,2026-08-01
+O00551,C0781,Commodity Insights,117039,Prospecting,Carol,2026-10-18
+O00552,C0157,ESG Analytics,195486,Proposal,Carol,2026-07-15
+O00553,C0314,Commodity Insights,79245,Closed Won,Emma,2026-10-16
+O00554,C0074,Commodity Insights,40823,Closed Won,Bob,2026-03-07
+O00555,C0005,Market Intelligence,230877,Closed Lost,Carol,2026-08-13
+O00556,C0948,Commodity Insights,108455,Negotiation,David,2026-08-10
+O00557,C0657,ESG Analytics,23673,Closed Won,Alice,2026-02-13
+O00558,C0955,ESG Analytics,47562,Proposal,David,2026-05-25
+O00559,C0936,ESG Analytics,96377,Closed Lost,David,2026-11-23
+O00560,C0378,ESG Analytics,20126,Closed Won,David,2026-12-08
+O00561,C0249,Commodity Insights,14045,Negotiation,Alice,2026-12-22
+O00562,C0661,Market Intelligence,73506,Closed Lost,David,2026-11-05
+O00563,C0261,Market Intelligence,162849,Closed Lost,Bob,2026-01-04
+O00564,C0790,Market Intelligence,173924,Closed Won,David,2026-12-19
+O00565,C0998,Market Intelligence,140931,Proposal,David,2026-03-27
+O00566,C0438,Commodity Insights,186360,Negotiation,Emma,2026-09-22
+O00567,C0908,Commodity Insights,158637,Negotiation,David,2026-12-28
+O00568,C0092,Market Intelligence,171770,Closed Lost,Carol,2026-03-09
+O00569,C0767,Market Intelligence,248798,Closed Won,Carol,2026-01-06
+O00570,C0836,Commodity Insights,5413,Prospecting,Alice,2026-12-14
+O00571,C0538,Commodity Insights,176578,Negotiation,David,2026-03-06
+O00572,C0384,Market Intelligence,189561,Proposal,Bob,2026-08-06
+O00573,C0515,Market Intelligence,123138,Closed Lost,Bob,2026-03-07
+O00574,C0061,ESG Analytics,52901,Proposal,Carol,2026-07-15
+O00575,C0642,ESG Analytics,33624,Proposal,Alice,2026-05-03
+O00576,C0387,Market Intelligence,77551,Prospecting,Carol,2026-01-19
+O00577,C0241,Commodity Insights,132190,Prospecting,Alice,2026-01-09
+O00578,C0770,Market Intelligence,179410,Closed Lost,Alice,2026-02-07
+O00579,C0535,Market Intelligence,103478,Closed Lost,Emma,2026-05-16
+O00580,C0485,Commodity Insights,163432,Closed Won,Carol,2026-06-22
+O00581,C0912,Commodity Insights,87634,Proposal,Carol,2026-11-13
+O00582,C0388,ESG Analytics,20005,Negotiation,Carol,2026-02-01
+O00583,C0468,ESG Analytics,110331,Proposal,Alice,2026-10-04
+O00584,C0890,ESG Analytics,78260,Proposal,Carol,2026-08-20
+O00585,C0703,ESG Analytics,233026,Closed Won,Emma,2026-07-22
+O00586,C0193,Market Intelligence,172267,Negotiation,Alice,2026-11-12
+O00587,C0895,Market Intelligence,216696,Negotiation,David,2026-04-20
+O00588,C0497,Commodity Insights,198778,Closed Lost,Alice,2026-06-14
+O00589,C0962,Commodity Insights,177579,Prospecting,David,2026-05-20
+O00590,C0200,ESG Analytics,42528,Closed Lost,Emma,2026-12-17
+O00591,C0033,Market Intelligence,135528,Prospecting,Carol,2026-11-18
+O00592,C0896,Commodity Insights,49054,Closed Won,Alice,2026-08-22
+O00593,C0554,Market Intelligence,68794,Proposal,Bob,2026-11-23
+O00594,C0092,Market Intelligence,119004,Prospecting,Bob,2026-06-13
+O00595,C0785,Commodity Insights,62770,Negotiation,David,2026-11-04
+O00596,C0682,Market Intelligence,246889,Closed Lost,David,2026-02-26
+O00597,C0709,Commodity Insights,233573,Proposal,Emma,2026-10-03
+O00598,C0660,Commodity Insights,103830,Closed Won,Emma,2026-07-26
+O00599,C0239,Market Intelligence,72919,Prospecting,Carol,2026-02-04
+O00600,C0092,Commodity Insights,199138,Closed Lost,Bob,2026-12-04
+O00601,C0587,Commodity Insights,38401,Negotiation,David,2026-10-24
+O00602,C0002,Commodity Insights,21222,Closed Lost,Emma,2026-04-28
+O00603,C0398,Commodity Insights,88792,Negotiation,Bob,2026-09-22
+O00604,C0617,ESG Analytics,63233,Prospecting,David,2026-01-18
+O00605,C0873,Commodity Insights,87818,Proposal,Carol,2026-04-16
+O00606,C0697,Commodity Insights,43646,Closed Lost,Carol,2026-03-24
+O00607,C0682,ESG Analytics,14003,Closed Lost,Carol,2026-05-17
+O00608,C0706,Market Intelligence,76683,Closed Lost,David,2026-11-27
+O00609,C0221,Commodity Insights,81413,Closed Won,Alice,2026-06-05
+O00610,C0848,ESG Analytics,60210,Proposal,Alice,2026-03-28
+O00611,C0500,ESG Analytics,107710,Negotiation,Bob,2026-01-18
+O00612,C0402,Commodity Insights,115739,Closed Won,Carol,2026-07-13
+O00613,C0074,ESG Analytics,195514,Negotiation,Carol,2026-12-07
+O00614,C0718,ESG Analytics,108225,Prospecting,Bob,2026-06-25
+O00615,C0811,ESG Analytics,231978,Prospecting,Carol,2026-08-21
+O00616,C0168,ESG Analytics,41060,Closed Won,David,2026-05-05
+O00617,C0215,Market Intelligence,215857,Proposal,Alice,2026-06-24
+O00618,C0877,ESG Analytics,31725,Proposal,David,2026-07-22
+O00619,C0862,Market Intelligence,247741,Prospecting,Alice,2026-06-16
+O00620,C0184,Market Intelligence,35761,Closed Lost,Carol,2026-10-14
+O00621,C0994,Market Intelligence,169357,Closed Won,Bob,2026-01-04
+O00622,C0247,Commodity Insights,133090,Negotiation,Emma,2026-03-21
+O00623,C0764,Commodity Insights,208384,Prospecting,David,2026-11-13
+O00624,C0282,ESG Analytics,176231,Closed Won,Carol,2026-01-04
+O00625,C0120,Market Intelligence,36995,Closed Won,Emma,2026-04-01
+O00626,C0601,ESG Analytics,155111,Closed Won,Carol,2026-12-24
+O00627,C0097,ESG Analytics,52473,Closed Won,David,2026-11-23
+O00628,C0445,Commodity Insights,154795,Proposal,Alice,2026-06-03
+O00629,C0731,ESG Analytics,53467,Closed Won,Alice,2026-07-18
+O00630,C0838,ESG Analytics,210383,Closed Lost,David,2026-02-17
+O00631,C0858,ESG Analytics,146290,Prospecting,Bob,2026-11-04
+O00632,C0186,ESG Analytics,187246,Proposal,Alice,2026-09-15
+O00633,C0820,Commodity Insights,37255,Prospecting,Bob,2026-10-07
+O00634,C0669,Market Intelligence,28021,Closed Lost,Carol,2026-01-03
+O00635,C0128,ESG Analytics,83270,Negotiation,Emma,2026-03-14
+O00636,C0968,ESG Analytics,5022,Proposal,Carol,2026-01-17
+O00637,C0927,Commodity Insights,177794,Closed Lost,David,2026-03-19
+O00638,C0503,ESG Analytics,87034,Closed Lost,Carol,2026-10-18
+O00639,C0523,Market Intelligence,185336,Prospecting,Alice,2026-04-02
+O00640,C0193,Market Intelligence,83566,Proposal,Bob,2026-10-18
+O00641,C0222,ESG Analytics,99126,Negotiation,Bob,2026-12-20
+O00642,C0433,Market Intelligence,149139,Negotiation,Carol,2026-07-21
+O00643,C0926,Market Intelligence,109873,Closed Won,Alice,2026-05-22
+O00644,C0436,ESG Analytics,42550,Closed Lost,Bob,2026-02-21
+O00645,C0751,Commodity Insights,170968,Proposal,Carol,2026-10-22
+O00646,C0664,ESG Analytics,163582,Proposal,David,2026-03-11
+O00647,C0807,Commodity Insights,104337,Prospecting,Emma,2026-04-03
+O00648,C0277,Market Intelligence,144321,Prospecting,Emma,2026-07-03
+O00649,C0338,ESG Analytics,28324,Negotiation,Carol,2026-05-05
+O00650,C0890,Market Intelligence,76734,Prospecting,Alice,2026-07-08
+O00651,C0388,Market Intelligence,210188,Prospecting,Bob,2026-09-24
+O00652,C0897,Commodity Insights,159357,Closed Won,Alice,2026-09-12
+O00653,C0718,ESG Analytics,231858,Negotiation,Emma,2026-05-20
+O00654,C0102,Market Intelligence,49760,Negotiation,David,2026-03-12
+O00655,C0826,ESG Analytics,182684,Closed Lost,Emma,2026-10-28
+O00656,C0413,Commodity Insights,160270,Proposal,Carol,2026-01-22
+O00657,C0526,ESG Analytics,45761,Proposal,Bob,2026-07-19
+O00658,C0754,Commodity Insights,18858,Negotiation,Bob,2026-11-20
+O00659,C0429,ESG Analytics,125006,Proposal,David,2026-06-26
+O00660,C0480,ESG Analytics,80188,Negotiation,David,2026-09-23
+O00661,C0903,Market Intelligence,85003,Prospecting,Carol,2026-07-25
+O00662,C0321,Market Intelligence,171376,Prospecting,Alice,2026-12-08
+O00663,C0968,Market Intelligence,48283,Closed Lost,Alice,2026-02-24
+O00664,C0293,ESG Analytics,248686,Closed Won,Alice,2026-07-22
+O00665,C0521,ESG Analytics,40763,Closed Won,David,2026-09-22
+O00666,C0694,ESG Analytics,187945,Prospecting,David,2026-01-20
+O00667,C0195,ESG Analytics,6911,Closed Won,Emma,2026-12-12
+O00668,C0251,ESG Analytics,178322,Closed Lost,Emma,2026-01-20
+O00669,C0460,Market Intelligence,181821,Closed Lost,Bob,2026-03-03
+O00670,C0376,Market Intelligence,139659,Negotiation,Alice,2026-07-16
+O00671,C0389,Market Intelligence,102854,Prospecting,Carol,2026-11-08
+O00672,C0852,ESG Analytics,228026,Prospecting,Carol,2026-05-16
+O00673,C0301,Commodity Insights,60853,Prospecting,Emma,2026-07-07
+O00674,C0946,Commodity Insights,248560,Closed Lost,Alice,2026-08-20
+O00675,C0869,Commodity Insights,20072,Negotiation,Alice,2026-10-15
+O00676,C0337,Commodity Insights,97770,Prospecting,Alice,2026-06-24
+O00677,C0191,Commodity Insights,97938,Prospecting,Alice,2026-07-16
+O00678,C0203,Market Intelligence,143699,Closed Lost,Bob,2026-07-04
+O00679,C0936,Commodity Insights,6811,Proposal,Carol,2026-04-16
+O00680,C0405,Commodity Insights,83455,Negotiation,David,2026-03-18
+O00681,C0832,Commodity Insights,33493,Closed Won,David,2026-03-05
+O00682,C0363,ESG Analytics,118760,Prospecting,Carol,2026-12-07
+O00683,C0114,Market Intelligence,79684,Prospecting,Bob,2026-07-14
+O00684,C0762,Commodity Insights,241191,Prospecting,Bob,2026-11-07
+O00685,C0972,Commodity Insights,179389,Negotiation,Alice,2026-07-16
+O00686,C0564,Commodity Insights,214668,Proposal,Carol,2026-07-17
+O00687,C0744,ESG Analytics,226003,Closed Won,Bob,2026-02-04
+O00688,C0812,Market Intelligence,38062,Proposal,Carol,2026-09-01
+O00689,C0786,ESG Analytics,66998,Prospecting,Carol,2026-07-20
+O00690,C0756,Market Intelligence,118856,Closed Won,Carol,2026-05-16
+O00691,C0085,Commodity Insights,69945,Closed Lost,Bob,2026-12-17
+O00692,C0192,Market Intelligence,78698,Prospecting,Carol,2026-12-08
+O00693,C0683,Commodity Insights,57012,Closed Won,Alice,2026-12-24
+O00694,C0515,ESG Analytics,52497,Proposal,Emma,2026-11-21
+O00695,C0153,Market Intelligence,36578,Proposal,David,2026-01-09
+O00696,C0197,Market Intelligence,116752,Prospecting,Emma,2026-04-03
+O00697,C0886,Market Intelligence,104707,Closed Won,Emma,2026-05-23
+O00698,C0649,Market Intelligence,63137,Negotiation,David,2026-08-02
+O00699,C0523,Commodity Insights,173787,Prospecting,Carol,2026-02-09
+O00700,C0373,Commodity Insights,97018,Closed Won,Bob,2026-06-02
+O00701,C0187,Market Intelligence,5140,Prospecting,Carol,2026-04-10
+O00702,C0484,Commodity Insights,243153,Closed Lost,Alice,2026-07-06
+O00703,C0259,Commodity Insights,100310,Negotiation,Carol,2026-02-04
+O00704,C0686,Market Intelligence,184034,Closed Lost,Bob,2026-06-12
+O00705,C0760,Commodity Insights,199755,Closed Lost,Emma,2026-10-12
+O00706,C0244,ESG Analytics,77337,Proposal,Emma,2026-07-03
+O00707,C0909,Market Intelligence,39205,Closed Lost,Alice,2026-01-19
+O00708,C0992,ESG Analytics,219278,Proposal,Bob,2026-12-15
+O00709,C0948,Market Intelligence,24629,Closed Lost,Emma,2026-06-10
+O00710,C0743,Commodity Insights,204488,Proposal,Emma,2026-12-05
+O00711,C0045,Market Intelligence,55254,Closed Won,Emma,2026-12-09
+O00712,C0913,ESG Analytics,96052,Negotiation,David,2026-11-23
+O00713,C0121,Commodity Insights,22749,Closed Won,David,2026-09-17
+O00714,C0810,Market Intelligence,48761,Closed Lost,Carol,2026-12-05
+O00715,C0297,Market Intelligence,153419,Prospecting,Bob,2026-12-27
+O00716,C0408,Commodity Insights,184488,Closed Lost,Emma,2026-02-06
+O00717,C0449,ESG Analytics,105702,Closed Lost,David,2026-07-20
+O00718,C0279,Market Intelligence,53251,Prospecting,Bob,2026-10-07
+O00719,C0607,ESG Analytics,7322,Closed Lost,David,2026-09-23
+O00720,C0738,ESG Analytics,72851,Negotiation,Bob,2026-05-23
+O00721,C0275,ESG Analytics,36222,Proposal,Bob,2026-01-18
+O00722,C0244,Commodity Insights,15247,Proposal,Carol,2026-03-09
+O00723,C0895,Market Intelligence,173404,Proposal,Bob,2026-09-04
+O00724,C0002,ESG Analytics,96085,Closed Lost,Carol,2026-06-03
+O00725,C0970,ESG Analytics,236731,Closed Lost,Carol,2026-12-05
+O00726,C0419,ESG Analytics,82305,Negotiation,Alice,2026-11-27
+O00727,C0011,Commodity Insights,62482,Negotiation,Bob,2026-05-01
+O00728,C0551,ESG Analytics,232536,Closed Lost,Alice,2026-12-24
+O00729,C0705,Commodity Insights,176396,Negotiation,Emma,2026-09-07
+O00730,C0837,Commodity Insights,62839,Negotiation,Carol,2026-04-19
+O00731,C0645,Commodity Insights,45800,Closed Won,Bob,2026-12-24
+O00732,C0445,Commodity Insights,43884,Closed Won,Alice,2026-08-06
+O00733,C0471,Market Intelligence,218804,Proposal,Bob,2026-10-16
+O00734,C0966,ESG Analytics,52292,Negotiation,Alice,2026-05-06
+O00735,C0907,Market Intelligence,219302,Closed Won,Emma,2026-04-03
+O00736,C0147,Market Intelligence,116776,Proposal,David,2026-11-13
+O00737,C0103,ESG Analytics,143091,Proposal,Alice,2026-10-04
+O00738,C0387,Commodity Insights,10430,Prospecting,Alice,2026-11-02
+O00739,C0136,Market Intelligence,206881,Prospecting,Carol,2026-03-21
+O00740,C0615,Market Intelligence,212723,Prospecting,Alice,2026-09-24
+O00741,C0838,Commodity Insights,228535,Prospecting,Bob,2026-03-16
+O00742,C0778,ESG Analytics,238934,Closed Won,Bob,2026-05-11
+O00743,C0491,Market Intelligence,68913,Prospecting,Emma,2026-12-09
+O00744,C0643,ESG Analytics,37263,Prospecting,Alice,2026-02-18
+O00745,C0304,Market Intelligence,139097,Closed Won,Bob,2026-01-08
+O00746,C0025,Market Intelligence,116970,Closed Won,Bob,2026-06-21
+O00747,C0294,Market Intelligence,246615,Closed Won,Alice,2026-08-06
+O00748,C0113,Market Intelligence,31669,Negotiation,Carol,2026-02-20
+O00749,C0342,Market Intelligence,99501,Prospecting,Alice,2026-10-05
+O00750,C0183,Commodity Insights,144062,Negotiation,Emma,2026-03-22
+O00751,C0436,Market Intelligence,239125,Negotiation,Emma,2026-05-12
+O00752,C0897,Market Intelligence,76065,Closed Won,Carol,2026-05-26
+O00753,C0929,ESG Analytics,214370,Prospecting,Alice,2026-03-25
+O00754,C0672,Market Intelligence,88953,Proposal,David,2026-08-24
+O00755,C0816,Commodity Insights,218555,Prospecting,Alice,2026-10-14
+O00756,C0983,ESG Analytics,78000,Proposal,Alice,2026-06-05
+O00757,C0187,Commodity Insights,97434,Negotiation,David,2026-07-16
+O00758,C0711,Commodity Insights,162743,Negotiation,Bob,2026-11-08
+O00759,C0393,Commodity Insights,149005,Closed Won,Emma,2026-09-16
+O00760,C0546,ESG Analytics,220326,Proposal,David,2026-02-19
+O00761,C0733,Commodity Insights,143135,Closed Lost,Bob,2026-12-03
+O00762,C0241,Commodity Insights,5751,Proposal,Alice,2026-06-18
+O00763,C0486,Market Intelligence,246409,Prospecting,Alice,2026-06-12
+O00764,C0870,Market Intelligence,82253,Closed Won,Bob,2026-09-14
+O00765,C0249,Market Intelligence,222008,Proposal,Alice,2026-12-05
+O00766,C0121,ESG Analytics,189539,Proposal,David,2026-12-01
+O00767,C0713,Commodity Insights,102434,Prospecting,Alice,2026-11-19
+O00768,C0076,Commodity Insights,224529,Closed Lost,Bob,2026-01-05
+O00769,C0375,Market Intelligence,25707,Proposal,Alice,2026-01-19
+O00770,C0852,Commodity Insights,44247,Proposal,David,2026-12-05
+O00771,C0767,ESG Analytics,188124,Negotiation,David,2026-07-24
+O00772,C0346,Commodity Insights,209838,Prospecting,Carol,2026-02-05
+O00773,C0062,ESG Analytics,13419,Closed Lost,Bob,2026-09-06
+O00774,C0012,Commodity Insights,223282,Closed Won,David,2026-09-23
+O00775,C0850,Commodity Insights,245949,Closed Lost,Emma,2026-05-23
+O00776,C0233,Commodity Insights,249174,Proposal,Carol,2026-02-17
+O00777,C0387,Market Intelligence,199808,Proposal,David,2026-10-02
+O00778,C0225,Commodity Insights,53154,Closed Lost,Emma,2026-02-27
+O00779,C0710,Commodity Insights,130151,Negotiation,David,2026-07-06
+O00780,C0056,Commodity Insights,174514,Closed Won,Bob,2026-05-04
+O00781,C0107,Market Intelligence,100080,Closed Lost,Carol,2026-01-08
+O00782,C0289,Market Intelligence,146968,Prospecting,Alice,2026-04-20
+O00783,C0012,Commodity Insights,54215,Closed Lost,Bob,2026-11-02
+O00784,C0247,Commodity Insights,27292,Closed Lost,Emma,2026-01-19
+O00785,C0810,Commodity Insights,16974,Prospecting,Carol,2026-02-10
+O00786,C0009,Commodity Insights,202048,Negotiation,David,2026-09-07
+O00787,C0323,Commodity Insights,195234,Negotiation,Bob,2026-12-22
+O00788,C0100,Commodity Insights,111767,Closed Lost,Alice,2026-09-26
+O00789,C0794,Market Intelligence,11208,Closed Lost,David,2026-08-19
+O00790,C0890,Market Intelligence,81053,Proposal,Bob,2026-11-15
+O00791,C0081,ESG Analytics,29455,Proposal,Bob,2026-11-21
+O00792,C0145,ESG Analytics,47217,Closed Lost,Emma,2026-12-20
+O00793,C0668,ESG Analytics,248853,Negotiation,David,2026-03-11
+O00794,C0298,Commodity Insights,168439,Closed Won,Alice,2026-12-25
+O00795,C0700,Commodity Insights,67681,Proposal,Emma,2026-10-03
+O00796,C0982,Market Intelligence,153609,Closed Won,Alice,2026-01-05
+O00797,C0785,Commodity Insights,148428,Prospecting,David,2026-02-15
+O00798,C0322,Market Intelligence,249857,Negotiation,Bob,2026-02-09
+O00799,C0591,Commodity Insights,97633,Prospecting,Alice,2026-03-23
+O00800,C0791,Commodity Insights,72618,Closed Won,Carol,2026-08-21
+O00801,C0947,Market Intelligence,37497,Closed Lost,David,2026-01-12
+O00802,C0880,Commodity Insights,110103,Closed Won,Emma,2026-11-05
+O00803,C0452,Commodity Insights,139343,Closed Lost,Carol,2026-06-03
+O00804,C0699,Commodity Insights,137629,Closed Won,Carol,2026-11-02
+O00805,C0636,ESG Analytics,19957,Proposal,Emma,2026-01-05
+O00806,C0874,Market Intelligence,81194,Closed Won,Bob,2026-10-13
+O00807,C0875,Market Intelligence,63471,Closed Won,David,2026-11-03
+O00808,C0358,Commodity Insights,127811,Closed Lost,David,2026-02-03
+O00809,C0185,ESG Analytics,33402,Closed Won,David,2026-04-13
+O00810,C0337,Market Intelligence,88174,Negotiation,Emma,2026-08-07
+O00811,C0720,ESG Analytics,129838,Prospecting,Carol,2026-08-02
+O00812,C0559,Market Intelligence,128199,Proposal,Bob,2026-06-19
+O00813,C0033,ESG Analytics,207953,Closed Won,Alice,2026-06-26
+O00814,C0441,Commodity Insights,60946,Prospecting,Bob,2026-01-25
+O00815,C0701,Commodity Insights,75739,Negotiation,Bob,2026-02-05
+O00816,C0071,Commodity Insights,111186,Prospecting,Carol,2026-12-15
+O00817,C0893,Commodity Insights,142567,Proposal,Carol,2026-03-27
+O00818,C0056,Market Intelligence,239607,Closed Won,Carol,2026-05-06
+O00819,C0204,Commodity Insights,114864,Closed Won,David,2026-09-23
+O00820,C0803,Market Intelligence,187633,Closed Won,Carol,2026-12-19
+O00821,C0399,Market Intelligence,152038,Closed Lost,Bob,2026-02-24
+O00822,C0684,ESG Analytics,166615,Proposal,Carol,2026-11-27
+O00823,C0962,ESG Analytics,199730,Negotiation,Alice,2026-03-15
+O00824,C0957,Market Intelligence,135926,Negotiation,Alice,2026-11-14
+O00825,C0270,ESG Analytics,194342,Prospecting,David,2026-03-21
+O00826,C0461,ESG Analytics,156618,Prospecting,Alice,2026-04-24
+O00827,C0193,Commodity Insights,187569,Closed Lost,Bob,2026-10-13
+O00828,C0222,Commodity Insights,59988,Proposal,Emma,2026-01-12
+O00829,C0834,Commodity Insights,9244,Negotiation,Carol,2026-09-27
+O00830,C0889,Market Intelligence,188321,Closed Won,David,2026-07-14
+O00831,C0361,Commodity Insights,222103,Closed Lost,David,2026-09-25
+O00832,C0344,Market Intelligence,247836,Proposal,David,2026-07-12
+O00833,C0182,ESG Analytics,160947,Proposal,Emma,2026-07-13
+O00834,C0292,ESG Analytics,185499,Closed Won,Carol,2026-12-20
+O00835,C0961,Market Intelligence,27969,Prospecting,Alice,2026-11-01
+O00836,C0632,Commodity Insights,32177,Closed Won,Emma,2026-09-04
+O00837,C0649,Commodity Insights,136953,Closed Lost,Alice,2026-11-10
+O00838,C0873,Commodity Insights,60540,Proposal,David,2026-09-13
+O00839,C0118,Market Intelligence,229485,Closed Won,Alice,2026-06-26
+O00840,C0936,Commodity Insights,113248,Closed Won,Alice,2026-06-26
+O00841,C0230,ESG Analytics,79345,Negotiation,Carol,2026-05-27
+O00842,C0925,Commodity Insights,181501,Proposal,Alice,2026-07-02
+O00843,C0016,Market Intelligence,45206,Negotiation,Emma,2026-12-20
+O00844,C0326,Commodity Insights,49672,Closed Lost,David,2026-04-18
+O00845,C0997,Commodity Insights,55504,Closed Lost,David,2026-01-26
+O00846,C0955,ESG Analytics,117486,Proposal,David,2026-12-06
+O00847,C0413,Commodity Insights,140601,Proposal,David,2026-04-04
+O00848,C0728,Market Intelligence,137187,Prospecting,Emma,2026-07-27
+O00849,C0781,ESG Analytics,245298,Negotiation,Emma,2026-03-11
+O00850,C0209,Market Intelligence,29448,Prospecting,David,2026-01-21
+O00851,C0789,ESG Analytics,45120,Prospecting,Emma,2026-12-18
+O00852,C0943,Market Intelligence,154892,Closed Won,Alice,2026-12-24
+O00853,C0134,Commodity Insights,171320,Negotiation,Bob,2026-04-21
+O00854,C0920,Market Intelligence,82836,Proposal,Emma,2026-04-24
+O00855,C0799,Commodity Insights,206953,Negotiation,Alice,2026-05-03
+O00856,C0958,Market Intelligence,169479,Prospecting,Emma,2026-02-04
+O00857,C0471,ESG Analytics,37160,Prospecting,Bob,2026-05-09
+O00858,C0917,Market Intelligence,29320,Prospecting,David,2026-06-27
+O00859,C0213,Commodity Insights,31390,Closed Won,Alice,2026-07-03
+O00860,C0499,ESG Analytics,25004,Proposal,David,2026-07-11
+O00861,C0649,Commodity Insights,216956,Proposal,Bob,2026-05-01
+O00862,C0926,Market Intelligence,177927,Closed Lost,Emma,2026-01-04
+O00863,C1000,Commodity Insights,95907,Closed Won,Emma,2026-10-18
+O00864,C0006,Market Intelligence,141773,Negotiation,Alice,2026-04-20
+O00865,C0031,ESG Analytics,11039,Closed Lost,Emma,2026-03-07
+O00866,C0888,Commodity Insights,35091,Proposal,Alice,2026-06-05
+O00867,C0226,Market Intelligence,195773,Proposal,Carol,2026-05-16
+O00868,C0205,Market Intelligence,96371,Closed Lost,Carol,2026-08-24
+O00869,C0829,Commodity Insights,119311,Closed Lost,David,2026-04-09
+O00870,C0178,Market Intelligence,185107,Negotiation,David,2026-02-19
+O00871,C0813,ESG Analytics,86680,Proposal,Bob,2026-12-16
+O00872,C0444,Commodity Insights,116080,Closed Lost,Carol,2026-06-20
+O00873,C0111,ESG Analytics,105413,Closed Won,Bob,2026-10-12
+O00874,C0383,ESG Analytics,219785,Prospecting,David,2026-03-02
+O00875,C0982,ESG Analytics,71339,Closed Lost,David,2026-05-20
+O00876,C0847,ESG Analytics,144066,Negotiation,David,2026-01-04
+O00877,C0185,Commodity Insights,117561,Proposal,Carol,2026-04-03
+O00878,C0221,ESG Analytics,102428,Negotiation,Bob,2026-06-04
+O00879,C0010,Commodity Insights,185431,Prospecting,Carol,2026-04-15
+O00880,C0582,Commodity Insights,240600,Proposal,Emma,2026-02-13
+O00881,C0291,ESG Analytics,60620,Closed Lost,Bob,2026-02-18
+O00882,C0285,ESG Analytics,164358,Prospecting,Emma,2026-11-14
+O00883,C0699,Commodity Insights,88304,Negotiation,Bob,2026-04-02
+O00884,C0822,Commodity Insights,135718,Prospecting,Carol,2026-07-04
+O00885,C0128,Commodity Insights,49863,Closed Lost,Carol,2026-10-13
+O00886,C0243,ESG Analytics,10575,Negotiation,Alice,2026-11-26
+O00887,C0877,ESG Analytics,6218,Closed Won,Carol,2026-03-27
+O00888,C0991,Commodity Insights,14701,Closed Lost,Emma,2026-01-11
+O00889,C0661,Market Intelligence,23206,Closed Won,Alice,2026-07-24
+O00890,C0309,Commodity Insights,88149,Negotiation,David,2026-02-18
+O00891,C0794,Commodity Insights,134451,Closed Lost,Alice,2026-07-10
+O00892,C0714,Commodity Insights,134325,Prospecting,Carol,2026-10-04
+O00893,C0030,Market Intelligence,17539,Prospecting,Bob,2026-02-11
+O00894,C0883,ESG Analytics,194858,Closed Won,Bob,2026-03-03
+O00895,C0196,ESG Analytics,241526,Negotiation,Emma,2026-01-23
+O00896,C0889,Market Intelligence,73075,Prospecting,Alice,2026-01-10
+O00897,C0077,Commodity Insights,91331,Closed Lost,David,2026-05-23
+O00898,C0175,Market Intelligence,157948,Closed Won,Alice,2026-03-11
+O00899,C0883,Market Intelligence,202403,Closed Lost,David,2026-11-15
+O00900,C0685,Market Intelligence,141777,Closed Lost,Bob,2026-10-16
+O00901,C0678,Commodity Insights,78542,Negotiation,David,2026-04-03
+O00902,C0271,Commodity Insights,191484,Prospecting,Carol,2026-09-27
+O00903,C0894,Market Intelligence,177878,Proposal,Alice,2026-02-16
+O00904,C0062,Market Intelligence,8441,Proposal,David,2026-07-07
+O00905,C0500,Market Intelligence,94246,Proposal,Emma,2026-09-17
+O00906,C0880,Commodity Insights,204357,Negotiation,David,2026-11-05
+O00907,C0869,ESG Analytics,32698,Proposal,Bob,2026-06-13
+O00908,C0999,Commodity Insights,232503,Closed Lost,Emma,2026-04-25
+O00909,C0410,Market Intelligence,22993,Negotiation,David,2026-03-22
+O00910,C0315,ESG Analytics,174969,Prospecting,Bob,2026-08-04
+O00911,C0763,Market Intelligence,68062,Prospecting,David,2026-03-09
+O00912,C0030,Commodity Insights,178509,Closed Lost,David,2026-06-09
+O00913,C0122,ESG Analytics,27037,Negotiation,David,2026-04-05
+O00914,C0407,ESG Analytics,117944,Closed Lost,Carol,2026-01-15
+O00915,C0280,Commodity Insights,30641,Prospecting,David,2026-12-14
+O00916,C0199,Commodity Insights,54663,Closed Won,Bob,2026-10-09
+O00917,C0543,ESG Analytics,134398,Closed Lost,David,2026-02-22
+O00918,C0052,ESG Analytics,70259,Prospecting,Bob,2026-02-02
+O00919,C0917,Market Intelligence,155793,Negotiation,Bob,2026-02-18
+O00920,C0104,Commodity Insights,64366,Closed Lost,David,2026-07-13
+O00921,C0104,Market Intelligence,197393,Negotiation,David,2026-04-06
+O00922,C0805,Market Intelligence,96129,Negotiation,Emma,2026-05-24
+O00923,C0004,Market Intelligence,53517,Closed Lost,Emma,2026-08-24
+O00924,C0313,ESG Analytics,67552,Proposal,Carol,2026-11-03
+O00925,C0171,Market Intelligence,92072,Closed Won,Bob,2026-01-22
+O00926,C0486,Commodity Insights,92570,Prospecting,Bob,2026-05-03
+O00927,C0175,ESG Analytics,204297,Prospecting,Emma,2026-06-16
+O00928,C0598,Market Intelligence,133006,Proposal,David,2026-02-02
+O00929,C0839,Market Intelligence,153705,Negotiation,Bob,2026-09-17
+O00930,C0172,Market Intelligence,208228,Prospecting,Alice,2026-05-26
+O00931,C0754,Commodity Insights,123650,Closed Won,Carol,2026-09-09
+O00932,C0680,Commodity Insights,71463,Negotiation,David,2026-01-27
+O00933,C0362,Commodity Insights,191163,Negotiation,Emma,2026-11-28
+O00934,C0886,ESG Analytics,131970,Prospecting,Carol,2026-11-17
+O00935,C0746,ESG Analytics,10433,Proposal,David,2026-04-22
+O00936,C0146,Commodity Insights,135503,Prospecting,Bob,2026-10-24
+O00937,C0713,Commodity Insights,99219,Proposal,Alice,2026-04-13
+O00938,C0655,Market Intelligence,76807,Closed Lost,David,2026-09-06
+O00939,C0272,ESG Analytics,96447,Negotiation,David,2026-10-14
+O00940,C0968,Commodity Insights,86087,Proposal,Alice,2026-10-17
+O00941,C0719,Commodity Insights,223673,Closed Lost,Alice,2026-07-26
+O00942,C0466,ESG Analytics,212755,Negotiation,Carol,2026-02-01
+O00943,C0511,ESG Analytics,43569,Closed Won,Bob,2026-09-10
+O00944,C0639,ESG Analytics,179147,Proposal,Carol,2026-08-10
+O00945,C0067,Commodity Insights,9087,Closed Won,Alice,2026-04-10
+O00946,C0846,ESG Analytics,37357,Prospecting,David,2026-05-01
+O00947,C0441,Commodity Insights,178081,Prospecting,Alice,2026-05-05
+O00948,C0359,Commodity Insights,210852,Closed Lost,Emma,2026-03-03
+O00949,C0731,Commodity Insights,42393,Proposal,David,2026-10-03
+O00950,C0298,Market Intelligence,13424,Closed Won,Carol,2026-04-26
+O00951,C0695,ESG Analytics,106250,Closed Won,David,2026-02-09
+O00952,C0943,Commodity Insights,161510,Negotiation,Bob,2026-10-14
+O00953,C0696,Commodity Insights,215863,Closed Lost,Bob,2026-11-25
+O00954,C0205,Commodity Insights,40570,Closed Won,Emma,2026-04-10
+O00955,C0313,Market Intelligence,82944,Closed Lost,David,2026-09-06
+O00956,C0385,Commodity Insights,30176,Proposal,Emma,2026-08-23
+O00957,C0321,ESG Analytics,184611,Negotiation,David,2026-06-14
+O00958,C0478,Commodity Insights,112546,Closed Won,Alice,2026-09-01
+O00959,C0981,Commodity Insights,28181,Proposal,Emma,2026-05-26
+O00960,C0249,ESG Analytics,139271,Negotiation,Bob,2026-10-18
+O00961,C0922,ESG Analytics,235111,Negotiation,Alice,2026-07-05
+O00962,C0413,ESG Analytics,6560,Closed Won,Emma,2026-08-27
+O00963,C0056,Market Intelligence,19337,Negotiation,Alice,2026-06-20
+O00964,C0100,Commodity Insights,153227,Closed Won,Carol,2026-01-04
+O00965,C0759,ESG Analytics,181793,Closed Lost,Alice,2026-12-07
+O00966,C0529,Market Intelligence,152337,Closed Won,Bob,2026-04-22
+O00967,C0656,Market Intelligence,83877,Negotiation,Alice,2026-08-20
+O00968,C0705,Market Intelligence,35070,Prospecting,Alice,2026-03-20
+O00969,C0902,Market Intelligence,141268,Prospecting,Bob,2026-04-04
+O00970,C0486,Market Intelligence,223294,Closed Lost,David,2026-07-02
+O00971,C0949,Market Intelligence,83623,Closed Won,David,2026-03-27
+O00972,C0241,ESG Analytics,73228,Closed Lost,David,2026-11-20
+O00973,C0127,Commodity Insights,43337,Prospecting,Bob,2026-03-27
+O00974,C0763,ESG Analytics,68093,Proposal,Emma,2026-12-23
+O00975,C0560,Market Intelligence,129822,Closed Won,Carol,2026-05-22
+O00976,C0103,ESG Analytics,134227,Negotiation,Carol,2026-07-13
+O00977,C0715,Market Intelligence,126625,Closed Won,David,2026-03-01
+O00978,C0291,Commodity Insights,36490,Closed Lost,David,2026-01-19
+O00979,C0311,Market Intelligence,174111,Closed Lost,David,2026-01-12
+O00980,C0986,Market Intelligence,127659,Closed Won,Carol,2026-01-06
+O00981,C0367,ESG Analytics,229353,Closed Lost,Bob,2026-06-23
+O00982,C0538,Commodity Insights,139491,Prospecting,Bob,2026-11-05
+O00983,C0361,ESG Analytics,193536,Closed Lost,Carol,2026-08-23
+O00984,C0880,Market Intelligence,77965,Negotiation,David,2026-02-27
+O00985,C0661,Commodity Insights,103703,Closed Won,Emma,2026-11-06
+O00986,C0590,ESG Analytics,248115,Closed Lost,Emma,2026-05-05
+O00987,C0715,Commodity Insights,159364,Closed Lost,Carol,2026-10-20
+O00988,C0850,Commodity Insights,22713,Prospecting,Alice,2026-12-06
+O00989,C0238,Market Intelligence,179394,Prospecting,David,2026-11-16
+O00990,C0332,Market Intelligence,207307,Proposal,Alice,2026-03-24
+O00991,C0914,Commodity Insights,203132,Closed Won,Alice,2026-01-20
+O00992,C0257,Market Intelligence,14808,Prospecting,David,2026-06-20
+O00993,C0647,Market Intelligence,247103,Proposal,Carol,2026-02-23
+O00994,C0461,Commodity Insights,39921,Closed Lost,Emma,2026-04-07
+O00995,C0259,Commodity Insights,119691,Negotiation,Bob,2026-04-24
+O00996,C0166,Commodity Insights,218342,Closed Lost,Bob,2026-02-19
+O00997,C0025,ESG Analytics,180284,Prospecting,Bob,2026-01-26
+O00998,C0144,Market Intelligence,99256,Closed Won,Emma,2026-09-28
+O00999,C0074,Commodity Insights,53576,Closed Lost,David,2026-04-27
+O01000,C0213,ESG Analytics,221944,Closed Won,Emma,2026-06-12
+O01001,C0634,ESG Analytics,228719,Proposal,Alice,2026-08-14
+O01002,C0641,Commodity Insights,234107,Prospecting,Emma,2026-02-05
+O01003,C0802,ESG Analytics,83178,Prospecting,Alice,2026-08-08
+O01004,C0053,ESG Analytics,146698,Negotiation,Alice,2026-04-27
+O01005,C0964,Commodity Insights,246768,Negotiation,David,2026-12-12
+O01006,C0070,Market Intelligence,80515,Prospecting,Emma,2026-10-08
+O01007,C0874,ESG Analytics,249268,Closed Lost,Emma,2026-05-13
+O01008,C0634,Market Intelligence,148115,Prospecting,Emma,2026-08-09
+O01009,C0669,Market Intelligence,13460,Negotiation,David,2026-05-07
+O01010,C0343,Market Intelligence,41513,Proposal,Emma,2026-12-11
+O01011,C0947,ESG Analytics,244159,Prospecting,Bob,2026-08-03
+O01012,C0825,ESG Analytics,242063,Closed Lost,Alice,2026-06-03
+O01013,C0973,Commodity Insights,161800,Closed Lost,Alice,2026-09-16
+O01014,C0970,Market Intelligence,75912,Prospecting,Alice,2026-01-16
+O01015,C0520,Market Intelligence,175481,Negotiation,David,2026-08-10
+O01016,C0801,Market Intelligence,10621,Prospecting,Alice,2026-04-18
+O01017,C0623,Commodity Insights,183766,Prospecting,Emma,2026-08-02
+O01018,C0397,Commodity Insights,187305,Proposal,David,2026-12-14
+O01019,C0563,Market Intelligence,35299,Closed Won,Alice,2026-10-12
+O01020,C0361,Market Intelligence,94948,Closed Won,Alice,2026-04-08
+O01021,C0095,ESG Analytics,7634,Proposal,David,2026-12-25
+O01022,C0910,ESG Analytics,153910,Prospecting,Alice,2026-12-08
+O01023,C0833,Market Intelligence,25083,Prospecting,Bob,2026-08-06
+O01024,C0290,Market Intelligence,87346,Negotiation,Emma,2026-11-08
+O01025,C0300,Market Intelligence,163891,Closed Won,David,2026-11-04
+O01026,C0673,Market Intelligence,25022,Negotiation,Emma,2026-04-16
+O01027,C0723,ESG Analytics,218234,Negotiation,Bob,2026-08-23
+O01028,C0310,Commodity Insights,209526,Closed Lost,Carol,2026-11-08
+O01029,C0540,Commodity Insights,88586,Closed Lost,Emma,2026-02-02
+O01030,C0355,Commodity Insights,189943,Closed Lost,David,2026-05-03
+O01031,C0209,Market Intelligence,225574,Closed Lost,Bob,2026-05-24
+O01032,C0567,Market Intelligence,37177,Negotiation,Bob,2026-01-08
+O01033,C0716,Commodity Insights,175369,Closed Won,Alice,2026-01-16
+O01034,C0857,Market Intelligence,75857,Negotiation,Emma,2026-07-10
+O01035,C0848,Market Intelligence,20655,Negotiation,Emma,2026-07-16
+O01036,C0020,Commodity Insights,105837,Closed Won,Alice,2026-04-07
+O01037,C0389,Market Intelligence,177995,Closed Won,Emma,2026-01-22
+O01038,C0313,Market Intelligence,146963,Negotiation,Alice,2026-10-25
+O01039,C0915,Commodity Insights,246879,Negotiation,Emma,2026-04-25
+O01040,C0029,Commodity Insights,195260,Closed Lost,David,2026-07-26
+O01041,C0747,ESG Analytics,202237,Prospecting,Alice,2026-09-13
+O01042,C0976,ESG Analytics,249442,Negotiation,Emma,2026-08-14
+O01043,C0587,ESG Analytics,153977,Closed Lost,Carol,2026-03-13
+O01044,C0479,ESG Analytics,247394,Proposal,Bob,2026-01-09
+O01045,C0819,ESG Analytics,76930,Prospecting,Bob,2026-09-10
+O01046,C0346,ESG Analytics,108442,Prospecting,Emma,2026-05-12
+O01047,C0276,ESG Analytics,70670,Closed Lost,Alice,2026-02-10
+O01048,C0583,ESG Analytics,89145,Negotiation,Bob,2026-08-15
+O01049,C0018,Commodity Insights,7325,Closed Won,Alice,2026-06-16
+O01050,C0654,ESG Analytics,62106,Closed Won,Alice,2026-10-03
+O01051,C0284,ESG Analytics,149558,Negotiation,Alice,2026-08-06
+O01052,C0265,Commodity Insights,73037,Closed Won,Bob,2026-04-21
+O01053,C0179,Market Intelligence,233390,Closed Lost,Alice,2026-04-04
+O01054,C0671,Market Intelligence,53301,Closed Lost,David,2026-10-11
+O01055,C0043,ESG Analytics,193051,Proposal,Alice,2026-12-09
+O01056,C0999,Commodity Insights,9225,Negotiation,Emma,2026-12-02
+O01057,C0615,Market Intelligence,96679,Prospecting,Alice,2026-09-15
+O01058,C0116,ESG Analytics,25303,Proposal,Bob,2026-06-19
+O01059,C0381,ESG Analytics,114043,Prospecting,David,2026-05-05
+O01060,C0026,Commodity Insights,164112,Negotiation,Carol,2026-07-21
+O01061,C0384,Commodity Insights,82086,Closed Lost,Alice,2026-03-12
+O01062,C0046,Commodity Insights,248874,Proposal,Emma,2026-01-04
+O01063,C0624,Market Intelligence,216821,Negotiation,Emma,2026-12-25
+O01064,C0760,ESG Analytics,210381,Closed Lost,Carol,2026-04-13
+O01065,C0851,ESG Analytics,13545,Proposal,David,2026-11-03
+O01066,C0979,Market Intelligence,63872,Closed Lost,Emma,2026-10-21
+O01067,C0562,ESG Analytics,114597,Closed Lost,Alice,2026-09-26
+O01068,C0053,ESG Analytics,128818,Closed Lost,Emma,2026-08-11
+O01069,C0276,Market Intelligence,224154,Closed Lost,Carol,2026-04-11
+O01070,C0249,Commodity Insights,65526,Closed Won,Carol,2026-12-04
+O01071,C0710,Market Intelligence,121656,Closed Won,Carol,2026-02-12
+O01072,C0574,ESG Analytics,25039,Negotiation,David,2026-10-08
+O01073,C0460,Commodity Insights,65231,Closed Lost,Bob,2026-09-08
+O01074,C0796,Commodity Insights,181712,Closed Lost,Bob,2026-10-09
+O01075,C0815,Commodity Insights,94540,Negotiation,Alice,2026-02-14
+O01076,C0432,ESG Analytics,43901,Closed Lost,David,2026-11-25
+O01077,C0203,Market Intelligence,234744,Closed Won,Alice,2026-03-04
+O01078,C0429,Commodity Insights,205673,Closed Lost,David,2026-12-04
+O01079,C0130,Market Intelligence,223591,Closed Won,Alice,2026-12-06
+O01080,C0075,Market Intelligence,139977,Closed Lost,David,2026-07-12
+O01081,C0131,Commodity Insights,187695,Closed Lost,Bob,2026-12-10
+O01082,C0122,Commodity Insights,240254,Negotiation,Emma,2026-10-20
+O01083,C0111,ESG Analytics,16858,Prospecting,Carol,2026-08-14
+O01084,C0646,Commodity Insights,199169,Closed Won,Carol,2026-08-23
+O01085,C0138,ESG Analytics,53090,Closed Lost,Emma,2026-02-05
+O01086,C0918,Market Intelligence,160596,Closed Lost,Carol,2026-11-21
+O01087,C0465,Commodity Insights,89000,Closed Won,Bob,2026-09-24
+O01088,C0603,Commodity Insights,207638,Prospecting,Bob,2026-05-16
+O01089,C0350,Market Intelligence,152883,Closed Lost,Emma,2026-10-17
+O01090,C0865,Commodity Insights,79778,Negotiation,David,2026-06-25
+O01091,C0183,Market Intelligence,15992,Proposal,David,2026-09-09
+O01092,C0589,ESG Analytics,87409,Prospecting,Carol,2026-05-06
+O01093,C0122,Commodity Insights,76787,Closed Won,David,2026-04-06
+O01094,C0296,Commodity Insights,163903,Prospecting,Bob,2026-11-09
+O01095,C0145,Market Intelligence,59222,Closed Lost,Emma,2026-03-01
+O01096,C0613,Market Intelligence,238477,Closed Lost,Emma,2026-04-01
+O01097,C0501,Market Intelligence,101872,Proposal,Carol,2026-10-14
+O01098,C0750,Commodity Insights,141549,Proposal,David,2026-05-04
+O01099,C0734,ESG Analytics,245958,Prospecting,David,2026-07-16
+O01100,C0270,Market Intelligence,231624,Proposal,Carol,2026-12-22
+O01101,C0120,Commodity Insights,215669,Prospecting,Bob,2026-12-03
+O01102,C0335,Market Intelligence,137922,Negotiation,Carol,2026-08-21
+O01103,C0754,ESG Analytics,181182,Prospecting,Carol,2026-01-14
+O01104,C0103,ESG Analytics,213194,Closed Lost,Carol,2026-04-27
+O01105,C0572,ESG Analytics,224580,Prospecting,Alice,2026-04-05
+O01106,C0601,Commodity Insights,233619,Proposal,Bob,2026-05-16
+O01107,C0156,Commodity Insights,218350,Proposal,David,2026-05-05
+O01108,C0204,ESG Analytics,234602,Prospecting,Emma,2026-12-24
+O01109,C0220,Market Intelligence,118854,Prospecting,David,2026-09-20
+O01110,C0214,ESG Analytics,51691,Prospecting,David,2026-12-09
+O01111,C0629,Commodity Insights,170419,Closed Lost,Bob,2026-11-12
+O01112,C0496,ESG Analytics,177213,Proposal,Carol,2026-04-10
+O01113,C0685,Commodity Insights,133508,Closed Won,Emma,2026-06-18
+O01114,C0493,Commodity Insights,30305,Proposal,Alice,2026-05-14
+O01115,C0993,Commodity Insights,90300,Proposal,David,2026-02-06
+O01116,C0476,Commodity Insights,178175,Prospecting,Carol,2026-12-13
+O01117,C0722,Market Intelligence,207816,Closed Won,David,2026-10-14
+O01118,C0704,Market Intelligence,12592,Negotiation,Carol,2026-09-07
+O01119,C0912,Commodity Insights,20939,Closed Lost,Carol,2026-05-22
+O01120,C0326,Commodity Insights,107597,Closed Won,David,2026-07-09
+O01121,C0935,Market Intelligence,75337,Closed Won,Bob,2026-06-21
+O01122,C0839,Market Intelligence,85874,Closed Won,David,2026-04-19
+O01123,C0897,Market Intelligence,145512,Proposal,Alice,2026-10-20
+O01124,C0338,Market Intelligence,163586,Closed Lost,Alice,2026-12-01
+O01125,C0822,Commodity Insights,28659,Negotiation,Carol,2026-09-03
+O01126,C0671,Market Intelligence,140960,Proposal,Carol,2026-09-07
+O01127,C0161,ESG Analytics,108684,Proposal,Carol,2026-03-12
+O01128,C0340,Commodity Insights,61522,Closed Lost,Bob,2026-01-02
+O01129,C0866,Market Intelligence,202950,Closed Lost,Alice,2026-09-13
+O01130,C0811,Commodity Insights,16084,Proposal,Carol,2026-05-01
+O01131,C0236,ESG Analytics,207483,Proposal,Alice,2026-05-24
+O01132,C0127,Commodity Insights,176776,Closed Won,Bob,2026-12-09
+O01133,C0883,Market Intelligence,25061,Prospecting,Emma,2026-12-23
+O01134,C0781,ESG Analytics,113889,Prospecting,Alice,2026-12-27
+O01135,C0555,ESG Analytics,245903,Proposal,Alice,2026-12-19
+O01136,C0812,Commodity Insights,55930,Closed Lost,Carol,2026-06-14
+O01137,C0525,ESG Analytics,11142,Negotiation,Carol,2026-08-07
+O01138,C0103,Commodity Insights,176979,Closed Lost,David,2026-07-10
+O01139,C0440,Market Intelligence,63262,Closed Won,Emma,2026-05-16
+O01140,C0292,ESG Analytics,144776,Closed Lost,Bob,2026-07-01
+O01141,C0509,ESG Analytics,108191,Negotiation,Emma,2026-12-04
+O01142,C0464,Market Intelligence,156487,Prospecting,David,2026-04-15
+O01143,C0379,Commodity Insights,152627,Prospecting,Carol,2026-06-05
+O01144,C0830,ESG Analytics,26924,Prospecting,Emma,2026-03-07
+O01145,C0886,Commodity Insights,160558,Proposal,Alice,2026-03-13
+O01146,C0632,Commodity Insights,142207,Closed Lost,Bob,2026-01-25
+O01147,C0506,Commodity Insights,112966,Negotiation,Carol,2026-03-02
+O01148,C0330,ESG Analytics,153193,Closed Lost,David,2026-01-09
+O01149,C0707,Market Intelligence,202928,Closed Lost,David,2026-09-16
+O01150,C0321,ESG Analytics,66797,Negotiation,David,2026-12-16
+O01151,C0527,ESG Analytics,230090,Prospecting,Alice,2026-07-23
+O01152,C0080,Commodity Insights,38366,Prospecting,Bob,2026-09-24
+O01153,C0125,Market Intelligence,56738,Closed Won,Alice,2026-01-14
+O01154,C0508,Market Intelligence,169145,Closed Lost,David,2026-03-24
+O01155,C0896,ESG Analytics,114614,Closed Won,Alice,2026-05-04
+O01156,C0446,Commodity Insights,193728,Negotiation,Emma,2026-06-20
+O01157,C0911,Commodity Insights,152799,Proposal,Bob,2026-05-17
+O01158,C0702,Market Intelligence,215452,Closed Lost,Carol,2026-09-20
+O01159,C0258,Commodity Insights,126341,Proposal,Carol,2026-12-24
+O01160,C0873,Market Intelligence,48054,Closed Lost,David,2026-01-11
+O01161,C0427,Market Intelligence,44413,Closed Won,Alice,2026-01-10
+O01162,C0719,Market Intelligence,57236,Prospecting,Emma,2026-08-11
+O01163,C0097,Market Intelligence,168832,Closed Won,Emma,2026-03-03
+O01164,C0359,ESG Analytics,151579,Proposal,Carol,2026-11-01
+O01165,C0951,Market Intelligence,76979,Negotiation,David,2026-10-24
+O01166,C0314,Commodity Insights,168709,Closed Won,Carol,2026-09-18
+O01167,C0657,ESG Analytics,58107,Prospecting,Emma,2026-03-04
+O01168,C0749,Market Intelligence,78396,Proposal,Carol,2026-10-04
+O01169,C0130,ESG Analytics,158961,Closed Won,Carol,2026-10-25
+O01170,C0874,ESG Analytics,163538,Negotiation,Emma,2026-11-16
+O01171,C0215,Market Intelligence,5700,Proposal,Bob,2026-02-26
+O01172,C0630,Market Intelligence,42573,Proposal,David,2026-01-11
+O01173,C0080,Market Intelligence,40907,Closed Lost,David,2026-07-22
+O01174,C0484,Commodity Insights,84313,Closed Lost,Alice,2026-04-18
+O01175,C0403,Commodity Insights,207878,Closed Won,David,2026-06-10
+O01176,C0859,ESG Analytics,88092,Closed Lost,Alice,2026-10-27
+O01177,C0220,Market Intelligence,171138,Negotiation,Bob,2026-07-18
+O01178,C0453,Commodity Insights,187216,Negotiation,Alice,2026-09-14
+O01179,C0668,Commodity Insights,51664,Prospecting,Carol,2026-08-25
+O01180,C0687,Commodity Insights,195969,Closed Won,Bob,2026-10-18
+O01181,C0898,Market Intelligence,105258,Negotiation,Bob,2026-12-01
+O01182,C0201,Commodity Insights,99631,Closed Lost,Bob,2026-01-19
+O01183,C0318,Commodity Insights,29669,Negotiation,Carol,2026-09-01
+O01184,C0622,Commodity Insights,13789,Negotiation,David,2026-07-02
+O01185,C0713,ESG Analytics,71332,Negotiation,Alice,2026-10-27
+O01186,C0032,ESG Analytics,248158,Closed Won,Emma,2026-11-15
+O01187,C0503,Market Intelligence,129111,Closed Lost,Alice,2026-01-12
+O01188,C0030,ESG Analytics,239426,Proposal,Bob,2026-03-03
+O01189,C0430,Market Intelligence,19692,Closed Won,Alice,2026-06-04
+O01190,C0879,ESG Analytics,77739,Proposal,Emma,2026-12-01
+O01191,C0341,ESG Analytics,227358,Negotiation,Bob,2026-10-24
+O01192,C0967,Commodity Insights,140355,Prospecting,David,2026-07-27
+O01193,C0684,ESG Analytics,21117,Prospecting,Bob,2026-09-05
+O01194,C0747,Commodity Insights,27011,Proposal,David,2026-01-09
+O01195,C0624,Market Intelligence,185542,Closed Lost,David,2026-03-21
+O01196,C0765,Market Intelligence,86569,Negotiation,Emma,2026-06-04
+O01197,C0350,Commodity Insights,153943,Prospecting,Emma,2026-08-03
+O01198,C0120,Market Intelligence,52841,Prospecting,Bob,2026-06-19
+O01199,C0642,Market Intelligence,205991,Proposal,Alice,2026-04-21
+O01200,C0384,Commodity Insights,26305,Proposal,Carol,2026-11-21
+O01201,C0966,Market Intelligence,200928,Proposal,Carol,2026-01-13
+O01202,C0723,Commodity Insights,51662,Negotiation,Bob,2026-10-11
+O01203,C0424,Market Intelligence,223962,Proposal,Carol,2026-04-06
+O01204,C0303,Commodity Insights,187860,Closed Won,Carol,2026-02-16
+O01205,C0364,ESG Analytics,100319,Negotiation,Emma,2026-08-27
+O01206,C0647,ESG Analytics,223033,Proposal,Alice,2026-10-13
+O01207,C0160,ESG Analytics,154084,Proposal,David,2026-06-21
+O01208,C0831,ESG Analytics,213737,Negotiation,Bob,2026-06-23
+O01209,C0992,ESG Analytics,149601,Negotiation,Alice,2026-09-25
+O01210,C0216,Commodity Insights,62214,Closed Won,Carol,2026-01-04
+O01211,C0530,ESG Analytics,170442,Proposal,David,2026-03-15
+O01212,C0601,Commodity Insights,102591,Closed Lost,David,2026-11-19
+O01213,C0923,Market Intelligence,89507,Prospecting,Carol,2026-01-06
+O01214,C0432,Commodity Insights,92742,Negotiation,Alice,2026-03-12
+O01215,C0314,Market Intelligence,127379,Closed Lost,Bob,2026-01-15
+O01216,C0829,ESG Analytics,124654,Closed Lost,Emma,2026-12-14
+O01217,C0749,Commodity Insights,129144,Proposal,Carol,2026-12-12
+O01218,C0616,Commodity Insights,131499,Closed Won,Carol,2026-01-08
+O01219,C0782,ESG Analytics,33273,Closed Won,David,2026-05-19
+O01220,C0411,ESG Analytics,12485,Proposal,Emma,2026-03-10
+O01221,C0908,ESG Analytics,187879,Closed Lost,Bob,2026-10-25
+O01222,C0143,Market Intelligence,178908,Negotiation,Alice,2026-02-10
+O01223,C0812,Market Intelligence,215105,Negotiation,David,2026-07-06
+O01224,C0472,Market Intelligence,177650,Proposal,Bob,2026-03-10
+O01225,C0315,Market Intelligence,53390,Proposal,Bob,2026-07-03
+O01226,C0742,Market Intelligence,45406,Closed Lost,Carol,2026-01-16
+O01227,C0164,Commodity Insights,31191,Closed Won,Emma,2026-11-13
+O01228,C0716,Market Intelligence,244293,Closed Won,David,2026-08-23
+O01229,C0249,Market Intelligence,106600,Proposal,Carol,2026-03-13
+O01230,C0792,Commodity Insights,240410,Negotiation,David,2026-10-13
+O01231,C0547,Market Intelligence,95929,Closed Won,Emma,2026-01-08
+O01232,C0907,ESG Analytics,51703,Proposal,Carol,2026-06-11
+O01233,C0514,Market Intelligence,165056,Closed Lost,David,2026-02-21
+O01234,C0236,Market Intelligence,136058,Proposal,Alice,2026-04-10
+O01235,C0446,Market Intelligence,94020,Closed Won,Bob,2026-07-05
+O01236,C0292,Commodity Insights,106401,Closed Won,Alice,2026-05-14
+O01237,C0184,Market Intelligence,109389,Closed Lost,Alice,2026-08-26
+O01238,C0085,Commodity Insights,184847,Prospecting,David,2026-01-06
+O01239,C0327,Market Intelligence,155649,Closed Lost,David,2026-11-15
+O01240,C0012,Commodity Insights,176394,Closed Won,David,2026-01-10
+O01241,C0436,Commodity Insights,199527,Prospecting,Emma,2026-08-17
+O01242,C0382,Commodity Insights,191652,Negotiation,Emma,2026-06-04
+O01243,C0805,Market Intelligence,116166,Closed Lost,David,2026-11-03
+O01244,C0154,Market Intelligence,93372,Closed Lost,Carol,2026-04-17
+O01245,C0833,ESG Analytics,195743,Closed Won,David,2026-01-15
+O01246,C0289,Market Intelligence,36863,Closed Won,David,2026-06-02
+O01247,C0911,ESG Analytics,184932,Negotiation,Carol,2026-07-11
+O01248,C0692,Commodity Insights,206020,Prospecting,Emma,2026-05-06
+O01249,C0301,Commodity Insights,114329,Prospecting,David,2026-06-10
+O01250,C0652,Market Intelligence,161179,Prospecting,Carol,2026-12-02
+O01251,C0545,ESG Analytics,108865,Proposal,Bob,2026-02-18
+O01252,C0097,Market Intelligence,195522,Proposal,David,2026-07-09
+O01253,C0354,Commodity Insights,185615,Closed Lost,Bob,2026-12-27
+O01254,C0537,ESG Analytics,125171,Prospecting,Alice,2026-06-12
+O01255,C0040,Market Intelligence,164738,Prospecting,David,2026-09-24
+O01256,C0081,Commodity Insights,248122,Negotiation,David,2026-07-01
+O01257,C0189,ESG Analytics,72333,Prospecting,David,2026-02-26
+O01258,C0197,ESG Analytics,73413,Negotiation,Emma,2026-09-18
+O01259,C0875,Market Intelligence,186995,Prospecting,Carol,2026-10-16
+O01260,C0221,Commodity Insights,77033,Proposal,Carol,2026-09-22
+O01261,C0047,ESG Analytics,109509,Proposal,Carol,2026-05-01
+O01262,C0417,Market Intelligence,9907,Closed Won,Bob,2026-05-09
+O01263,C0474,ESG Analytics,212161,Negotiation,Alice,2026-04-08
+O01264,C0019,ESG Analytics,90094,Proposal,Alice,2026-10-10
+O01265,C0746,ESG Analytics,164728,Closed Won,Emma,2026-07-21
+O01266,C0610,Commodity Insights,146939,Closed Won,David,2026-09-01
+O01267,C0352,Commodity Insights,88792,Negotiation,David,2026-03-15
+O01268,C0875,ESG Analytics,135803,Proposal,Emma,2026-12-06
+O01269,C0690,Commodity Insights,72028,Closed Won,Alice,2026-11-28
+O01270,C0586,Market Intelligence,170513,Closed Won,Emma,2026-06-03
+O01271,C0213,ESG Analytics,143829,Negotiation,Carol,2026-05-25
+O01272,C0323,Commodity Insights,181816,Closed Won,Alice,2026-03-20
+O01273,C0599,Market Intelligence,168647,Negotiation,Emma,2026-07-14
+O01274,C0784,Market Intelligence,201971,Negotiation,Emma,2026-12-16
+O01275,C0241,Commodity Insights,246480,Closed Lost,Bob,2026-07-20
+O01276,C0972,Market Intelligence,30422,Closed Won,Bob,2026-04-04
+O01277,C0585,Commodity Insights,51824,Proposal,David,2026-09-14
+O01278,C0361,Market Intelligence,114623,Closed Lost,Carol,2026-06-25
+O01279,C0372,ESG Analytics,32692,Negotiation,Emma,2026-09-18
+O01280,C0402,Market Intelligence,230196,Closed Won,David,2026-08-10
+O01281,C0846,Commodity Insights,46148,Proposal,David,2026-05-01
+O01282,C0546,Commodity Insights,204998,Closed Won,Bob,2026-11-04
+O01283,C0393,ESG Analytics,176207,Closed Won,David,2026-07-07
+O01284,C0652,Market Intelligence,167234,Proposal,Bob,2026-10-20
+O01285,C0516,Market Intelligence,162173,Closed Lost,David,2026-01-11
+O01286,C0625,Market Intelligence,48636,Closed Lost,David,2026-11-03
+O01287,C0975,Commodity Insights,10955,Closed Lost,David,2026-09-17
+O01288,C0885,Market Intelligence,227903,Proposal,David,2026-06-24
+O01289,C0896,Market Intelligence,50930,Closed Won,Bob,2026-06-05
+O01290,C0301,Market Intelligence,239473,Prospecting,Bob,2026-10-15
+O01291,C0471,Market Intelligence,184220,Closed Lost,David,2026-04-26
+O01292,C0182,Commodity Insights,136128,Prospecting,Emma,2026-06-28
+O01293,C0943,Market Intelligence,69189,Closed Won,Alice,2026-01-24
+O01294,C0034,ESG Analytics,182438,Closed Won,Emma,2026-08-28
+O01295,C0395,Market Intelligence,210269,Closed Won,Carol,2026-12-18
+O01296,C0124,ESG Analytics,208580,Closed Lost,Emma,2026-12-01
+O01297,C0450,Commodity Insights,221990,Prospecting,Carol,2026-07-27
+O01298,C0843,ESG Analytics,206526,Prospecting,Carol,2026-07-23
+O01299,C0950,ESG Analytics,169958,Closed Won,David,2026-02-04
+O01300,C0150,Commodity Insights,203689,Closed Lost,Alice,2026-12-06
+O01301,C0376,Commodity Insights,177107,Negotiation,Bob,2026-04-26
+O01302,C0495,Market Intelligence,74339,Prospecting,Carol,2026-11-23
+O01303,C0076,Commodity Insights,240718,Closed Won,Bob,2026-05-11
+O01304,C0303,ESG Analytics,121568,Negotiation,David,2026-12-09
+O01305,C0582,Commodity Insights,160825,Prospecting,Bob,2026-03-17
+O01306,C0296,Market Intelligence,62939,Negotiation,Emma,2026-06-23
+O01307,C0299,Commodity Insights,192652,Proposal,Emma,2026-11-10
+O01308,C0487,ESG Analytics,120307,Negotiation,Bob,2026-12-26
+O01309,C0712,Market Intelligence,43410,Closed Lost,Carol,2026-07-09
+O01310,C0653,Market Intelligence,12341,Proposal,Emma,2026-05-05
+O01311,C0599,Market Intelligence,73005,Negotiation,Emma,2026-12-28
+O01312,C0530,Commodity Insights,130035,Closed Lost,Bob,2026-06-21
+O01313,C0160,ESG Analytics,228506,Closed Lost,Carol,2026-09-12
+O01314,C0388,Commodity Insights,174968,Proposal,Emma,2026-08-06
+O01315,C0496,Commodity Insights,8730,Prospecting,Carol,2026-04-10
+O01316,C0212,Market Intelligence,44344,Negotiation,Emma,2026-12-26
+O01317,C0123,ESG Analytics,56627,Negotiation,David,2026-08-19
+O01318,C0935,ESG Analytics,242581,Prospecting,Emma,2026-04-24
+O01319,C0208,Commodity Insights,179127,Prospecting,David,2026-11-04
+O01320,C0975,Commodity Insights,138016,Prospecting,Carol,2026-09-18
+O01321,C0867,ESG Analytics,145962,Prospecting,Alice,2026-08-19
+O01322,C0536,Market Intelligence,69144,Negotiation,Bob,2026-12-21
+O01323,C0879,Market Intelligence,64857,Closed Won,Bob,2026-01-20
+O01324,C0273,ESG Analytics,77738,Prospecting,Bob,2026-12-27
+O01325,C0940,Market Intelligence,242539,Proposal,Emma,2026-05-02
+O01326,C0213,Market Intelligence,68947,Closed Lost,Emma,2026-08-15
+O01327,C0101,ESG Analytics,236116,Prospecting,Carol,2026-11-03
+O01328,C0202,Commodity Insights,35515,Closed Won,Alice,2026-08-07
+O01329,C0103,ESG Analytics,159501,Proposal,Emma,2026-08-10
+O01330,C0583,Market Intelligence,157492,Closed Won,Alice,2026-12-15
+O01331,C0797,ESG Analytics,56065,Closed Lost,Emma,2026-08-01
+O01332,C0258,Commodity Insights,162641,Negotiation,David,2026-11-06
+O01333,C0337,ESG Analytics,131688,Closed Lost,Carol,2026-11-10
+O01334,C0271,ESG Analytics,70279,Negotiation,Carol,2026-11-18
+O01335,C0516,Commodity Insights,169081,Closed Won,Alice,2026-03-16
+O01336,C0007,Commodity Insights,239190,Closed Lost,David,2026-08-06
+O01337,C0184,Market Intelligence,204344,Closed Won,Carol,2026-02-28
+O01338,C0454,Commodity Insights,172217,Closed Lost,Bob,2026-04-25
+O01339,C0112,Market Intelligence,60893,Negotiation,Emma,2026-05-11
+O01340,C0785,ESG Analytics,128699,Prospecting,Carol,2026-10-07
+O01341,C0585,ESG Analytics,45526,Negotiation,Bob,2026-04-25
+O01342,C0406,Market Intelligence,228440,Proposal,Emma,2026-11-06
+O01343,C0334,ESG Analytics,129197,Closed Lost,David,2026-12-09
+O01344,C0235,Commodity Insights,128727,Negotiation,Carol,2026-03-10
+O01345,C0342,ESG Analytics,97781,Negotiation,David,2026-05-14
+O01346,C0577,Commodity Insights,204935,Closed Won,Alice,2026-07-02
+O01347,C0992,Commodity Insights,97697,Proposal,David,2026-05-01
+O01348,C0839,ESG Analytics,58008,Proposal,Carol,2026-05-27
+O01349,C0383,Market Intelligence,89369,Closed Won,David,2026-06-18
+O01350,C0574,ESG Analytics,57285,Proposal,Emma,2026-09-15
+O01351,C0877,Commodity Insights,33006,Prospecting,Bob,2026-03-11
+O01352,C0741,Commodity Insights,194075,Closed Lost,David,2026-01-25
+O01353,C0676,Commodity Insights,185302,Closed Won,Bob,2026-05-20
+O01354,C0601,Commodity Insights,20549,Prospecting,Alice,2026-11-11
+O01355,C0283,ESG Analytics,101848,Closed Won,Carol,2026-02-16
+O01356,C0138,ESG Analytics,24395,Negotiation,David,2026-03-28
+O01357,C0155,ESG Analytics,83343,Closed Lost,Bob,2026-09-03
+O01358,C0449,Market Intelligence,90941,Closed Lost,Emma,2026-11-09
+O01359,C0571,ESG Analytics,219252,Negotiation,Alice,2026-03-25
+O01360,C0789,Market Intelligence,233255,Negotiation,Carol,2026-08-24
+O01361,C0906,Market Intelligence,53271,Negotiation,David,2026-04-15
+O01362,C0371,Commodity Insights,57162,Negotiation,Carol,2026-10-24
+O01363,C0956,Market Intelligence,41770,Prospecting,David,2026-07-13
+O01364,C0826,Commodity Insights,214216,Prospecting,Emma,2026-01-17
+O01365,C0383,Market Intelligence,153298,Closed Won,Alice,2026-09-28
+O01366,C0818,Commodity Insights,212129,Closed Lost,David,2026-05-19
+O01367,C0342,ESG Analytics,22592,Prospecting,Emma,2026-02-18
+O01368,C0800,Market Intelligence,144398,Proposal,Emma,2026-02-19
+O01369,C0945,Commodity Insights,164916,Proposal,Alice,2026-11-14
+O01370,C0838,Commodity Insights,127084,Closed Won,Bob,2026-11-11
+O01371,C0075,Market Intelligence,174827,Closed Lost,Carol,2026-08-17
+O01372,C0800,ESG Analytics,198844,Closed Won,Alice,2026-07-19
+O01373,C0301,Market Intelligence,168496,Closed Won,Alice,2026-01-08
+O01374,C0331,Commodity Insights,44451,Negotiation,Bob,2026-10-22
+O01375,C0787,Commodity Insights,144556,Closed Won,Bob,2026-10-12
+O01376,C0915,ESG Analytics,232342,Closed Lost,Bob,2026-04-25
+O01377,C0152,Market Intelligence,85866,Proposal,Alice,2026-01-18
+O01378,C0617,Market Intelligence,209331,Proposal,Emma,2026-06-03
+O01379,C0336,Commodity Insights,248391,Proposal,Bob,2026-04-10
+O01380,C0168,Commodity Insights,76061,Proposal,Bob,2026-06-01
+O01381,C0141,Commodity Insights,37272,Closed Won,Alice,2026-08-28
+O01382,C0762,ESG Analytics,59679,Closed Won,Alice,2026-08-15
+O01383,C0409,Market Intelligence,58905,Closed Won,Emma,2026-02-03
+O01384,C0993,Market Intelligence,137829,Closed Lost,Emma,2026-02-06
+O01385,C0775,Market Intelligence,36551,Closed Won,Emma,2026-06-24
+O01386,C0325,Commodity Insights,55064,Proposal,Alice,2026-09-12
+O01387,C0490,Commodity Insights,138361,Prospecting,David,2026-01-01
+O01388,C0390,Commodity Insights,109938,Prospecting,Carol,2026-06-10
+O01389,C0857,Market Intelligence,118809,Negotiation,Bob,2026-12-03
+O01390,C0667,ESG Analytics,217381,Closed Won,David,2026-01-09
+O01391,C0748,ESG Analytics,240229,Negotiation,Alice,2026-03-28
+O01392,C0255,Market Intelligence,153001,Prospecting,Bob,2026-09-05
+O01393,C0144,ESG Analytics,128158,Prospecting,Alice,2026-10-26
+O01394,C0215,ESG Analytics,178264,Negotiation,Carol,2026-10-14
+O01395,C0844,Market Intelligence,114901,Proposal,Bob,2026-09-05
+O01396,C0760,ESG Analytics,52609,Negotiation,Alice,2026-03-01
+O01397,C0510,Market Intelligence,85233,Closed Won,Carol,2026-05-20
+O01398,C0329,Market Intelligence,210329,Prospecting,Carol,2026-01-16
+O01399,C0036,ESG Analytics,233596,Proposal,David,2026-01-18
+O01400,C0387,ESG Analytics,194404,Closed Lost,Bob,2026-03-04
+O01401,C0016,Commodity Insights,240192,Proposal,Alice,2026-07-03
+O01402,C0116,Commodity Insights,126748,Closed Won,Emma,2026-08-05
+O01403,C0878,ESG Analytics,217185,Prospecting,Carol,2026-08-16
+O01404,C0922,Commodity Insights,38606,Negotiation,Emma,2026-06-20
+O01405,C0685,ESG Analytics,30270,Closed Won,David,2026-12-27
+O01406,C0873,ESG Analytics,56455,Proposal,Bob,2026-09-05
+O01407,C0825,Market Intelligence,64127,Prospecting,Alice,2026-12-13
+O01408,C0290,ESG Analytics,32584,Proposal,Bob,2026-05-06
+O01409,C0748,ESG Analytics,83933,Negotiation,David,2026-11-19
+O01410,C0533,ESG Analytics,156300,Negotiation,Bob,2026-06-14
+O01411,C0384,ESG Analytics,43068,Closed Lost,Alice,2026-12-26
+O01412,C0395,ESG Analytics,17587,Proposal,Bob,2026-01-05
+O01413,C0650,Market Intelligence,223989,Proposal,Bob,2026-07-11
+O01414,C0012,ESG Analytics,131032,Closed Won,Carol,2026-04-21
+O01415,C0891,ESG Analytics,111340,Closed Won,Bob,2026-08-20
+O01416,C0270,ESG Analytics,120307,Prospecting,Carol,2026-11-25
+O01417,C0527,Commodity Insights,93409,Proposal,Carol,2026-06-26
+O01418,C0893,Commodity Insights,207377,Closed Lost,David,2026-11-04
+O01419,C0685,Commodity Insights,205086,Closed Lost,Carol,2026-02-26
+O01420,C0375,Commodity Insights,173373,Prospecting,Emma,2026-03-04
+O01421,C0233,Commodity Insights,222599,Prospecting,Alice,2026-09-23
+O01422,C0303,Market Intelligence,233932,Negotiation,Carol,2026-08-14
+O01423,C0567,Market Intelligence,232270,Closed Lost,Bob,2026-07-27
+O01424,C0964,ESG Analytics,56086,Proposal,Bob,2026-01-07
+O01425,C0752,ESG Analytics,97782,Closed Lost,Emma,2026-03-19
+O01426,C0881,ESG Analytics,142637,Prospecting,Emma,2026-06-18
+O01427,C0236,ESG Analytics,144164,Proposal,Carol,2026-03-04
+O01428,C0697,Market Intelligence,171437,Closed Lost,Bob,2026-12-05
+O01429,C0554,ESG Analytics,116153,Proposal,Carol,2026-01-13
+O01430,C0304,Commodity Insights,241180,Closed Lost,David,2026-08-15
+O01431,C0330,Market Intelligence,194149,Negotiation,Alice,2026-02-09
+O01432,C0726,ESG Analytics,180143,Negotiation,Bob,2026-12-20
+O01433,C0609,Market Intelligence,20524,Closed Won,Bob,2026-03-16
+O01434,C0843,Market Intelligence,205433,Proposal,David,2026-03-21
+O01435,C0430,Commodity Insights,160036,Proposal,Bob,2026-06-03
+O01436,C0232,Commodity Insights,41815,Closed Won,Alice,2026-12-24
+O01437,C0600,ESG Analytics,44805,Proposal,David,2026-03-22
+O01438,C0283,Commodity Insights,7823,Prospecting,Emma,2026-05-17
+O01439,C0106,ESG Analytics,161879,Closed Won,Bob,2026-11-15
+O01440,C0306,Market Intelligence,146887,Closed Lost,David,2026-03-03
+O01441,C0902,ESG Analytics,94489,Negotiation,Alice,2026-07-27
+O01442,C0913,Commodity Insights,34579,Closed Won,David,2026-10-06
+O01443,C0898,ESG Analytics,186256,Closed Won,Carol,2026-04-17
+O01444,C0106,Market Intelligence,196826,Closed Lost,Emma,2026-06-08
+O01445,C0891,ESG Analytics,134638,Closed Won,David,2026-01-21
+O01446,C0108,Commodity Insights,225810,Negotiation,Carol,2026-11-17
+O01447,C0337,Commodity Insights,179844,Negotiation,Carol,2026-02-01
+O01448,C0104,ESG Analytics,216285,Closed Won,Bob,2026-10-16
+O01449,C0227,ESG Analytics,118709,Negotiation,Alice,2026-12-16
+O01450,C0575,ESG Analytics,224522,Closed Lost,David,2026-10-17
+O01451,C0892,ESG Analytics,105292,Prospecting,Emma,2026-02-19
+O01452,C0859,ESG Analytics,30841,Closed Lost,Alice,2026-02-25
+O01453,C0245,Commodity Insights,157075,Closed Lost,David,2026-07-23
+O01454,C0763,Market Intelligence,96043,Closed Won,David,2026-10-28
+O01455,C0536,Market Intelligence,109514,Closed Won,Alice,2026-04-19
+O01456,C0186,Market Intelligence,170287,Negotiation,Alice,2026-05-14
+O01457,C0822,Market Intelligence,196118,Closed Won,Carol,2026-06-27
+O01458,C0700,Commodity Insights,97373,Proposal,Carol,2026-08-26
+O01459,C0049,Commodity Insights,125115,Negotiation,Bob,2026-04-18
+O01460,C0790,ESG Analytics,174944,Negotiation,David,2026-06-25
+O01461,C0836,Market Intelligence,226438,Closed Won,Alice,2026-06-12
+O01462,C0632,ESG Analytics,198949,Proposal,Carol,2026-05-04
+O01463,C0937,ESG Analytics,28706,Closed Won,Carol,2026-10-16
+O01464,C0655,Market Intelligence,203328,Closed Won,Bob,2026-05-28
+O01465,C0725,Commodity Insights,96906,Negotiation,David,2026-06-25
+O01466,C0164,Market Intelligence,89609,Prospecting,Alice,2026-04-19
+O01467,C0318,ESG Analytics,188560,Closed Lost,Carol,2026-09-18
+O01468,C0183,Commodity Insights,167128,Prospecting,Bob,2026-02-03
+O01469,C0729,ESG Analytics,244782,Closed Won,Carol,2026-03-23
+O01470,C0349,ESG Analytics,97746,Closed Won,Bob,2026-07-04
+O01471,C0866,ESG Analytics,218535,Negotiation,Emma,2026-10-03
+O01472,C0332,Market Intelligence,121008,Prospecting,Bob,2026-09-05
+O01473,C0684,Commodity Insights,11909,Closed Won,Bob,2026-12-08
+O01474,C0252,Market Intelligence,120436,Proposal,Bob,2026-01-10
+O01475,C0250,Market Intelligence,229796,Closed Lost,David,2026-08-14
+O01476,C0570,ESG Analytics,153920,Proposal,David,2026-03-28
+O01477,C0532,ESG Analytics,109757,Closed Lost,David,2026-12-09
+O01478,C0724,Commodity Insights,215613,Negotiation,David,2026-06-12
+O01479,C0922,Market Intelligence,88926,Closed Lost,Carol,2026-02-23
+O01480,C0138,Commodity Insights,230429,Proposal,Emma,2026-10-05
+O01481,C0099,ESG Analytics,190690,Closed Won,Emma,2026-06-04
+O01482,C0827,ESG Analytics,64722,Negotiation,Emma,2026-04-15
+O01483,C0276,ESG Analytics,224313,Prospecting,David,2026-10-15
+O01484,C0510,ESG Analytics,119343,Prospecting,Bob,2026-01-18
+O01485,C0460,ESG Analytics,175466,Prospecting,Carol,2026-08-28
+O01486,C0724,Market Intelligence,21718,Negotiation,Alice,2026-12-09
+O01487,C0584,Commodity Insights,240019,Prospecting,Emma,2026-08-14
+O01488,C0722,Market Intelligence,108873,Proposal,David,2026-05-18
+O01489,C0714,ESG Analytics,84865,Negotiation,Bob,2026-10-26
+O01490,C0897,ESG Analytics,111729,Proposal,Emma,2026-11-19
+O01491,C0323,Market Intelligence,164801,Prospecting,Carol,2026-10-04
+O01492,C0794,Market Intelligence,165917,Prospecting,Emma,2026-07-24
+O01493,C0166,ESG Analytics,56018,Proposal,Emma,2026-03-27
+O01494,C0186,Market Intelligence,175238,Closed Won,Alice,2026-06-03
+O01495,C0097,Commodity Insights,155471,Closed Won,David,2026-07-23
+O01496,C0486,Market Intelligence,227105,Negotiation,Bob,2026-02-10
+O01497,C0364,Market Intelligence,190404,Closed Won,Carol,2026-08-03
+O01498,C0189,Commodity Insights,110231,Proposal,Bob,2026-06-21
+O01499,C0649,Market Intelligence,94055,Closed Won,Alice,2026-09-09
+O01500,C0021,ESG Analytics,20964,Closed Lost,Alice,2026-11-12
+O01501,C0098,Market Intelligence,5453,Closed Lost,Alice,2026-01-11
+O01502,C0394,Commodity Insights,12249,Closed Lost,Emma,2026-06-28
+O01503,C0072,Market Intelligence,54409,Closed Lost,David,2026-03-18
+O01504,C0224,Commodity Insights,30418,Proposal,Emma,2026-06-19
+O01505,C0182,Commodity Insights,190170,Proposal,Emma,2026-03-27
+O01506,C0839,Commodity Insights,12953,Closed Lost,Alice,2026-09-26
+O01507,C0964,Market Intelligence,216603,Negotiation,Carol,2026-02-12
+O01508,C0700,Market Intelligence,159692,Closed Lost,Bob,2026-02-16
+O01509,C0198,ESG Analytics,45698,Closed Lost,Carol,2026-08-22
+O01510,C0562,Commodity Insights,210537,Closed Won,Alice,2026-11-18
+O01511,C0068,Commodity Insights,69545,Negotiation,Bob,2026-04-27
+O01512,C0503,Market Intelligence,213156,Closed Won,Alice,2026-06-02
+O01513,C0939,Commodity Insights,217574,Closed Lost,Alice,2026-09-03
+O01514,C0680,ESG Analytics,89031,Closed Lost,Emma,2026-10-23
+O01515,C0545,ESG Analytics,108333,Closed Lost,Bob,2026-05-11
+O01516,C0139,Commodity Insights,205152,Proposal,Carol,2026-11-14
+O01517,C0414,Commodity Insights,103845,Prospecting,David,2026-01-16
+O01518,C0107,Commodity Insights,152129,Closed Won,Emma,2026-07-10
+O01519,C0510,Commodity Insights,207071,Prospecting,Emma,2026-01-07
+O01520,C0970,Market Intelligence,85509,Closed Lost,Emma,2026-09-06
+O01521,C0657,Commodity Insights,198791,Prospecting,Emma,2026-01-02
+O01522,C0990,Commodity Insights,105899,Proposal,Carol,2026-09-02
+O01523,C0844,ESG Analytics,234036,Closed Won,Emma,2026-09-28
+O01524,C0183,ESG Analytics,102209,Prospecting,Bob,2026-02-15
+O01525,C0973,Market Intelligence,238925,Proposal,Carol,2026-02-23
+O01526,C0209,Commodity Insights,59194,Closed Lost,Emma,2026-01-02
+O01527,C0945,Commodity Insights,59009,Prospecting,Carol,2026-01-08
+O01528,C0676,Commodity Insights,51414,Closed Won,Bob,2026-06-27
+O01529,C0412,Market Intelligence,45875,Proposal,Emma,2026-04-20
+O01530,C0685,Commodity Insights,236196,Closed Won,Emma,2026-12-28
+O01531,C0924,ESG Analytics,86196,Proposal,Carol,2026-07-23
+O01532,C0011,Commodity Insights,220889,Closed Won,David,2026-05-27
+O01533,C0923,Market Intelligence,219099,Closed Won,Carol,2026-10-01
+O01534,C0642,ESG Analytics,108669,Prospecting,David,2026-03-22
+O01535,C0707,Market Intelligence,23487,Prospecting,Alice,2026-03-26
+O01536,C0501,Market Intelligence,53066,Closed Lost,Carol,2026-03-24
+O01537,C0263,ESG Analytics,192439,Closed Won,Carol,2026-09-10
+O01538,C0292,ESG Analytics,73550,Prospecting,Alice,2026-07-27
+O01539,C0907,Market Intelligence,27676,Closed Lost,David,2026-04-05
+O01540,C0531,Market Intelligence,127934,Closed Won,Alice,2026-02-08
+O01541,C0039,Commodity Insights,53359,Prospecting,Alice,2026-04-14
+O01542,C0631,Commodity Insights,119847,Proposal,David,2026-10-25
+O01543,C0043,ESG Analytics,249741,Closed Lost,Bob,2026-04-24
+O01544,C0326,Market Intelligence,154107,Prospecting,Bob,2026-06-28
+O01545,C0974,Commodity Insights,246654,Proposal,Carol,2026-08-07
+O01546,C0924,ESG Analytics,19792,Closed Won,David,2026-03-10
+O01547,C0518,Market Intelligence,64044,Proposal,Bob,2026-06-22
+O01548,C0739,Commodity Insights,11634,Closed Won,Alice,2026-04-20
+O01549,C0542,Commodity Insights,150975,Proposal,Bob,2026-09-11
+O01550,C0059,Market Intelligence,184506,Prospecting,David,2026-09-18
+O01551,C0018,ESG Analytics,193870,Proposal,Carol,2026-06-02
+O01552,C0147,Market Intelligence,184389,Proposal,Alice,2026-07-01
+O01553,C0577,Market Intelligence,218308,Closed Won,Emma,2026-02-28
+O01554,C0230,ESG Analytics,14226,Closed Lost,Emma,2026-02-01
+O01555,C0665,Commodity Insights,154813,Closed Won,Carol,2026-11-20
+O01556,C0397,Commodity Insights,243614,Proposal,David,2026-10-09
+O01557,C0354,ESG Analytics,124271,Closed Won,Bob,2026-08-18
+O01558,C0901,Commodity Insights,63678,Proposal,Carol,2026-11-24
+O01559,C0179,Commodity Insights,72426,Proposal,Carol,2026-12-01
+O01560,C0443,Commodity Insights,42744,Prospecting,David,2026-07-23
+O01561,C0901,ESG Analytics,228263,Proposal,David,2026-03-27
+O01562,C0642,Commodity Insights,59552,Closed Won,David,2026-07-15
+O01563,C0752,Commodity Insights,121363,Closed Won,David,2026-06-11
+O01564,C0334,ESG Analytics,109564,Proposal,Emma,2026-04-08
+O01565,C0223,ESG Analytics,55060,Closed Lost,Bob,2026-12-22
+O01566,C0803,ESG Analytics,100267,Closed Won,Emma,2026-07-12
+O01567,C0660,Commodity Insights,60971,Closed Won,Bob,2026-08-04
+O01568,C0556,ESG Analytics,123572,Negotiation,Emma,2026-07-02
+O01569,C0205,Market Intelligence,93521,Closed Lost,Bob,2026-11-13
+O01570,C0960,ESG Analytics,118189,Proposal,David,2026-01-23
+O01571,C0212,Commodity Insights,153738,Proposal,Carol,2026-12-22
+O01572,C0577,Market Intelligence,173096,Closed Won,Emma,2026-04-05
+O01573,C0422,Commodity Insights,127835,Proposal,Bob,2026-08-11
+O01574,C0626,ESG Analytics,144090,Prospecting,Alice,2026-02-03
+O01575,C0022,Market Intelligence,246217,Prospecting,Carol,2026-02-11
+O01576,C0954,Commodity Insights,58217,Proposal,Bob,2026-05-27
+O01577,C0068,Commodity Insights,168376,Negotiation,Emma,2026-08-16
+O01578,C0347,ESG Analytics,50932,Negotiation,Carol,2026-02-26
+O01579,C0576,Market Intelligence,241143,Proposal,Bob,2026-07-04
+O01580,C0546,ESG Analytics,112395,Proposal,Emma,2026-09-21
+O01581,C0481,ESG Analytics,78723,Proposal,Alice,2026-11-05
+O01582,C0932,Commodity Insights,30446,Prospecting,Bob,2026-07-16
+O01583,C0389,Commodity Insights,49684,Prospecting,Emma,2026-12-27
+O01584,C0372,Commodity Insights,158325,Closed Lost,Bob,2026-08-01
+O01585,C0994,Commodity Insights,181098,Closed Lost,Carol,2026-06-03
+O01586,C0908,Commodity Insights,23059,Proposal,Bob,2026-10-10
+O01587,C0694,Commodity Insights,245324,Proposal,Alice,2026-11-07
+O01588,C0985,ESG Analytics,89069,Negotiation,Alice,2026-06-20
+O01589,C0819,Commodity Insights,9182,Closed Lost,Emma,2026-07-06
+O01590,C0374,Commodity Insights,55337,Closed Lost,Carol,2026-09-01
+O01591,C0502,Commodity Insights,242454,Proposal,Alice,2026-11-08
+O01592,C0718,Commodity Insights,73973,Closed Won,David,2026-06-02
+O01593,C0280,ESG Analytics,204167,Closed Won,Alice,2026-06-18
+O01594,C0033,Market Intelligence,233600,Closed Lost,Alice,2026-12-19
+O01595,C0020,Commodity Insights,104790,Proposal,David,2026-07-13
+O01596,C0037,ESG Analytics,181135,Negotiation,David,2026-06-12
+O01597,C0823,ESG Analytics,228773,Closed Won,David,2026-12-11
+O01598,C0136,Commodity Insights,193512,Negotiation,Emma,2026-04-16
+O01599,C0289,Commodity Insights,26838,Closed Won,Alice,2026-11-11
+O01600,C0883,ESG Analytics,239833,Prospecting,Alice,2026-03-26
+O01601,C0781,Market Intelligence,68690,Prospecting,Bob,2026-06-03
+O01602,C0158,ESG Analytics,215097,Proposal,Alice,2026-02-01
+O01603,C0741,Market Intelligence,198069,Negotiation,Emma,2026-02-05
+O01604,C0597,ESG Analytics,233419,Closed Won,Carol,2026-11-04
+O01605,C0628,Market Intelligence,19723,Proposal,Bob,2026-12-03
+O01606,C0191,Market Intelligence,193286,Prospecting,Alice,2026-07-26
+O01607,C0703,Market Intelligence,60107,Prospecting,Alice,2026-07-11
+O01608,C0641,ESG Analytics,55499,Closed Won,Bob,2026-12-16
+O01609,C0620,ESG Analytics,53775,Closed Won,Carol,2026-12-22
+O01610,C0607,Market Intelligence,121003,Proposal,Emma,2026-01-03
+O01611,C0181,Market Intelligence,74012,Proposal,Emma,2026-10-07
+O01612,C0717,Market Intelligence,189252,Prospecting,Bob,2026-03-28
+O01613,C0330,Market Intelligence,47578,Closed Won,Emma,2026-05-20
+O01614,C0423,ESG Analytics,172928,Negotiation,Bob,2026-07-09
+O01615,C0845,Commodity Insights,197792,Proposal,Emma,2026-01-21
+O01616,C0912,ESG Analytics,70973,Negotiation,Bob,2026-02-02
+O01617,C0065,Commodity Insights,95236,Prospecting,Emma,2026-07-03
+O01618,C0691,ESG Analytics,121898,Prospecting,Alice,2026-06-19
+O01619,C0790,Commodity Insights,187996,Closed Lost,Alice,2026-10-09
+O01620,C0745,Commodity Insights,123171,Negotiation,David,2026-06-16
+O01621,C0308,Commodity Insights,87175,Closed Lost,Bob,2026-04-19
+O01622,C0175,Market Intelligence,186106,Negotiation,David,2026-08-15
+O01623,C0333,Commodity Insights,126536,Closed Won,David,2026-03-05
+O01624,C0756,Commodity Insights,114994,Prospecting,Bob,2026-06-13
+O01625,C0892,ESG Analytics,44160,Closed Won,Carol,2026-01-14
+O01626,C0811,ESG Analytics,242335,Proposal,Bob,2026-10-06
+O01627,C0223,Market Intelligence,9296,Closed Won,David,2026-03-09
+O01628,C0346,Market Intelligence,10683,Closed Won,David,2026-03-10
+O01629,C0850,ESG Analytics,77789,Proposal,Bob,2026-08-20
+O01630,C0742,Commodity Insights,118470,Closed Won,Bob,2026-08-22
+O01631,C0062,Commodity Insights,32790,Prospecting,Carol,2026-12-16
+O01632,C0623,Commodity Insights,42087,Proposal,Emma,2026-08-26
+O01633,C0222,Commodity Insights,133583,Prospecting,Carol,2026-11-06
+O01634,C0347,ESG Analytics,86425,Closed Lost,David,2026-10-04
+O01635,C0614,Market Intelligence,143841,Negotiation,Carol,2026-12-12
+O01636,C0827,ESG Analytics,231517,Proposal,Carol,2026-10-16
+O01637,C0065,Market Intelligence,122198,Negotiation,David,2026-04-07
+O01638,C0968,Commodity Insights,185428,Proposal,Carol,2026-11-16
+O01639,C0806,Commodity Insights,150488,Negotiation,Emma,2026-06-23
+O01640,C0200,Market Intelligence,89366,Closed Lost,Bob,2026-12-19
+O01641,C0625,Market Intelligence,218207,Proposal,David,2026-10-16
+O01642,C0912,Market Intelligence,87171,Closed Lost,Alice,2026-07-25
+O01643,C0152,ESG Analytics,89319,Prospecting,Emma,2026-08-15
+O01644,C0618,ESG Analytics,74732,Prospecting,David,2026-07-25
+O01645,C0198,Commodity Insights,191622,Proposal,Carol,2026-01-16
+O01646,C0253,Market Intelligence,170955,Prospecting,Carol,2026-06-27
+O01647,C0636,Commodity Insights,152292,Proposal,Carol,2026-06-16
+O01648,C0322,ESG Analytics,236529,Closed Lost,Bob,2026-11-07
+O01649,C0981,ESG Analytics,163618,Prospecting,Carol,2026-12-02
+O01650,C0754,Market Intelligence,142232,Closed Lost,Carol,2026-04-26
+O01651,C0386,Commodity Insights,188670,Prospecting,Carol,2026-05-07
+O01652,C0148,Commodity Insights,11627,Prospecting,David,2026-02-12
+O01653,C0477,Market Intelligence,122095,Closed Won,Emma,2026-03-20
+O01654,C0455,Commodity Insights,33244,Negotiation,David,2026-05-07
+O01655,C0724,ESG Analytics,123838,Negotiation,Bob,2026-10-05
+O01656,C0331,Market Intelligence,37483,Prospecting,Carol,2026-09-16
+O01657,C0378,Market Intelligence,87645,Closed Won,Emma,2026-01-21
+O01658,C0445,ESG Analytics,89904,Closed Won,Bob,2026-06-20
+O01659,C0857,Market Intelligence,173721,Negotiation,Carol,2026-10-25
+O01660,C0583,Market Intelligence,236541,Closed Lost,Alice,2026-12-23
+O01661,C0731,Market Intelligence,135200,Prospecting,Alice,2026-03-05
+O01662,C0105,ESG Analytics,47829,Proposal,Alice,2026-06-12
+O01663,C0347,Market Intelligence,113171,Negotiation,Alice,2026-08-13
+O01664,C0559,Market Intelligence,142541,Closed Won,David,2026-12-05
+O01665,C0562,Market Intelligence,218480,Proposal,David,2026-03-04
+O01666,C0782,Commodity Insights,64610,Proposal,Alice,2026-11-22
+O01667,C0572,Market Intelligence,18758,Proposal,David,2026-01-02
+O01668,C0225,Market Intelligence,45011,Proposal,Emma,2026-06-11
+O01669,C0397,ESG Analytics,180705,Closed Won,Alice,2026-09-25
+O01670,C0297,Commodity Insights,11163,Closed Won,Emma,2026-02-02
+O01671,C0205,ESG Analytics,14438,Proposal,Bob,2026-10-16
+O01672,C0008,Commodity Insights,188979,Prospecting,Emma,2026-06-17
+O01673,C0921,Market Intelligence,109118,Proposal,Bob,2026-09-01
+O01674,C0938,ESG Analytics,200101,Closed Lost,Carol,2026-05-18
+O01675,C0384,ESG Analytics,106821,Proposal,Bob,2026-10-09
+O01676,C0343,Market Intelligence,90736,Negotiation,David,2026-02-21
+O01677,C0293,Commodity Insights,12554,Closed Won,Emma,2026-11-22
+O01678,C0525,Commodity Insights,58632,Proposal,Alice,2026-01-13
+O01679,C0824,Market Intelligence,199724,Proposal,Bob,2026-10-24
+O01680,C0766,Commodity Insights,223347,Proposal,Emma,2026-05-12
+O01681,C0475,Market Intelligence,174824,Proposal,Emma,2026-05-07
+O01682,C0524,Market Intelligence,86238,Prospecting,Bob,2026-03-28
+O01683,C0342,Market Intelligence,135965,Closed Won,Carol,2026-08-13
+O01684,C0617,Market Intelligence,246387,Closed Won,David,2026-09-20
+O01685,C0293,ESG Analytics,229751,Proposal,Alice,2026-10-04
+O01686,C0906,Market Intelligence,228525,Prospecting,Emma,2026-01-28
+O01687,C0012,Commodity Insights,248835,Prospecting,Carol,2026-08-13
+O01688,C0747,ESG Analytics,46808,Prospecting,Alice,2026-06-07
+O01689,C0662,Market Intelligence,115930,Negotiation,Alice,2026-05-14
+O01690,C0670,Market Intelligence,82979,Prospecting,Alice,2026-05-05
+O01691,C0270,Commodity Insights,248826,Proposal,Alice,2026-11-24
+O01692,C0976,ESG Analytics,212817,Prospecting,David,2026-03-01
+O01693,C0116,Market Intelligence,195004,Proposal,David,2026-10-23
+O01694,C0571,Commodity Insights,75796,Prospecting,Emma,2026-08-03
+O01695,C0749,ESG Analytics,45185,Proposal,Alice,2026-07-22
+O01696,C0387,Market Intelligence,14741,Closed Won,David,2026-08-14
+O01697,C0180,Market Intelligence,156194,Prospecting,Alice,2026-05-23
+O01698,C0289,ESG Analytics,130611,Proposal,Carol,2026-01-22
+O01699,C0279,Market Intelligence,66556,Closed Won,Alice,2026-11-02
+O01700,C0895,ESG Analytics,223993,Closed Won,Emma,2026-12-16
+O01701,C0811,Market Intelligence,192582,Prospecting,Carol,2026-06-03
+O01702,C0613,Commodity Insights,124605,Closed Won,Emma,2026-03-12
+O01703,C0675,Commodity Insights,195368,Closed Lost,Emma,2026-03-11
+O01704,C0753,ESG Analytics,95908,Closed Won,Bob,2026-10-13
+O01705,C0382,Commodity Insights,96078,Negotiation,Bob,2026-11-25
+O01706,C0911,Commodity Insights,182133,Closed Lost,David,2026-06-14
+O01707,C0089,ESG Analytics,71374,Proposal,Carol,2026-06-21
+O01708,C0478,Commodity Insights,202578,Closed Lost,Bob,2026-01-11
+O01709,C0519,ESG Analytics,43024,Closed Lost,Carol,2026-09-21
+O01710,C0852,ESG Analytics,46793,Closed Lost,Bob,2026-04-27
+O01711,C0710,Commodity Insights,26428,Closed Won,Alice,2026-09-18
+O01712,C0043,ESG Analytics,32214,Closed Lost,Alice,2026-05-18
+O01713,C0681,Market Intelligence,198910,Proposal,Carol,2026-08-04
+O01714,C0334,ESG Analytics,224275,Negotiation,Emma,2026-07-17
+O01715,C0673,Commodity Insights,62428,Closed Lost,Carol,2026-12-14
+O01716,C0705,Market Intelligence,64195,Closed Won,Bob,2026-12-25
+O01717,C0193,ESG Analytics,5156,Closed Lost,Alice,2026-08-05
+O01718,C0938,Market Intelligence,187173,Negotiation,Bob,2026-07-10
+O01719,C0846,Market Intelligence,147073,Prospecting,Bob,2026-01-01
+O01720,C0032,Commodity Insights,36739,Proposal,Bob,2026-11-03
+O01721,C0069,Commodity Insights,123646,Prospecting,David,2026-06-22
+O01722,C0413,Market Intelligence,187928,Closed Lost,Carol,2026-06-13
+O01723,C0384,Market Intelligence,84635,Closed Won,Emma,2026-10-16
+O01724,C0651,ESG Analytics,160539,Prospecting,David,2026-01-16
+O01725,C0328,Commodity Insights,13137,Negotiation,David,2026-07-25
+O01726,C0552,Market Intelligence,115808,Closed Lost,Emma,2026-06-22
+O01727,C0503,Market Intelligence,104606,Prospecting,David,2026-02-16
+O01728,C0259,ESG Analytics,29130,Prospecting,Bob,2026-12-27
+O01729,C0733,ESG Analytics,246778,Prospecting,David,2026-07-24
+O01730,C0346,Market Intelligence,163232,Closed Won,Alice,2026-06-10
+O01731,C0566,ESG Analytics,229039,Closed Won,Bob,2026-10-14
+O01732,C0098,Market Intelligence,184260,Proposal,Emma,2026-11-25
+O01733,C0029,ESG Analytics,121504,Prospecting,Emma,2026-03-15
+O01734,C0282,ESG Analytics,153124,Closed Won,Emma,2026-11-24
+O01735,C0050,Commodity Insights,158527,Prospecting,Emma,2026-08-06
+O01736,C0924,Commodity Insights,81910,Proposal,Alice,2026-05-20
+O01737,C0340,Commodity Insights,33750,Proposal,Alice,2026-04-16
+O01738,C0498,Market Intelligence,6492,Closed Won,Bob,2026-07-02
+O01739,C0310,Market Intelligence,63568,Negotiation,Emma,2026-08-08
+O01740,C0731,Commodity Insights,216922,Prospecting,Alice,2026-03-05
+O01741,C0136,ESG Analytics,163651,Closed Lost,Alice,2026-08-16
+O01742,C0376,ESG Analytics,117714,Prospecting,Emma,2026-12-12
+O01743,C0651,ESG Analytics,32873,Closed Won,David,2026-01-09
+O01744,C0447,ESG Analytics,189037,Closed Won,Alice,2026-02-03
+O01745,C0270,ESG Analytics,98753,Closed Won,David,2026-09-08
+O01746,C0929,Market Intelligence,36722,Prospecting,Bob,2026-02-19
+O01747,C0192,ESG Analytics,56515,Closed Won,Emma,2026-06-18
+O01748,C0270,Commodity Insights,22516,Proposal,Emma,2026-07-04
+O01749,C0574,Market Intelligence,65882,Proposal,Bob,2026-05-05
+O01750,C0765,ESG Analytics,107422,Prospecting,Carol,2026-01-17
+O01751,C0808,Market Intelligence,34557,Closed Lost,Carol,2026-10-17
+O01752,C0010,Commodity Insights,235787,Proposal,Carol,2026-04-28
+O01753,C0492,Market Intelligence,54457,Closed Won,David,2026-08-07
+O01754,C0102,Market Intelligence,106674,Closed Lost,Emma,2026-02-05
+O01755,C0684,Market Intelligence,229879,Closed Lost,Bob,2026-02-16
+O01756,C0526,Market Intelligence,153414,Proposal,Bob,2026-11-25
+O01757,C0424,ESG Analytics,99823,Proposal,Carol,2026-07-02
+O01758,C0771,Commodity Insights,16248,Negotiation,David,2026-01-07
+O01759,C0688,ESG Analytics,248998,Negotiation,David,2026-08-20
+O01760,C0857,Market Intelligence,201243,Proposal,David,2026-10-26
+O01761,C0522,Commodity Insights,174355,Proposal,Bob,2026-10-17
+O01762,C0295,Commodity Insights,207663,Prospecting,David,2026-10-01
+O01763,C0428,Market Intelligence,152242,Prospecting,Bob,2026-11-02
+O01764,C0379,Commodity Insights,108092,Negotiation,David,2026-11-26
+O01765,C0940,Commodity Insights,84559,Closed Lost,Emma,2026-06-10
+O01766,C0876,Commodity Insights,139070,Closed Won,David,2026-12-19
+O01767,C0712,ESG Analytics,247077,Closed Lost,Emma,2026-11-26
+O01768,C0588,Market Intelligence,128031,Negotiation,Alice,2026-12-16
+O01769,C0999,Commodity Insights,144654,Closed Lost,Emma,2026-11-03
+O01770,C0258,ESG Analytics,75310,Negotiation,Carol,2026-10-17
+O01771,C0234,Commodity Insights,247960,Negotiation,Bob,2026-10-07
+O01772,C0357,Commodity Insights,55291,Negotiation,Emma,2026-11-14
+O01773,C0286,Commodity Insights,161699,Closed Won,Bob,2026-10-26
+O01774,C0143,ESG Analytics,82336,Proposal,Carol,2026-12-18
+O01775,C0567,Commodity Insights,58599,Closed Won,Emma,2026-09-06
+O01776,C0121,ESG Analytics,194462,Negotiation,Bob,2026-04-20
+O01777,C0809,ESG Analytics,222681,Negotiation,Bob,2026-11-26
+O01778,C0509,Commodity Insights,69391,Closed Won,David,2026-12-09
+O01779,C0955,ESG Analytics,125344,Closed Lost,Carol,2026-03-09
+O01780,C0621,Market Intelligence,71200,Prospecting,David,2026-09-13
+O01781,C0004,Market Intelligence,54526,Negotiation,David,2026-08-18
+O01782,C0598,Commodity Insights,138986,Closed Lost,David,2026-04-09
+O01783,C0053,Commodity Insights,169655,Closed Won,Emma,2026-02-16
+O01784,C0448,Commodity Insights,87088,Prospecting,Bob,2026-03-04
+O01785,C0371,Market Intelligence,15756,Prospecting,Carol,2026-02-18
+O01786,C0549,Commodity Insights,38402,Prospecting,David,2026-04-02
+O01787,C0913,ESG Analytics,153522,Prospecting,Alice,2026-02-11
+O01788,C0640,ESG Analytics,77659,Negotiation,David,2026-04-08
+O01789,C0226,ESG Analytics,163246,Closed Lost,Carol,2026-09-12
+O01790,C0861,Market Intelligence,44768,Prospecting,Emma,2026-10-11
+O01791,C0781,Market Intelligence,50047,Closed Won,Bob,2026-09-20
+O01792,C0018,Market Intelligence,28901,Closed Lost,Emma,2026-05-26
+O01793,C0498,Market Intelligence,30082,Proposal,David,2026-04-08
+O01794,C0471,ESG Analytics,48422,Proposal,Bob,2026-05-04
+O01795,C0004,Market Intelligence,180940,Negotiation,David,2026-10-28
+O01796,C0615,Commodity Insights,121959,Proposal,Bob,2026-02-28
+O01797,C0084,Commodity Insights,191757,Closed Won,David,2026-03-24
+O01798,C0910,Commodity Insights,227976,Closed Lost,David,2026-01-18
+O01799,C0784,Commodity Insights,58773,Closed Won,David,2026-09-11
+O01800,C0330,Market Intelligence,135818,Closed Lost,Emma,2026-07-27
+O01801,C0453,ESG Analytics,58862,Negotiation,Bob,2026-12-03
+O01802,C0616,ESG Analytics,184117,Closed Won,Bob,2026-07-07
+O01803,C0224,Commodity Insights,97606,Closed Won,Carol,2026-04-23
+O01804,C0298,Market Intelligence,104468,Closed Lost,David,2026-01-22
+O01805,C0958,ESG Analytics,68982,Prospecting,David,2026-12-26
+O01806,C0023,Commodity Insights,154856,Negotiation,Carol,2026-07-01
+O01807,C0503,Commodity Insights,194839,Closed Won,David,2026-02-14
+O01808,C0262,Commodity Insights,64914,Negotiation,Carol,2026-05-16
+O01809,C0162,Market Intelligence,62445,Closed Lost,Emma,2026-10-17
+O01810,C0830,Market Intelligence,226748,Prospecting,David,2026-06-02
+O01811,C0779,Market Intelligence,28585,Proposal,Alice,2026-10-23
+O01812,C0567,Market Intelligence,70638,Prospecting,Emma,2026-05-15
+O01813,C0153,Commodity Insights,42128,Closed Won,Carol,2026-03-08
+O01814,C0420,Commodity Insights,48680,Closed Lost,Alice,2026-04-28
+O01815,C0095,ESG Analytics,18669,Closed Lost,Bob,2026-05-18
+O01816,C0482,Commodity Insights,239598,Proposal,Bob,2026-01-26
+O01817,C0985,Market Intelligence,162976,Prospecting,Alice,2026-02-09
+O01818,C0837,Market Intelligence,144972,Prospecting,David,2026-09-25
+O01819,C0378,ESG Analytics,51903,Proposal,Emma,2026-03-08
+O01820,C0806,Market Intelligence,90322,Proposal,Carol,2026-09-27
+O01821,C0022,ESG Analytics,137254,Prospecting,David,2026-03-06
+O01822,C0050,Commodity Insights,45870,Proposal,Bob,2026-10-27
+O01823,C0377,ESG Analytics,210300,Negotiation,David,2026-04-15
+O01824,C0180,ESG Analytics,33803,Proposal,Bob,2026-11-20
+O01825,C0773,Market Intelligence,22583,Closed Won,Bob,2026-01-10
+O01826,C0472,ESG Analytics,214410,Closed Won,David,2026-09-18
+O01827,C0744,Commodity Insights,237991,Closed Lost,David,2026-11-17
+O01828,C0363,ESG Analytics,156380,Closed Won,Carol,2026-09-14
+O01829,C0171,ESG Analytics,229900,Closed Won,Bob,2026-01-07
+O01830,C0076,ESG Analytics,101338,Negotiation,Alice,2026-10-14
+O01831,C0392,Commodity Insights,83516,Negotiation,Alice,2026-06-16
+O01832,C0204,Market Intelligence,61510,Closed Won,Bob,2026-08-28
+O01833,C0605,ESG Analytics,41659,Negotiation,David,2026-04-05
+O01834,C0017,Market Intelligence,241890,Closed Won,Carol,2026-08-13
+O01835,C0478,ESG Analytics,126950,Negotiation,Bob,2026-08-05
+O01836,C0426,Market Intelligence,69321,Proposal,Alice,2026-05-12
+O01837,C0055,Commodity Insights,126920,Closed Won,David,2026-02-20
+O01838,C0302,Commodity Insights,220244,Closed Lost,Emma,2026-08-02
+O01839,C0957,Commodity Insights,22761,Negotiation,Carol,2026-04-10
+O01840,C0945,ESG Analytics,48501,Prospecting,Alice,2026-03-24
+O01841,C0729,ESG Analytics,75676,Prospecting,Alice,2026-09-07
+O01842,C0646,ESG Analytics,102325,Prospecting,David,2026-07-11
+O01843,C0818,ESG Analytics,125662,Negotiation,Emma,2026-06-10
+O01844,C0377,Market Intelligence,215036,Closed Lost,Emma,2026-02-15
+O01845,C0777,Commodity Insights,118615,Closed Lost,Alice,2026-11-25
+O01846,C0562,ESG Analytics,201329,Closed Lost,Emma,2026-02-05
+O01847,C0956,Commodity Insights,91547,Closed Won,Carol,2026-03-05
+O01848,C0781,Market Intelligence,29429,Closed Lost,David,2026-05-13
+O01849,C0226,Market Intelligence,16537,Negotiation,Alice,2026-03-07
+O01850,C0429,ESG Analytics,55767,Closed Won,Bob,2026-07-18
+O01851,C0582,Commodity Insights,245142,Proposal,Alice,2026-02-06
+O01852,C0880,Market Intelligence,74601,Closed Won,Alice,2026-04-15
+O01853,C0938,Market Intelligence,247436,Closed Won,Alice,2026-02-22
+O01854,C0471,Commodity Insights,166689,Negotiation,David,2026-05-19
+O01855,C0572,ESG Analytics,238090,Negotiation,Carol,2026-09-05
+O01856,C0684,ESG Analytics,223984,Closed Lost,Emma,2026-11-09
+O01857,C0826,ESG Analytics,209025,Proposal,Bob,2026-01-14
+O01858,C0495,Commodity Insights,91023,Closed Lost,Carol,2026-08-24
+O01859,C0415,Market Intelligence,160108,Negotiation,Carol,2026-02-27
+O01860,C0152,ESG Analytics,63622,Proposal,Bob,2026-08-05
+O01861,C0949,Market Intelligence,187814,Closed Lost,Emma,2026-06-14
+O01862,C0761,Commodity Insights,114914,Closed Lost,Carol,2026-05-03
+O01863,C0249,Market Intelligence,168330,Closed Won,Alice,2026-06-02
+O01864,C0447,Commodity Insights,218663,Closed Won,Bob,2026-07-16
+O01865,C0032,Commodity Insights,102092,Prospecting,Carol,2026-04-16
+O01866,C0901,Commodity Insights,248226,Closed Won,Emma,2026-04-13
+O01867,C0441,Market Intelligence,80095,Proposal,Emma,2026-03-11
+O01868,C0164,ESG Analytics,90758,Closed Lost,David,2026-02-04
+O01869,C0085,Market Intelligence,213717,Prospecting,Bob,2026-09-14
+O01870,C0505,Market Intelligence,249940,Proposal,Alice,2026-01-16
+O01871,C0182,Market Intelligence,39991,Negotiation,Carol,2026-11-22
+O01872,C0941,ESG Analytics,98651,Closed Lost,Alice,2026-01-06
+O01873,C0915,Commodity Insights,91544,Prospecting,Alice,2026-10-03
+O01874,C0041,ESG Analytics,5055,Proposal,Bob,2026-07-27
+O01875,C0503,Market Intelligence,75079,Closed Lost,Carol,2026-10-27
+O01876,C0539,Market Intelligence,223051,Closed Lost,Carol,2026-03-03
+O01877,C0474,ESG Analytics,228450,Negotiation,Bob,2026-11-25
+O01878,C0717,ESG Analytics,30197,Closed Won,Emma,2026-04-23
+O01879,C0291,Market Intelligence,108125,Negotiation,Bob,2026-12-16
+O01880,C0830,Commodity Insights,99044,Closed Lost,Carol,2026-05-21
+O01881,C0723,Commodity Insights,114568,Proposal,Carol,2026-11-11
+O01882,C0216,Market Intelligence,125923,Proposal,Bob,2026-01-03
+O01883,C0061,ESG Analytics,234413,Prospecting,Bob,2026-02-15
+O01884,C0130,Market Intelligence,194469,Prospecting,Carol,2026-06-23
+O01885,C0328,ESG Analytics,67719,Closed Won,David,2026-07-04
+O01886,C0953,ESG Analytics,180182,Closed Lost,Emma,2026-05-23
+O01887,C0215,Commodity Insights,177014,Prospecting,Carol,2026-03-13
+O01888,C0197,Commodity Insights,22316,Prospecting,Alice,2026-05-13
+O01889,C0192,Commodity Insights,126504,Closed Won,Carol,2026-08-05
+O01890,C0836,Commodity Insights,200371,Closed Won,Carol,2026-10-28
+O01891,C0717,Market Intelligence,6950,Proposal,Carol,2026-07-03
+O01892,C0499,Commodity Insights,43841,Prospecting,Bob,2026-04-17
+O01893,C0619,Commodity Insights,77839,Proposal,Bob,2026-07-02
+O01894,C0790,Market Intelligence,170553,Negotiation,Carol,2026-10-12
+O01895,C0346,Market Intelligence,32419,Closed Won,Emma,2026-04-07
+O01896,C0152,Commodity Insights,183351,Closed Lost,Carol,2026-09-13
+O01897,C0911,ESG Analytics,159792,Closed Lost,Emma,2026-04-14
+O01898,C0789,ESG Analytics,214788,Prospecting,David,2026-12-19
+O01899,C0561,Commodity Insights,146241,Closed Won,Alice,2026-05-11
+O01900,C0019,Commodity Insights,159486,Prospecting,David,2026-07-15
+O01901,C0937,ESG Analytics,154919,Proposal,Carol,2026-10-08
+O01902,C0461,Commodity Insights,83717,Prospecting,Bob,2026-11-19
+O01903,C0261,Commodity Insights,74564,Prospecting,Emma,2026-04-02
+O01904,C0228,Commodity Insights,67647,Closed Won,Alice,2026-07-02
+O01905,C0982,Market Intelligence,215342,Negotiation,Emma,2026-09-14
+O01906,C0017,ESG Analytics,232684,Negotiation,Emma,2026-11-02
+O01907,C0509,ESG Analytics,60945,Closed Lost,Emma,2026-05-25
+O01908,C0119,Market Intelligence,247648,Closed Won,Emma,2026-12-11
+O01909,C0182,ESG Analytics,176993,Proposal,Alice,2026-11-14
+O01910,C0082,Commodity Insights,174566,Proposal,David,2026-01-04
+O01911,C0133,ESG Analytics,196631,Negotiation,Bob,2026-11-10
+O01912,C0688,Commodity Insights,113940,Proposal,David,2026-04-24
+O01913,C0168,Commodity Insights,30586,Negotiation,Carol,2026-09-23
+O01914,C0562,ESG Analytics,22980,Prospecting,Bob,2026-02-28
+O01915,C0960,Market Intelligence,67796,Prospecting,Carol,2026-03-04
+O01916,C0784,Commodity Insights,93481,Prospecting,Emma,2026-09-15
+O01917,C0524,Market Intelligence,131154,Closed Lost,Carol,2026-02-12
+O01918,C0808,Market Intelligence,97599,Proposal,David,2026-04-18
+O01919,C0968,Commodity Insights,195137,Prospecting,Emma,2026-02-03
+O01920,C0167,Market Intelligence,94679,Proposal,Emma,2026-12-18
+O01921,C0199,Commodity Insights,247408,Negotiation,Alice,2026-06-28
+O01922,C0399,Commodity Insights,32150,Closed Lost,David,2026-04-06
+O01923,C0195,ESG Analytics,172113,Closed Won,Emma,2026-12-23
+O01924,C0069,ESG Analytics,64441,Closed Won,Emma,2026-08-13
+O01925,C0330,ESG Analytics,101697,Proposal,Alice,2026-01-15
+O01926,C0193,Market Intelligence,154668,Negotiation,Alice,2026-11-12
+O01927,C0665,Commodity Insights,113929,Prospecting,Carol,2026-08-03
+O01928,C0138,Market Intelligence,160883,Closed Lost,Emma,2026-02-19
+O01929,C0140,Commodity Insights,134589,Closed Lost,Emma,2026-12-25
+O01930,C0349,Market Intelligence,168825,Prospecting,Carol,2026-04-10
+O01931,C0550,Commodity Insights,81926,Prospecting,Alice,2026-01-10
+O01932,C0681,Market Intelligence,187427,Negotiation,David,2026-03-09
+O01933,C0349,Commodity Insights,24502,Closed Lost,Carol,2026-02-16
+O01934,C0316,ESG Analytics,83596,Closed Won,Alice,2026-01-10
+O01935,C0336,Market Intelligence,191594,Prospecting,Bob,2026-09-20
+O01936,C0614,Market Intelligence,100035,Prospecting,Alice,2026-05-25
+O01937,C0342,Commodity Insights,237890,Prospecting,Bob,2026-10-07
+O01938,C0597,Market Intelligence,65691,Prospecting,Carol,2026-05-27
+O01939,C0779,ESG Analytics,202876,Closed Lost,Alice,2026-12-18
+O01940,C0958,ESG Analytics,233144,Closed Lost,Carol,2026-09-22
+O01941,C0305,Market Intelligence,239704,Closed Won,Alice,2026-05-14
+O01942,C0096,ESG Analytics,92363,Negotiation,Alice,2026-03-03
+O01943,C0097,ESG Analytics,6051,Prospecting,David,2026-01-16
+O01944,C0829,Commodity Insights,111427,Closed Lost,Alice,2026-05-06
+O01945,C0606,ESG Analytics,239625,Proposal,Alice,2026-06-06
+O01946,C0190,ESG Analytics,245690,Closed Lost,Alice,2026-11-26
+O01947,C0018,Commodity Insights,62256,Proposal,Bob,2026-12-27
+O01948,C0885,ESG Analytics,138610,Proposal,David,2026-01-22
+O01949,C0536,Commodity Insights,156176,Proposal,David,2026-09-08
+O01950,C0061,Commodity Insights,60314,Closed Lost,David,2026-04-27
+O01951,C0541,Commodity Insights,95247,Proposal,David,2026-10-14
+O01952,C0933,ESG Analytics,80409,Negotiation,Bob,2026-10-28
+O01953,C0911,Market Intelligence,190310,Closed Won,Carol,2026-11-20
+O01954,C0510,Market Intelligence,35044,Closed Won,Emma,2026-04-24
+O01955,C0260,ESG Analytics,38604,Closed Lost,Bob,2026-11-19
+O01956,C0123,ESG Analytics,70216,Proposal,Alice,2026-04-08
+O01957,C0763,Market Intelligence,196693,Prospecting,David,2026-03-07
+O01958,C0284,Market Intelligence,155621,Prospecting,Bob,2026-12-04
+O01959,C0850,ESG Analytics,8607,Closed Won,Alice,2026-06-07
+O01960,C0458,Market Intelligence,43531,Prospecting,Carol,2026-06-14
+O01961,C0388,ESG Analytics,141017,Negotiation,David,2026-11-07
+O01962,C0879,ESG Analytics,43250,Proposal,David,2026-06-07
+O01963,C0891,ESG Analytics,229949,Proposal,David,2026-08-09
+O01964,C0448,Market Intelligence,71089,Prospecting,David,2026-08-06
+O01965,C0063,Market Intelligence,201168,Closed Won,Emma,2026-05-07
+O01966,C0424,Market Intelligence,236029,Negotiation,Bob,2026-05-09
+O01967,C0182,Commodity Insights,206602,Prospecting,David,2026-09-03
+O01968,C0601,Commodity Insights,96184,Negotiation,Bob,2026-08-07
+O01969,C0705,Commodity Insights,225061,Closed Won,David,2026-05-06
+O01970,C0492,Market Intelligence,119852,Proposal,Alice,2026-04-21
+O01971,C0498,Commodity Insights,62376,Closed Lost,Emma,2026-11-05
+O01972,C0113,Commodity Insights,194069,Negotiation,Emma,2026-05-23
+O01973,C0102,Commodity Insights,230968,Closed Lost,Carol,2026-12-13
+O01974,C0021,Market Intelligence,153676,Prospecting,Bob,2026-05-09
+O01975,C0830,Market Intelligence,203636,Closed Lost,Emma,2026-10-26
+O01976,C0947,ESG Analytics,246651,Proposal,David,2026-09-01
+O01977,C0153,Market Intelligence,90819,Closed Lost,David,2026-10-11
+O01978,C0002,Commodity Insights,55703,Proposal,Alice,2026-12-10
+O01979,C0739,Commodity Insights,70842,Negotiation,Emma,2026-04-21
+O01980,C0412,ESG Analytics,225701,Closed Lost,Emma,2026-10-12
+O01981,C0099,Commodity Insights,128693,Closed Lost,Bob,2026-04-11
+O01982,C0047,Commodity Insights,98554,Closed Won,Bob,2026-09-11
+O01983,C0505,Market Intelligence,117937,Closed Lost,Alice,2026-12-03
+O01984,C0106,ESG Analytics,239861,Proposal,Bob,2026-07-28
+O01985,C0045,Market Intelligence,127442,Closed Won,Emma,2026-12-03
+O01986,C0106,ESG Analytics,148803,Closed Won,Bob,2026-04-24
+O01987,C0220,Market Intelligence,102223,Prospecting,Alice,2026-05-01
+O01988,C0941,ESG Analytics,112253,Prospecting,Carol,2026-11-19
+O01989,C0912,Commodity Insights,239121,Proposal,Alice,2026-06-08
+O01990,C0627,Market Intelligence,29513,Negotiation,Emma,2026-09-24
+O01991,C0645,Market Intelligence,16579,Closed Won,Carol,2026-09-06
+O01992,C0674,ESG Analytics,196015,Prospecting,David,2026-04-26
+O01993,C0422,Commodity Insights,31238,Prospecting,Emma,2026-10-08
+O01994,C0948,ESG Analytics,77789,Prospecting,David,2026-12-12
+O01995,C0958,Commodity Insights,202480,Closed Won,Emma,2026-12-06
+O01996,C0028,ESG Analytics,30561,Closed Lost,Alice,2026-11-09
+O01997,C0198,Market Intelligence,220564,Proposal,Bob,2026-12-02
+O01998,C0751,Market Intelligence,56342,Proposal,Bob,2026-03-10
+O01999,C0472,Market Intelligence,178450,Closed Won,Bob,2026-10-05
+O02000,C0033,Market Intelligence,195249,Proposal,Carol,2026-11-25
+O02001,C0902,Commodity Insights,223823,Closed Won,Bob,2026-12-03
+O02002,C0854,Market Intelligence,129185,Closed Won,Alice,2026-03-12
+O02003,C0036,ESG Analytics,50900,Closed Won,Alice,2026-02-25
+O02004,C0162,Market Intelligence,24192,Proposal,David,2026-02-14
+O02005,C0235,ESG Analytics,218018,Proposal,Carol,2026-12-17
+O02006,C0731,ESG Analytics,236690,Closed Lost,Emma,2026-10-11
+O02007,C0908,Commodity Insights,46260,Closed Lost,Emma,2026-11-19
+O02008,C0221,Commodity Insights,116381,Proposal,Emma,2026-08-09
+O02009,C0324,Commodity Insights,163933,Proposal,Alice,2026-04-13
+O02010,C0303,Commodity Insights,207521,Closed Lost,David,2026-02-28
+O02011,C0596,Market Intelligence,213824,Proposal,Alice,2026-04-24
+O02012,C0718,ESG Analytics,229703,Prospecting,Emma,2026-08-13
+O02013,C0932,ESG Analytics,157217,Proposal,Alice,2026-09-06
+O02014,C0552,Market Intelligence,214438,Proposal,Bob,2026-01-17
+O02015,C0879,ESG Analytics,147519,Prospecting,Bob,2026-09-18
+O02016,C0086,Commodity Insights,142645,Closed Lost,Alice,2026-05-09
+O02017,C0341,ESG Analytics,40698,Proposal,Alice,2026-07-16
+O02018,C0871,Market Intelligence,41624,Proposal,Alice,2026-09-05
+O02019,C0640,Commodity Insights,23726,Closed Won,Emma,2026-02-24
+O02020,C0779,Commodity Insights,125821,Proposal,Carol,2026-06-01
+O02021,C0034,Market Intelligence,209484,Prospecting,Alice,2026-12-01
+O02022,C0086,Commodity Insights,48233,Closed Lost,Alice,2026-02-23
+O02023,C0195,Commodity Insights,216123,Prospecting,David,2026-09-21
+O02024,C0381,Market Intelligence,211429,Closed Lost,Alice,2026-12-05
+O02025,C0362,Commodity Insights,104364,Prospecting,Emma,2026-11-10
+O02026,C0771,Commodity Insights,73368,Proposal,Alice,2026-09-27
+O02027,C0152,ESG Analytics,180149,Closed Lost,Emma,2026-08-10
+O02028,C0503,ESG Analytics,243617,Prospecting,Bob,2026-03-27
+O02029,C0782,Commodity Insights,136443,Closed Lost,Alice,2026-06-13
+O02030,C0481,Market Intelligence,137944,Closed Won,David,2026-01-02
+O02031,C0614,Market Intelligence,5732,Negotiation,Bob,2026-07-12
+O02032,C0652,Commodity Insights,28249,Negotiation,Emma,2026-05-17
+O02033,C0154,Commodity Insights,104017,Closed Lost,Alice,2026-04-14
+O02034,C0153,Commodity Insights,139134,Proposal,Carol,2026-06-22
+O02035,C0051,Commodity Insights,86297,Proposal,Emma,2026-07-24
+O02036,C0043,ESG Analytics,192246,Prospecting,David,2026-01-14
+O02037,C0213,Market Intelligence,112527,Closed Lost,Emma,2026-09-15
+O02038,C0633,Commodity Insights,211182,Prospecting,Emma,2026-11-28
+O02039,C0947,ESG Analytics,53435,Proposal,Alice,2026-01-09
+O02040,C0822,Market Intelligence,248305,Prospecting,David,2026-05-27
+O02041,C0542,Market Intelligence,238361,Closed Lost,Emma,2026-12-01
+O02042,C0268,ESG Analytics,197226,Negotiation,Bob,2026-09-16
+O02043,C0511,Market Intelligence,140178,Proposal,David,2026-12-25
+O02044,C0193,ESG Analytics,174801,Prospecting,David,2026-05-08
+O02045,C0159,ESG Analytics,22178,Proposal,David,2026-10-22
+O02046,C0303,ESG Analytics,49792,Closed Lost,Emma,2026-11-22
+O02047,C0683,ESG Analytics,85608,Closed Won,Carol,2026-03-01
+O02048,C0249,Commodity Insights,203306,Proposal,Carol,2026-12-24
+O02049,C0866,ESG Analytics,117954,Proposal,Alice,2026-05-25
+O02050,C0258,Market Intelligence,126101,Prospecting,David,2026-05-21
+O02051,C0400,Market Intelligence,97976,Negotiation,Carol,2026-01-06
+O02052,C0413,Market Intelligence,194038,Negotiation,Carol,2026-09-22
+O02053,C0192,Commodity Insights,55245,Prospecting,Alice,2026-08-13
+O02054,C0316,Commodity Insights,212642,Negotiation,Carol,2026-09-19
+O02055,C0984,ESG Analytics,137439,Prospecting,Bob,2026-12-04
+O02056,C0378,Market Intelligence,150775,Closed Lost,Emma,2026-03-27
+O02057,C0283,Commodity Insights,195184,Proposal,David,2026-10-27
+O02058,C0714,Market Intelligence,181600,Negotiation,Alice,2026-05-22
+O02059,C0655,Market Intelligence,228599,Negotiation,Bob,2026-04-07
+O02060,C0214,Commodity Insights,55942,Closed Lost,Carol,2026-10-11
+O02061,C0905,ESG Analytics,37028,Closed Won,Bob,2026-03-26
+O02062,C0105,Market Intelligence,29792,Closed Lost,David,2026-09-15
+O02063,C0739,Market Intelligence,147705,Prospecting,Emma,2026-04-08
+O02064,C0608,Market Intelligence,170379,Proposal,David,2026-04-05
+O02065,C0415,ESG Analytics,89677,Proposal,Alice,2026-07-28
+O02066,C0036,ESG Analytics,25143,Prospecting,Emma,2026-09-16
+O02067,C0777,Commodity Insights,107063,Prospecting,David,2026-09-28
+O02068,C0417,ESG Analytics,193818,Closed Lost,Alice,2026-01-06
+O02069,C0214,Market Intelligence,217516,Prospecting,Emma,2026-02-11
+O02070,C0798,Commodity Insights,34363,Closed Lost,Bob,2026-10-17
+O02071,C0947,Market Intelligence,69064,Closed Won,Carol,2026-08-21
+O02072,C0720,Commodity Insights,74176,Negotiation,Emma,2026-02-24
+O02073,C0930,Commodity Insights,245300,Prospecting,Emma,2026-11-07
+O02074,C0402,Commodity Insights,164840,Negotiation,Bob,2026-01-03
+O02075,C0319,ESG Analytics,23589,Prospecting,Emma,2026-11-25
+O02076,C0589,Commodity Insights,33535,Closed Lost,Carol,2026-04-08
+O02077,C0407,ESG Analytics,130133,Negotiation,Alice,2026-10-05
+O02078,C0775,Commodity Insights,56040,Proposal,Bob,2026-04-20
+O02079,C0617,ESG Analytics,43766,Prospecting,Bob,2026-08-09
+O02080,C0344,Commodity Insights,114646,Prospecting,Alice,2026-05-02
+O02081,C0713,ESG Analytics,229730,Negotiation,Bob,2026-09-18
+O02082,C0418,ESG Analytics,16233,Negotiation,Alice,2026-06-08
+O02083,C0505,Commodity Insights,117373,Closed Won,Alice,2026-09-23
+O02084,C0099,Market Intelligence,200649,Proposal,David,2026-01-02
+O02085,C0967,Market Intelligence,234331,Prospecting,Emma,2026-04-12
+O02086,C0400,Commodity Insights,236876,Closed Lost,Alice,2026-01-13
+O02087,C0158,ESG Analytics,124440,Prospecting,Carol,2026-12-07
+O02088,C0103,Market Intelligence,206220,Proposal,Carol,2026-06-12
+O02089,C0054,Commodity Insights,138451,Closed Lost,Bob,2026-07-19
+O02090,C0112,Commodity Insights,169201,Closed Won,David,2026-09-21
+O02091,C0925,Market Intelligence,167838,Proposal,Emma,2026-05-10
+O02092,C0768,Market Intelligence,35363,Proposal,Carol,2026-09-01
+O02093,C0813,ESG Analytics,122291,Proposal,Carol,2026-05-08
+O02094,C0489,ESG Analytics,244265,Closed Lost,Emma,2026-03-14
+O02095,C0048,Market Intelligence,66275,Negotiation,Emma,2026-12-04
+O02096,C0055,Market Intelligence,179856,Negotiation,David,2026-12-23
+O02097,C0019,ESG Analytics,220549,Prospecting,Emma,2026-06-19
+O02098,C0595,ESG Analytics,21997,Negotiation,Carol,2026-10-06
+O02099,C0958,Market Intelligence,192341,Closed Won,Carol,2026-10-26
+O02100,C0170,Commodity Insights,203238,Closed Lost,Emma,2026-10-21
+O02101,C0431,ESG Analytics,155133,Closed Won,Carol,2026-09-21
+O02102,C0620,ESG Analytics,200564,Closed Won,Alice,2026-09-10
+O02103,C0149,ESG Analytics,210397,Negotiation,Emma,2026-07-21
+O02104,C0975,ESG Analytics,70064,Proposal,Carol,2026-10-04
+O02105,C0302,Market Intelligence,207453,Closed Lost,Carol,2026-10-20
+O02106,C0812,Market Intelligence,50907,Proposal,Alice,2026-03-27
+O02107,C0800,Market Intelligence,82183,Proposal,David,2026-07-19
+O02108,C0574,Market Intelligence,111907,Closed Lost,Alice,2026-09-16
+O02109,C0159,Commodity Insights,172834,Prospecting,David,2026-07-01
+O02110,C0658,Commodity Insights,50590,Proposal,Carol,2026-09-24
+O02111,C0234,ESG Analytics,164050,Proposal,Carol,2026-11-22
+O02112,C0617,Commodity Insights,175443,Proposal,Emma,2026-03-22
+O02113,C0919,ESG Analytics,203446,Prospecting,Carol,2026-01-12
+O02114,C0984,Commodity Insights,237595,Prospecting,Bob,2026-12-19
+O02115,C0625,Commodity Insights,94480,Prospecting,Emma,2026-03-13
+O02116,C0605,Commodity Insights,147737,Proposal,David,2026-11-09
+O02117,C0096,ESG Analytics,105252,Closed Lost,David,2026-06-14
+O02118,C0646,Market Intelligence,247079,Proposal,Alice,2026-09-16
+O02119,C0829,Commodity Insights,30756,Proposal,Bob,2026-09-11
+O02120,C0586,Commodity Insights,247175,Prospecting,Carol,2026-04-25
+O02121,C0274,Commodity Insights,146942,Proposal,Bob,2026-10-26
+O02122,C0792,Commodity Insights,227760,Closed Lost,Carol,2026-11-02
+O02123,C0876,Market Intelligence,223242,Proposal,David,2026-04-01
+O02124,C0007,ESG Analytics,228401,Closed Lost,David,2026-10-13
+O02125,C0930,Commodity Insights,21411,Prospecting,Alice,2026-07-17
+O02126,C0207,Market Intelligence,26289,Proposal,Emma,2026-06-27
+O02127,C0993,Market Intelligence,17560,Prospecting,David,2026-09-02
+O02128,C0627,ESG Analytics,78202,Prospecting,Carol,2026-11-20
+O02129,C0075,ESG Analytics,89251,Prospecting,David,2026-07-25
+O02130,C0182,ESG Analytics,141788,Proposal,Emma,2026-08-21
+O02131,C0422,ESG Analytics,42656,Prospecting,Carol,2026-04-21
+O02132,C0287,Commodity Insights,9408,Closed Won,David,2026-08-20
+O02133,C0289,Commodity Insights,47549,Prospecting,David,2026-03-24
+O02134,C0413,Commodity Insights,181001,Proposal,Emma,2026-03-12
+O02135,C0020,ESG Analytics,214365,Prospecting,David,2026-12-21
+O02136,C0846,Commodity Insights,246914,Closed Won,Alice,2026-03-19
+O02137,C0717,ESG Analytics,22509,Negotiation,Alice,2026-07-17
+O02138,C0691,ESG Analytics,73891,Prospecting,Bob,2026-04-07
+O02139,C0465,Market Intelligence,28379,Proposal,Carol,2026-06-23
+O02140,C0953,Market Intelligence,58115,Negotiation,David,2026-02-15
+O02141,C0558,Market Intelligence,126701,Prospecting,Bob,2026-03-22
+O02142,C0105,Market Intelligence,163053,Proposal,Alice,2026-07-04
+O02143,C0225,Commodity Insights,67383,Closed Lost,Carol,2026-03-15
+O02144,C0508,ESG Analytics,155322,Negotiation,David,2026-02-07
+O02145,C0224,Commodity Insights,24486,Closed Lost,Carol,2026-05-09
+O02146,C0607,Market Intelligence,195313,Proposal,Emma,2026-06-02
+O02147,C0145,Commodity Insights,82074,Closed Lost,Alice,2026-02-14
+O02148,C0283,Commodity Insights,18867,Proposal,David,2026-04-22
+O02149,C0257,Market Intelligence,109427,Closed Won,Emma,2026-02-05
+O02150,C0927,Commodity Insights,199226,Closed Won,Emma,2026-03-06
+O02151,C0077,Market Intelligence,223617,Proposal,Alice,2026-08-27
+O02152,C0604,ESG Analytics,221877,Proposal,Alice,2026-11-07
+O02153,C0268,ESG Analytics,248947,Closed Won,Bob,2026-10-18
+O02154,C0349,ESG Analytics,222513,Closed Won,Emma,2026-08-08
+O02155,C0777,Commodity Insights,232169,Proposal,Emma,2026-04-04
+O02156,C0869,ESG Analytics,51456,Closed Lost,Carol,2026-07-01
+O02157,C0347,Market Intelligence,155057,Closed Won,Alice,2026-08-26
+O02158,C0720,ESG Analytics,147763,Closed Won,David,2026-11-04
+O02159,C0465,Commodity Insights,188530,Prospecting,David,2026-08-08
+O02160,C0922,Commodity Insights,140863,Proposal,Alice,2026-06-25
+O02161,C0003,Commodity Insights,146720,Proposal,Alice,2026-11-27
+O02162,C0176,Market Intelligence,63696,Negotiation,Carol,2026-11-06
+O02163,C0089,Commodity Insights,182929,Negotiation,Alice,2026-06-18
+O02164,C0459,Market Intelligence,185026,Negotiation,David,2026-10-05
+O02165,C0751,Market Intelligence,142058,Proposal,Alice,2026-10-05
+O02166,C0336,ESG Analytics,109315,Closed Won,Emma,2026-01-18
+O02167,C0605,ESG Analytics,207524,Negotiation,Bob,2026-07-20
+O02168,C0624,ESG Analytics,80708,Closed Lost,Alice,2026-03-05
+O02169,C0914,Market Intelligence,228051,Negotiation,Alice,2026-10-23
+O02170,C0748,Market Intelligence,178621,Closed Lost,David,2026-12-20
+O02171,C0734,ESG Analytics,70738,Closed Lost,Carol,2026-11-05
+O02172,C0306,ESG Analytics,93531,Closed Lost,Emma,2026-09-21
+O02173,C0068,ESG Analytics,27023,Negotiation,Carol,2026-08-21
+O02174,C0559,ESG Analytics,125031,Prospecting,David,2026-02-12
+O02175,C0946,Market Intelligence,66677,Closed Lost,David,2026-08-13
+O02176,C0490,Market Intelligence,146366,Proposal,Alice,2026-10-15
+O02177,C0282,Commodity Insights,209537,Prospecting,Emma,2026-02-24
+O02178,C0643,ESG Analytics,125954,Closed Won,Emma,2026-09-16
+O02179,C0394,ESG Analytics,44299,Closed Lost,Emma,2026-07-17
+O02180,C0510,ESG Analytics,226645,Proposal,Bob,2026-06-17
+O02181,C0591,Market Intelligence,134474,Prospecting,Emma,2026-06-22
+O02182,C0537,Market Intelligence,109488,Proposal,Bob,2026-06-02
+O02183,C0713,Commodity Insights,236478,Prospecting,Carol,2026-07-13
+O02184,C0746,ESG Analytics,91999,Closed Won,Emma,2026-01-01
+O02185,C0690,Market Intelligence,49019,Negotiation,Emma,2026-03-25
+O02186,C0765,Commodity Insights,228472,Negotiation,Carol,2026-05-06
+O02187,C0957,ESG Analytics,108068,Closed Won,Emma,2026-07-07
+O02188,C0144,Commodity Insights,221653,Closed Lost,Carol,2026-03-21
+O02189,C0253,ESG Analytics,39890,Closed Lost,Emma,2026-05-26
+O02190,C0401,Market Intelligence,232093,Proposal,Emma,2026-10-04
+O02191,C0349,Commodity Insights,48102,Negotiation,Alice,2026-11-22
+O02192,C0938,Commodity Insights,53916,Closed Lost,Carol,2026-12-16
+O02193,C0183,Commodity Insights,106994,Proposal,Emma,2026-03-13
+O02194,C0969,ESG Analytics,63104,Proposal,Carol,2026-09-20
+O02195,C0801,ESG Analytics,102006,Prospecting,Bob,2026-09-04
+O02196,C0574,ESG Analytics,107555,Negotiation,Carol,2026-01-21
+O02197,C0502,ESG Analytics,73904,Closed Won,Emma,2026-06-01
+O02198,C0625,Commodity Insights,203177,Closed Won,Carol,2026-05-08
+O02199,C0008,Market Intelligence,85378,Closed Lost,Alice,2026-11-17
+O02200,C0845,ESG Analytics,24532,Prospecting,David,2026-10-16
+O02201,C0169,Market Intelligence,57205,Closed Lost,Carol,2026-10-08
+O02202,C0276,Market Intelligence,27547,Negotiation,Bob,2026-07-10
+O02203,C0091,Commodity Insights,81978,Closed Won,Alice,2026-06-27
+O02204,C0336,Market Intelligence,33107,Proposal,Bob,2026-06-20
+O02205,C0908,Market Intelligence,219312,Closed Won,David,2026-12-28
+O02206,C0974,ESG Analytics,30527,Proposal,David,2026-08-28
+O02207,C0325,Market Intelligence,9209,Closed Lost,Carol,2026-03-23
+O02208,C0886,ESG Analytics,215339,Prospecting,Carol,2026-02-02
+O02209,C0795,Commodity Insights,51484,Closed Won,David,2026-10-17
+O02210,C0971,Market Intelligence,187472,Closed Lost,Emma,2026-08-18
+O02211,C0062,ESG Analytics,197020,Proposal,David,2026-01-09
+O02212,C0370,Market Intelligence,66606,Closed Lost,Emma,2026-09-28
+O02213,C0786,Commodity Insights,110432,Proposal,Bob,2026-06-18
+O02214,C0829,Commodity Insights,114073,Prospecting,Carol,2026-10-17
+O02215,C0426,Commodity Insights,146273,Closed Won,Carol,2026-05-28
+O02216,C0172,Market Intelligence,134161,Negotiation,Emma,2026-06-24
+O02217,C0915,ESG Analytics,78299,Closed Lost,Carol,2026-12-19
+O02218,C0433,Commodity Insights,213824,Negotiation,Emma,2026-05-06
+O02219,C0515,Market Intelligence,84833,Closed Lost,Alice,2026-02-26
+O02220,C0710,Commodity Insights,92109,Prospecting,Bob,2026-01-02
+O02221,C0044,Market Intelligence,215140,Negotiation,Carol,2026-11-08
+O02222,C0601,ESG Analytics,235269,Proposal,Alice,2026-04-05
+O02223,C0659,Market Intelligence,214534,Negotiation,Carol,2026-02-07
+O02224,C0006,Commodity Insights,94110,Closed Won,Alice,2026-09-07
+O02225,C0649,ESG Analytics,116590,Closed Lost,Bob,2026-11-04
+O02226,C0291,Commodity Insights,79544,Closed Lost,Emma,2026-10-13
+O02227,C0396,ESG Analytics,167519,Closed Won,Bob,2026-08-28
+O02228,C0707,Market Intelligence,115905,Closed Won,David,2026-12-10
+O02229,C0659,Commodity Insights,44244,Prospecting,Bob,2026-06-28
+O02230,C0528,ESG Analytics,189466,Proposal,Carol,2026-05-07
+O02231,C0973,Market Intelligence,142842,Proposal,Bob,2026-12-18
+O02232,C0828,Market Intelligence,198212,Proposal,Bob,2026-02-05
+O02233,C0205,ESG Analytics,42542,Prospecting,Carol,2026-10-03
+O02234,C0061,Commodity Insights,198539,Prospecting,Alice,2026-09-08
+O02235,C0426,Commodity Insights,133329,Proposal,Bob,2026-12-18
+O02236,C0475,Commodity Insights,11350,Closed Lost,Bob,2026-08-13
+O02237,C0532,ESG Analytics,27830,Closed Won,Bob,2026-03-12
+O02238,C0492,Commodity Insights,89108,Negotiation,Carol,2026-09-21
+O02239,C0273,Commodity Insights,40564,Closed Won,Bob,2026-10-02
+O02240,C0334,Market Intelligence,167165,Prospecting,Emma,2026-11-24
+O02241,C0465,Commodity Insights,240838,Closed Lost,Bob,2026-12-04
+O02242,C0402,Market Intelligence,149015,Proposal,David,2026-02-21
+O02243,C0481,Market Intelligence,21599,Closed Won,Bob,2026-04-15
+O02244,C0807,ESG Analytics,195920,Proposal,Emma,2026-11-19
+O02245,C0990,Market Intelligence,224640,Prospecting,Carol,2026-03-06
+O02246,C0159,ESG Analytics,153602,Closed Lost,Bob,2026-12-14
+O02247,C0903,Market Intelligence,31426,Closed Won,Carol,2026-11-28
+O02248,C0600,Market Intelligence,172865,Negotiation,Bob,2026-09-18
+O02249,C0148,Market Intelligence,240066,Proposal,Carol,2026-11-12
+O02250,C0720,Market Intelligence,211923,Closed Lost,Emma,2026-04-11
+O02251,C0570,Commodity Insights,74934,Closed Won,Alice,2026-08-24
+O02252,C0661,Commodity Insights,198230,Closed Won,Bob,2026-03-26
+O02253,C0403,Commodity Insights,69785,Prospecting,Emma,2026-06-09
+O02254,C0887,Commodity Insights,156416,Closed Won,Emma,2026-12-24
+O02255,C0120,Market Intelligence,239165,Closed Won,Emma,2026-10-15
+O02256,C0003,Market Intelligence,154695,Proposal,David,2026-02-06
+O02257,C0057,Commodity Insights,69615,Closed Lost,David,2026-09-16
+O02258,C0737,Market Intelligence,61160,Closed Won,Carol,2026-03-19
+O02259,C0975,ESG Analytics,244856,Closed Lost,Bob,2026-03-05
+O02260,C0029,ESG Analytics,202328,Prospecting,Bob,2026-06-13
+O02261,C0747,ESG Analytics,231224,Prospecting,Emma,2026-04-06
+O02262,C0039,Market Intelligence,74549,Closed Lost,David,2026-10-26
+O02263,C0963,ESG Analytics,236951,Closed Won,Emma,2026-09-17
+O02264,C0885,ESG Analytics,119916,Negotiation,Bob,2026-12-24
+O02265,C0740,ESG Analytics,235297,Negotiation,Emma,2026-06-06
+O02266,C0243,ESG Analytics,145244,Closed Won,Alice,2026-01-07
+O02267,C0018,Commodity Insights,84194,Proposal,David,2026-11-03
+O02268,C0835,ESG Analytics,229181,Closed Lost,Carol,2026-02-15
+O02269,C0069,Commodity Insights,223938,Proposal,Bob,2026-12-19
+O02270,C0921,Market Intelligence,10987,Proposal,Emma,2026-03-25
+O02271,C0950,ESG Analytics,158846,Negotiation,Alice,2026-02-10
+O02272,C0204,Commodity Insights,77662,Closed Lost,Bob,2026-01-20
+O02273,C0844,Market Intelligence,243984,Prospecting,Emma,2026-07-16
+O02274,C0085,Market Intelligence,185033,Closed Lost,David,2026-02-20
+O02275,C0991,Market Intelligence,43059,Closed Won,Alice,2026-11-05
+O02276,C0750,Market Intelligence,35293,Proposal,Bob,2026-02-28
+O02277,C0704,ESG Analytics,125676,Closed Won,David,2026-11-05
+O02278,C0055,Market Intelligence,163816,Prospecting,Alice,2026-02-13
+O02279,C0413,Market Intelligence,38948,Proposal,Alice,2026-02-20
+O02280,C0739,Market Intelligence,122044,Proposal,Carol,2026-11-24
+O02281,C0948,ESG Analytics,204216,Closed Won,Bob,2026-04-20
+O02282,C0765,ESG Analytics,61122,Prospecting,Carol,2026-10-07
+O02283,C0442,Commodity Insights,93424,Proposal,Emma,2026-01-22
+O02284,C0184,Commodity Insights,175557,Negotiation,Emma,2026-02-05
+O02285,C0783,Commodity Insights,51173,Prospecting,Alice,2026-05-01
+O02286,C0809,ESG Analytics,184055,Closed Won,Emma,2026-03-11
+O02287,C0881,Market Intelligence,156107,Negotiation,Bob,2026-03-20
+O02288,C0294,Commodity Insights,38766,Prospecting,Emma,2026-04-23
+O02289,C0868,Commodity Insights,96743,Closed Won,Alice,2026-12-24
+O02290,C0671,Market Intelligence,216120,Proposal,Emma,2026-10-12
+O02291,C0132,ESG Analytics,157950,Closed Won,Alice,2026-02-08
+O02292,C0993,Commodity Insights,36103,Proposal,Carol,2026-04-14
+O02293,C0958,Commodity Insights,149099,Negotiation,Emma,2026-06-13
+O02294,C0315,Market Intelligence,60577,Prospecting,Carol,2026-02-24
+O02295,C0798,Market Intelligence,11722,Proposal,David,2026-01-14
+O02296,C0127,Commodity Insights,166022,Proposal,David,2026-04-18
+O02297,C0507,Commodity Insights,20809,Proposal,Emma,2026-10-02
+O02298,C0454,ESG Analytics,194149,Prospecting,David,2026-07-28
+O02299,C0605,Market Intelligence,113092,Proposal,Bob,2026-03-28
+O02300,C0289,ESG Analytics,175418,Prospecting,Carol,2026-06-09
+O02301,C0976,Market Intelligence,221994,Prospecting,Bob,2026-12-23
+O02302,C0888,Commodity Insights,13489,Proposal,Alice,2026-02-01
+O02303,C0631,Commodity Insights,243021,Closed Won,David,2026-10-25
+O02304,C0656,Commodity Insights,101617,Closed Won,Carol,2026-10-03
+O02305,C0380,Commodity Insights,159697,Negotiation,Carol,2026-05-14
+O02306,C0864,Market Intelligence,69512,Negotiation,David,2026-02-05
+O02307,C0857,Commodity Insights,126043,Closed Won,Alice,2026-02-02
+O02308,C0569,Market Intelligence,206629,Prospecting,Emma,2026-02-02
+O02309,C0213,Market Intelligence,216313,Closed Won,Emma,2026-04-04
+O02310,C0461,Commodity Insights,77396,Prospecting,David,2026-03-14
+O02311,C0529,Market Intelligence,147704,Prospecting,Emma,2026-02-26
+O02312,C0745,ESG Analytics,101008,Closed Won,Alice,2026-03-19
+O02313,C0032,ESG Analytics,33359,Negotiation,Alice,2026-08-03
+O02314,C0201,ESG Analytics,16128,Closed Won,David,2026-02-08
+O02315,C0056,Commodity Insights,191809,Proposal,Carol,2026-02-02
+O02316,C0833,Commodity Insights,99665,Closed Lost,Carol,2026-08-10
+O02317,C0205,Commodity Insights,50870,Prospecting,Bob,2026-01-01
+O02318,C0579,Commodity Insights,52638,Negotiation,Emma,2026-09-22
+O02319,C0364,Commodity Insights,116649,Closed Won,Emma,2026-05-16
+O02320,C0031,Market Intelligence,36587,Closed Lost,Alice,2026-06-07
+O02321,C0688,Market Intelligence,164111,Closed Won,Bob,2026-08-09
+O02322,C0859,Commodity Insights,238212,Closed Won,David,2026-03-03
+O02323,C0362,ESG Analytics,21796,Closed Lost,Bob,2026-03-23
+O02324,C0875,Commodity Insights,9975,Prospecting,Alice,2026-05-13
+O02325,C0425,Commodity Insights,31258,Negotiation,Carol,2026-11-19
+O02326,C0026,Market Intelligence,213431,Prospecting,Alice,2026-08-19
+O02327,C0498,ESG Analytics,127515,Prospecting,Carol,2026-01-01
+O02328,C0767,ESG Analytics,73863,Closed Lost,Bob,2026-09-25
+O02329,C0965,ESG Analytics,22811,Closed Lost,Carol,2026-10-01
+O02330,C0323,Market Intelligence,180036,Prospecting,Carol,2026-03-02
+O02331,C0262,ESG Analytics,164606,Closed Lost,Alice,2026-10-10
+O02332,C0663,ESG Analytics,220406,Closed Won,David,2026-10-17
+O02333,C0505,ESG Analytics,63636,Prospecting,Bob,2026-08-19
+O02334,C0450,ESG Analytics,36530,Closed Won,David,2026-10-18
+O02335,C0768,Commodity Insights,31753,Closed Won,David,2026-02-05
+O02336,C0222,Commodity Insights,80144,Prospecting,David,2026-08-19
+O02337,C0273,Market Intelligence,66157,Proposal,Carol,2026-07-06
+O02338,C0216,ESG Analytics,185586,Closed Lost,Emma,2026-10-10
+O02339,C0597,ESG Analytics,244067,Prospecting,Emma,2026-08-26
+O02340,C0016,Market Intelligence,191512,Negotiation,Bob,2026-07-28
+O02341,C0979,ESG Analytics,41586,Prospecting,Bob,2026-08-02
+O02342,C0528,Commodity Insights,219909,Closed Lost,Bob,2026-02-03
+O02343,C0421,Market Intelligence,225470,Proposal,Alice,2026-11-26
+O02344,C0677,ESG Analytics,73024,Prospecting,Emma,2026-02-08
+O02345,C0379,ESG Analytics,188977,Closed Lost,Emma,2026-09-20
+O02346,C0517,ESG Analytics,122592,Proposal,Alice,2026-02-15
+O02347,C0986,Market Intelligence,196615,Closed Lost,Emma,2026-11-19
+O02348,C0988,Commodity Insights,248218,Closed Lost,Alice,2026-02-18
+O02349,C0951,Commodity Insights,239399,Negotiation,Carol,2026-09-05
+O02350,C0165,Market Intelligence,123303,Negotiation,Emma,2026-09-24
+O02351,C0950,Market Intelligence,154707,Closed Won,Emma,2026-06-15
+O02352,C0955,Market Intelligence,146321,Proposal,Alice,2026-01-09
+O02353,C0554,Market Intelligence,114782,Closed Won,Carol,2026-08-22
+O02354,C0096,Market Intelligence,225756,Proposal,David,2026-10-03
+O02355,C0307,ESG Analytics,110704,Prospecting,Alice,2026-03-17
+O02356,C0913,Commodity Insights,181774,Closed Lost,Carol,2026-03-20
+O02357,C0687,Commodity Insights,151719,Closed Lost,Bob,2026-08-24
+O02358,C0771,Commodity Insights,156675,Closed Won,Alice,2026-05-02
+O02359,C0603,Commodity Insights,65119,Prospecting,Carol,2026-02-26
+O02360,C0595,Commodity Insights,34489,Negotiation,David,2026-01-16
+O02361,C0922,ESG Analytics,173382,Proposal,Bob,2026-08-10
+O02362,C0691,ESG Analytics,150021,Closed Lost,Bob,2026-06-24
+O02363,C0387,Commodity Insights,33051,Closed Won,Emma,2026-11-22
+O02364,C0657,Commodity Insights,52638,Negotiation,Alice,2026-10-14
+O02365,C0719,ESG Analytics,79197,Closed Lost,David,2026-07-18
+O02366,C0255,ESG Analytics,74423,Closed Lost,David,2026-01-09
+O02367,C0464,ESG Analytics,86892,Proposal,Alice,2026-08-01
+O02368,C0157,ESG Analytics,93609,Prospecting,David,2026-03-06
+O02369,C0956,Commodity Insights,157042,Proposal,David,2026-05-18
+O02370,C0560,Market Intelligence,5089,Closed Lost,Emma,2026-04-09
+O02371,C0548,Commodity Insights,144645,Closed Lost,Bob,2026-10-02
+O02372,C0902,Commodity Insights,41034,Negotiation,David,2026-08-05
+O02373,C0771,ESG Analytics,121699,Closed Lost,Emma,2026-02-14
+O02374,C0023,ESG Analytics,223371,Prospecting,Alice,2026-05-03
+O02375,C0220,Market Intelligence,158746,Proposal,Carol,2026-11-25
+O02376,C0615,ESG Analytics,218611,Proposal,Bob,2026-12-14
+O02377,C0111,Market Intelligence,60926,Closed Won,David,2026-01-11
+O02378,C0192,Market Intelligence,16479,Negotiation,Carol,2026-09-17
+O02379,C0097,Commodity Insights,92149,Prospecting,Bob,2026-06-09
+O02380,C0769,Commodity Insights,134916,Proposal,Carol,2026-02-20
+O02381,C0100,Commodity Insights,88331,Prospecting,Bob,2026-12-10
+O02382,C0281,Market Intelligence,211490,Closed Lost,David,2026-07-28
+O02383,C0065,Commodity Insights,203077,Closed Won,Alice,2026-09-05
+O02384,C0717,Commodity Insights,160856,Closed Lost,Emma,2026-09-21
+O02385,C0043,ESG Analytics,146830,Prospecting,David,2026-08-27
+O02386,C0565,Market Intelligence,30401,Negotiation,Alice,2026-08-09
+O02387,C0424,ESG Analytics,227243,Prospecting,Bob,2026-06-20
+O02388,C0190,Commodity Insights,169256,Closed Won,Carol,2026-09-14
+O02389,C0632,ESG Analytics,146139,Closed Lost,Bob,2026-12-19
+O02390,C0406,ESG Analytics,167147,Closed Lost,David,2026-05-17
+O02391,C0391,ESG Analytics,86880,Prospecting,Carol,2026-06-19
+O02392,C0268,Commodity Insights,215653,Prospecting,Alice,2026-02-20
+O02393,C0139,ESG Analytics,162052,Proposal,Alice,2026-11-25
+O02394,C0490,Commodity Insights,69591,Closed Won,Alice,2026-06-04
+O02395,C0073,Commodity Insights,25606,Closed Won,Alice,2026-04-27
+O02396,C0611,ESG Analytics,202317,Closed Lost,David,2026-04-14
+O02397,C0322,Market Intelligence,112686,Proposal,Alice,2026-09-19
+O02398,C0267,Commodity Insights,102619,Closed Lost,Alice,2026-07-16
+O02399,C0008,Market Intelligence,11494,Closed Lost,Emma,2026-05-26
+O02400,C0140,Commodity Insights,144028,Closed Lost,Carol,2026-03-02
+O02401,C0301,Commodity Insights,103315,Negotiation,Emma,2026-10-14
+O02402,C0442,Commodity Insights,112599,Prospecting,Carol,2026-07-09
+O02403,C0166,Market Intelligence,220008,Negotiation,Carol,2026-07-28
+O02404,C0373,Commodity Insights,203250,Closed Won,Carol,2026-09-01
+O02405,C0585,Commodity Insights,210132,Negotiation,Carol,2026-04-07
+O02406,C0801,ESG Analytics,216095,Closed Lost,Alice,2026-07-05
+O02407,C0249,Commodity Insights,72656,Closed Won,David,2026-03-28
+O02408,C0649,Market Intelligence,206962,Closed Won,Carol,2026-12-10
+O02409,C0056,Market Intelligence,108937,Negotiation,Emma,2026-10-12
+O02410,C0235,Market Intelligence,7400,Closed Won,Bob,2026-03-04
+O02411,C0180,Market Intelligence,82099,Proposal,David,2026-07-16
+O02412,C0711,ESG Analytics,129242,Negotiation,David,2026-03-25
+O02413,C0324,ESG Analytics,22650,Closed Won,Alice,2026-02-03
+O02414,C0182,Commodity Insights,190897,Prospecting,Alice,2026-06-28
+O02415,C0516,Commodity Insights,144829,Closed Lost,David,2026-01-01
+O02416,C0779,ESG Analytics,8935,Prospecting,David,2026-10-17
+O02417,C0406,Commodity Insights,191375,Closed Won,Emma,2026-03-07
+O02418,C0896,Market Intelligence,50321,Closed Lost,Emma,2026-06-15
+O02419,C0954,Market Intelligence,249052,Negotiation,David,2026-03-23
+O02420,C0419,Commodity Insights,228541,Proposal,David,2026-02-05
+O02421,C0748,Market Intelligence,246047,Proposal,Alice,2026-04-17
+O02422,C0258,Market Intelligence,197784,Closed Won,Carol,2026-04-14
+O02423,C0355,ESG Analytics,159335,Closed Won,Emma,2026-01-15
+O02424,C0568,Commodity Insights,219696,Proposal,Carol,2026-05-17
+O02425,C0180,Commodity Insights,38532,Prospecting,Emma,2026-12-25
+O02426,C0239,ESG Analytics,90013,Negotiation,Carol,2026-05-02
+O02427,C0033,ESG Analytics,117521,Negotiation,Carol,2026-11-12
+O02428,C0293,ESG Analytics,127479,Negotiation,Bob,2026-04-28
+O02429,C0902,Market Intelligence,34203,Proposal,Bob,2026-03-23
+O02430,C0459,Commodity Insights,206785,Closed Lost,Emma,2026-12-24
+O02431,C0504,ESG Analytics,167736,Prospecting,David,2026-08-25
+O02432,C0408,Market Intelligence,68673,Negotiation,Bob,2026-08-06
+O02433,C0032,Market Intelligence,232438,Closed Lost,Emma,2026-07-22
+O02434,C0174,Market Intelligence,240336,Closed Won,Carol,2026-12-01
+O02435,C0671,ESG Analytics,20932,Prospecting,Emma,2026-07-08
+O02436,C0847,Market Intelligence,71828,Negotiation,Bob,2026-01-13
+O02437,C0624,Market Intelligence,90196,Closed Lost,Emma,2026-03-09
+O02438,C0640,Market Intelligence,91775,Proposal,Carol,2026-01-02
+O02439,C0879,ESG Analytics,211527,Prospecting,Emma,2026-02-23
+O02440,C0894,Commodity Insights,120485,Closed Won,Emma,2026-05-17
+O02441,C0927,Market Intelligence,225872,Closed Won,Carol,2026-03-09
+O02442,C0261,Commodity Insights,245330,Negotiation,Carol,2026-05-14
+O02443,C0055,ESG Analytics,60119,Closed Lost,Carol,2026-12-03
+O02444,C0487,ESG Analytics,167408,Proposal,David,2026-12-26
+O02445,C0566,Market Intelligence,9081,Negotiation,Bob,2026-11-20
+O02446,C0127,Market Intelligence,145674,Closed Won,Emma,2026-09-22
+O02447,C0262,ESG Analytics,197765,Closed Won,Emma,2026-10-19
+O02448,C0436,ESG Analytics,143331,Closed Lost,Bob,2026-12-20
+O02449,C0063,Commodity Insights,87444,Closed Won,Emma,2026-12-05
+O02450,C0858,Commodity Insights,32434,Negotiation,David,2026-11-05
+O02451,C0260,Commodity Insights,65961,Prospecting,Alice,2026-12-20
+O02452,C0554,ESG Analytics,104965,Negotiation,Bob,2026-05-05
+O02453,C0927,Market Intelligence,223009,Closed Lost,Bob,2026-10-15
+O02454,C0167,ESG Analytics,66725,Proposal,Emma,2026-02-05
+O02455,C1000,Market Intelligence,174363,Closed Lost,David,2026-01-13
+O02456,C0943,Market Intelligence,236096,Closed Lost,Bob,2026-03-17
+O02457,C0888,ESG Analytics,247261,Prospecting,Emma,2026-09-07
+O02458,C0172,Market Intelligence,36752,Prospecting,Alice,2026-01-06
+O02459,C0236,Market Intelligence,238036,Prospecting,Alice,2026-02-23
+O02460,C0535,Commodity Insights,125929,Closed Won,David,2026-02-02
+O02461,C0932,Market Intelligence,138149,Closed Lost,Emma,2026-11-16
+O02462,C0733,Commodity Insights,36903,Prospecting,Emma,2026-02-27
+O02463,C0303,Market Intelligence,102693,Closed Won,Alice,2026-05-02
+O02464,C0940,ESG Analytics,66664,Closed Lost,Carol,2026-06-21
+O02465,C0250,ESG Analytics,27295,Closed Lost,Emma,2026-01-26
+O02466,C0495,Commodity Insights,115399,Closed Lost,Bob,2026-04-11
+O02467,C0317,Commodity Insights,232109,Closed Lost,Carol,2026-11-26
+O02468,C0101,Market Intelligence,5956,Proposal,Alice,2026-08-27
+O02469,C0770,Commodity Insights,245123,Proposal,Alice,2026-06-27
+O02470,C0836,Commodity Insights,91356,Closed Lost,David,2026-08-27
+O02471,C0077,Commodity Insights,10123,Prospecting,David,2026-07-22
+O02472,C0400,Commodity Insights,75430,Prospecting,Alice,2026-01-21
+O02473,C0403,Commodity Insights,83404,Prospecting,Alice,2026-12-27
+O02474,C0914,Market Intelligence,78975,Prospecting,David,2026-09-11
+O02475,C0103,Commodity Insights,165987,Closed Lost,Carol,2026-10-16
+O02476,C0043,ESG Analytics,166264,Prospecting,Carol,2026-09-25
+O02477,C0200,Commodity Insights,115019,Closed Lost,Bob,2026-05-18
+O02478,C0145,Commodity Insights,145062,Closed Lost,Emma,2026-10-13
+O02479,C0164,Commodity Insights,164103,Closed Won,Alice,2026-09-08
+O02480,C0553,Commodity Insights,151284,Closed Lost,Emma,2026-11-19
+O02481,C0122,Commodity Insights,143710,Closed Won,Emma,2026-02-12
+O02482,C0032,Commodity Insights,215462,Closed Lost,David,2026-03-12
+O02483,C0465,Market Intelligence,154251,Closed Won,David,2026-01-23
+O02484,C0609,Market Intelligence,38162,Prospecting,Alice,2026-03-14
+O02485,C0903,ESG Analytics,205278,Negotiation,David,2026-11-17
+O02486,C0592,ESG Analytics,222851,Proposal,David,2026-01-10
+O02487,C0081,ESG Analytics,229075,Prospecting,Emma,2026-06-05
+O02488,C0964,Market Intelligence,210511,Closed Won,Carol,2026-06-17
+O02489,C0322,Market Intelligence,125735,Closed Won,David,2026-05-23
+O02490,C0093,ESG Analytics,201071,Proposal,David,2026-05-13
+O02491,C0617,Market Intelligence,210536,Prospecting,Alice,2026-09-22
+O02492,C0817,ESG Analytics,149552,Proposal,Carol,2026-02-20
+O02493,C0730,ESG Analytics,110594,Proposal,David,2026-05-06
+O02494,C0167,Market Intelligence,163114,Closed Won,Carol,2026-09-19
+O02495,C0077,Commodity Insights,18997,Negotiation,Carol,2026-05-05
+O02496,C0108,ESG Analytics,95862,Negotiation,Carol,2026-08-27
+O02497,C0856,Market Intelligence,88613,Closed Won,Emma,2026-03-01
+O02498,C0866,ESG Analytics,42102,Proposal,Carol,2026-08-27
+O02499,C0001,ESG Analytics,155607,Prospecting,Alice,2026-02-21
+O02500,C0409,Market Intelligence,247572,Negotiation,David,2026-05-02
