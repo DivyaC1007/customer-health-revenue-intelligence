@@ -1,6 +1,5 @@
-# Customer Health & Revenue Intelligence Platform
-
-## Business Problem
+# Customer Health Analytics for Subscription Products
+## Business Challenge
 
 Subscription businesses need visibility into customer health, product adoption, churn risk and revenue performance.
 
