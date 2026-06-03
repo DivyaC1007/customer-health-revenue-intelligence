@@ -23,7 +23,7 @@ sales_rep VARCHAR(50),
 close_date DATE
 );
 
-CREATE TABLE usage (
+CREATE TABLE product_usage (
 customer_id VARCHAR(10),
 monthly_logins INT,
 active_users INT,
