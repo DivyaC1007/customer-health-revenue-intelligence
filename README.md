@@ -63,3 +63,17 @@ This project simulates Salesforce CRM data using the following datasets:
 
 The solution provides business stakeholders with a unified view of customer health, revenue performance, product adoption, and churn risk, enabling data-driven decisions that improve customer retention and revenue growth.
 
+## Key Business Insights
+
+### Customer Health Analysis
+Calculated a customer health score using product usage, support activity and renewal behavior.
+
+### Churn Risk Segmentation
+Classified customers into High, Medium and Low Risk groups.
+
+### Revenue At Risk
+Identified approximately $2.19B annual revenue associated with high-risk customers.
+
+### Executive Impact
+Provides leadership with visibility into customer retention risks and revenue protection opportunities.
+
