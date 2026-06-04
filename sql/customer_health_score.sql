@@ -1,3 +1,8 @@
+-- Customer Health Score Analysis
+-- Purpose: Calculate a health score using product usage,
+-- support activity and renewal behavior.
+
+
 SELECT
     customer_id,
     company_name,
